@@ -9,7 +9,7 @@ Phase: content, product data and SEO only. No images, CSS, layout or behaviour w
 - `site/data/i18n.json` – translations (keys are the English strings), `active` languages, markets and hreflang codes.
 - `site/tools/build_pages.py` – builds every page in every active language. Run `python3 site/tools/build_pages.py` after any change.
   If a translation is missing, the build lists it in `site/data/i18n-missing.json`.
-- Output: `/en/`, `/de/`, `/fr/` (one folder per language), root `index.html` (sends visitors to their browser language, otherwise `/en/`), `sitemap.xml` (with hreflang), `robots.txt`.
+- Output: `/en/`, `/de/`, `/fr/`, `/nl/`, `/ko/` (one folder per language), root `index.html` (sends visitors to their browser language, otherwise `/en/`), `sitemap.xml` (with hreflang), `robots.txt`.
 
 ## Language architecture
 
@@ -18,8 +18,8 @@ Phase: content, product data and SEO only. No images, CSS, layout or behaviour w
 | English | /en/ | en, en-US, en-GB, en-AU, en-CA | P1 | Live |
 | German | /de/ | de, de-DE | P1 | Live, all pages translated |
 | French | /fr/ | fr, fr-FR, fr-CA | P1 | Live, all pages translated |
-| Dutch | /nl/ | nl, nl-NL | P2 | Prepared in `markets`; needs translations, then add `nl` to `active` |
-| Korean | /ko/ | ko, ko-KR | P2 | Prepared in `markets`; needs translations, then add `ko` to `active` |
+| Dutch | /nl/ | nl, nl-NL | P2 | Live, all pages translated |
+| Korean | /ko/ | ko, ko-KR | P2 | Live, all pages translated; Korean text uses word-based line breaks (`custom.css`) and the system Korean font (DM Sans has no Hangul) |
 | Arabic | /ar/ | ar, ar-AE | P2 | Needs a separate right-to-left (RTL) development phase |
 | Spanish, Russian | – | – | – | Not in the architecture; translations kept in `i18n.json`, pages not built |
 
@@ -32,6 +32,8 @@ URL slugs stay in English in every language (e.g. `/de/products/terracotta-paver
 | English | Terracotta Tiles. "Handmade Terracotta Tiles" is not used until handmade production is verified. |
 | German | Terrakotta Fliesen, Terracotta Bodenfliesen, Cotto |
 | French | Carrelage terre cuite, Carreaux en terre cuite, Tomettes |
+| Dutch | Terracotta tegels, Terracotta vloertegels |
+| Korean | 테라코타 타일, 테라코타 바닥 타일 |
 
 Search volume and intent should be validated with Keyword Planner.
 
@@ -54,7 +56,7 @@ Search volume and intent should be validated with Keyword Planner.
 
 ## Pages (per language)
 
-Homepage, Product Catalogue, Colour Collection, Custom Artisan Tiles, 6 category pages, 12 product pages, Company, Projects, Magazine, Awards, Contacts, Request a Quote, Technical Information, Materials & Craft, Installation & Care, and 6 legal placeholders (noindex). 37 pages × 3 languages.
+Homepage, Product Catalogue, Colour Collection, Custom Artisan Tiles, 6 category pages, 12 product pages, Company, Projects, Magazine, Awards, Contacts, Request a Quote, Technical Information, Materials & Craft, Installation & Care, and 6 legal placeholders (noindex). 37 pages × 5 languages.
 
 ## Domain
 
