@@ -1,0 +1,1033 @@
+{
+  "_note": "Homepage translations. Keys are the English strings in index.html. Colour names and the brand name stay in English.",
+  "languages": {
+    "fr": {
+      "name": "Français",
+      "locale": "fr_FR"
+    },
+    "de": {
+      "name": "Deutsch",
+      "locale": "de_DE"
+    },
+    "es": {
+      "name": "Español",
+      "locale": "es_ES"
+    },
+    "ru": {
+      "name": "Русский",
+      "locale": "ru_RU"
+    }
+  },
+  "strings": {
+    "About TERRACOTTA": {
+      "fr": "À propos de TERRACOTTA",
+      "de": "Über TERRACOTTA",
+      "es": "Sobre TERRACOTTA",
+      "ru": "О TERRACOTTA"
+    },
+    "About TERRACOTTA | The Art of Earth": {
+      "fr": "À propos de TERRACOTTA | The Art of Earth",
+      "de": "Über TERRACOTTA | The Art of Earth",
+      "es": "Sobre TERRACOTTA | The Art of Earth",
+      "ru": "О TERRACOTTA | The Art of Earth"
+    },
+    "Accessibility Statement": {
+      "fr": "Déclaration d'accessibilité",
+      "de": "Erklärung zur Barrierefreiheit",
+      "es": "Declaración de accesibilidad",
+      "ru": "Заявление о доступности"
+    },
+    "Architecture & Design": {
+      "fr": "Architecture & Design",
+      "de": "Architektur & Design",
+      "es": "Arquitectura y Diseño",
+      "ru": "Архитектура и дизайн"
+    },
+    "Available sizes, surface finishes and technical specifications will be published after production validation. For project details, special formats or samples, contact our team and request a quote.": {
+      "fr": "Les formats disponibles, les finitions de surface et les caractéristiques techniques seront publiés après validation de la production. Pour les détails de votre projet, des formats spéciaux ou des échantillons, contactez notre équipe et demandez un devis.",
+      "de": "Verfügbare Formate, Oberflächen und technische Daten werden nach der Produktionsfreigabe veröffentlicht. Für Projektdetails, Sonderformate oder Muster wenden Sie sich an unser Team und fordern Sie ein Angebot an.",
+      "es": "Los formatos disponibles, los acabados de superficie y las especificaciones técnicas se publicarán tras la validación de la producción. Para detalles de proyecto, formatos especiales o muestras, contacte con nuestro equipo y solicite un presupuesto.",
+      "ru": "Доступные размеры, отделка поверхности и технические характеристики будут опубликованы после подтверждения производства. Чтобы обсудить проект, специальные форматы или образцы, свяжитесь с нашей командой и запросите коммерческое предложение."
+    },
+    "Awards": {
+      "fr": "Prix",
+      "de": "Auszeichnungen",
+      "es": "Premios",
+      "ru": "Награды"
+    },
+    "Back to top": {
+      "fr": "Retour en haut",
+      "de": "Nach oben",
+      "es": "Volver arriba",
+      "ru": "Наверх"
+    },
+    "Bathroom": {
+      "fr": "Salle de bain",
+      "de": "Badezimmer",
+      "es": "Baño",
+      "ru": "Ванная"
+    },
+    "Bathroom Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour salle de bain | TERRACOTTA",
+      "de": "Terrakottafliesen für das Badezimmer | TERRACOTTA",
+      "es": "Baldosas de terracota para baño | TERRACOTTA",
+      "ru": "Терракотовая плитка для ванной | TERRACOTTA"
+    },
+    "Bedroom": {
+      "fr": "Chambre",
+      "de": "Schlafzimmer",
+      "es": "Dormitorio",
+      "ru": "Спальня"
+    },
+    "Bedroom Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour chambre | TERRACOTTA",
+      "de": "Terrakottafliesen für das Schlafzimmer | TERRACOTTA",
+      "es": "Baldosas de terracota para dormitorio | TERRACOTTA",
+      "ru": "Терракотовая плитка для спальни | TERRACOTTA"
+    },
+    "Brick Tiles": {
+      "fr": "Briquettes",
+      "de": "Ziegelfliesen",
+      "es": "Baldosas tipo ladrillo",
+      "ru": "Плитка-кирпич"
+    },
+    "Categories": {
+      "fr": "Catégories",
+      "de": "Kategorien",
+      "es": "Categorías",
+      "ru": "Категории"
+    },
+    "Choose language": {
+      "fr": "Choisir la langue",
+      "de": "Sprache wählen",
+      "es": "Elegir idioma",
+      "ru": "Выберите язык"
+    },
+    "Code of Ethics": {
+      "fr": "Code d'éthique",
+      "de": "Verhaltenskodex",
+      "es": "Código ético",
+      "ru": "Этический кодекс"
+    },
+    "Colour Collection": {
+      "fr": "Collection de couleurs",
+      "de": "Farbkollektion",
+      "es": "Colección de colores",
+      "ru": "Коллекция цветов"
+    },
+    "Colours": {
+      "fr": "Couleurs",
+      "de": "Farben",
+      "es": "Colores",
+      "ru": "Цвета"
+    },
+    "Commercial Spaces": {
+      "fr": "Espaces commerciaux",
+      "de": "Gewerbeflächen",
+      "es": "Espacios comerciales",
+      "ru": "Коммерческие пространства"
+    },
+    "Commercial Spaces Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour espaces commerciaux | TERRACOTTA",
+      "de": "Terrakottafliesen für Gewerbeflächen | TERRACOTTA",
+      "es": "Baldosas de terracota para espacios comerciales | TERRACOTTA",
+      "ru": "Терракотовая плитка для коммерческих пространств | TERRACOTTA"
+    },
+    "Company": {
+      "fr": "Entreprise",
+      "de": "Unternehmen",
+      "es": "Empresa",
+      "ru": "Компания"
+    },
+    "Concepts for patios, terraces, gardens and poolside spaces.": {
+      "fr": "Des idées pour patios, terrasses, jardins et abords de piscine.",
+      "de": "Konzepte für Patios, Terrassen, Gärten und Poolbereiche.",
+      "es": "Propuestas para patios, terrazas, jardines y zonas de piscina.",
+      "ru": "Идеи для патио, террас, садов и зон у бассейна."
+    },
+    "Contacts": {
+      "fr": "Contacts",
+      "de": "Kontakt",
+      "es": "Contacto",
+      "ru": "Контакты"
+    },
+    "Cookie Policy": {
+      "fr": "Politique relative aux cookies",
+      "de": "Cookie-Richtlinie",
+      "es": "Política de cookies",
+      "ru": "Политика использования cookie"
+    },
+    "Custom Artisan Tiles": {
+      "fr": "Carreaux sur mesure",
+      "de": "Individuelle Manufakturfliesen",
+      "es": "Baldosas artesanales a medida",
+      "ru": "Индивидуальная авторская плитка"
+    },
+    "Custom Artisan Tiles | TERRACOTTA": {
+      "fr": "Carreaux sur mesure | TERRACOTTA",
+      "de": "Individuelle Manufakturfliesen | TERRACOTTA",
+      "es": "Baldosas artesanales a medida | TERRACOTTA",
+      "ru": "Индивидуальная авторская плитка | TERRACOTTA"
+    },
+    "Decorative Relief Tiles": {
+      "fr": "Carreaux décoratifs en relief",
+      "de": "Dekorative Relieffliesen",
+      "es": "Baldosas decorativas en relieve",
+      "ru": "Декоративная рельефная плитка"
+    },
+    "Decorative Relief Tiles | TERRACOTTA": {
+      "fr": "Carreaux décoratifs en relief | TERRACOTTA",
+      "de": "Dekorative Relieffliesen | TERRACOTTA",
+      "es": "Baldosas decorativas en relieve | TERRACOTTA",
+      "ru": "Декоративная рельефная плитка | TERRACOTTA"
+    },
+    "Decorative Terracotta Tiles": {
+      "fr": "Carreaux décoratifs en terre cuite",
+      "de": "Dekorative Terrakottafliesen",
+      "es": "Baldosas decorativas de terracota",
+      "ru": "Декоративная терракотовая плитка"
+    },
+    "Decorative Terracotta Tiles bring pattern, rhythm and texture to floors and walls. Hexagon Terracotta Tiles create geometric compositions that work as a full surface or as a feature area, while Decorative Relief Tiles add embossed, textured and patterned surfaces to every project. Colours and formats for each design will be confirmed with verified product data, so decorative areas can be planned to contrast with or complement the surrounding floors and walls.": {
+      "fr": "Les carreaux décoratifs en terre cuite apportent motifs, rythme et texture aux sols et aux murs. Les carreaux hexagonaux créent des compositions géométriques, en surface complète ou en zone d'accent, tandis que les carreaux décoratifs en relief ajoutent des surfaces embossées, texturées et ornées à chaque projet. Les couleurs et formats de chaque modèle seront confirmés par des données produit vérifiées, afin que les zones décoratives puissent être pensées en contraste ou en harmonie avec les sols et murs environnants.",
+      "de": "Dekorative Terrakottafliesen bringen Muster, Rhythmus und Struktur auf Böden und Wände. Sechseckige Terrakottafliesen schaffen geometrische Kompositionen für ganze Flächen oder Akzentbereiche, während dekorative Relieffliesen jedem Projekt geprägte, strukturierte und gemusterte Oberflächen verleihen. Farben und Formate jedes Designs werden mit geprüften Produktdaten bestätigt, damit dekorative Bereiche im Kontrast oder im Einklang mit den umgebenden Böden und Wänden geplant werden können.",
+      "es": "Las baldosas decorativas de terracota aportan patrón, ritmo y textura a suelos y paredes. Las baldosas hexagonales crean composiciones geométricas para superficies completas o zonas de acento, mientras que las baldosas decorativas en relieve añaden superficies grabadas, texturizadas y estampadas a cada proyecto. Los colores y formatos de cada diseño se confirmarán con datos de producto verificados, para que las zonas decorativas puedan planificarse en contraste o en armonía con los suelos y paredes del entorno.",
+      "ru": "Декоративная терракотовая плитка придаёт полам и стенам узор, ритм и фактуру. Шестигранная терракотовая плитка создаёт геометрические композиции — на всей поверхности или в виде акцентной зоны, а декоративная рельефная плитка добавляет каждому проекту тиснёные, фактурные и узорчатые поверхности. Цвета и форматы каждого дизайна будут подтверждены проверенными данными о продукции, чтобы декоративные зоны можно было планировать в контрасте или в гармонии с окружающими полами и стенами."
+    },
+    "Decorative Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux décoratifs en terre cuite | TERRACOTTA",
+      "de": "Dekorative Terrakottafliesen | TERRACOTTA",
+      "es": "Baldosas decorativas de terracota | TERRACOTTA",
+      "ru": "Декоративная терракотовая плитка | TERRACOTTA"
+    },
+    "Decorative Tiles": {
+      "fr": "Carreaux décoratifs",
+      "de": "Dekorfliesen",
+      "es": "Baldosas decorativas",
+      "ru": "Декоративная плитка"
+    },
+    "Designing Outdoor Spaces with Natural Materials": {
+      "fr": "Concevoir des espaces extérieurs avec des matériaux naturels",
+      "de": "Außenbereiche mit natürlichen Materialien gestalten",
+      "es": "Diseñar espacios exteriores con materiales naturales",
+      "ru": "Проектирование открытых пространств из натуральных материалов"
+    },
+    "Designing Outdoor Spaces with Natural Materials | TERRACOTTA Magazine": {
+      "fr": "Concevoir des espaces extérieurs avec des matériaux naturels | Magazine TERRACOTTA",
+      "de": "Außenbereiche mit natürlichen Materialien gestalten | TERRACOTTA Magazin",
+      "es": "Diseñar espacios exteriores con materiales naturales | Revista TERRACOTTA",
+      "ru": "Проектирование открытых пространств из натуральных материалов | Журнал TERRACOTTA"
+    },
+    "Discover Decorative Tiles": {
+      "fr": "Découvrir les carreaux décoratifs",
+      "de": "Dekorfliesen entdecken",
+      "es": "Descubrir las baldosas decorativas",
+      "ru": "Открыть декоративную плитку"
+    },
+    "Discover distinctive terracotta designs and explore possibilities for customised architectural projects.": {
+      "fr": "Découvrez des créations en terre cuite singulières et explorez les possibilités pour des projets architecturaux personnalisés.",
+      "de": "Entdecken Sie unverwechselbare Terrakotta-Designs und die Möglichkeiten für individuelle Architekturprojekte.",
+      "es": "Descubra diseños de terracota singulares y explore posibilidades para proyectos arquitectónicos personalizados.",
+      "ru": "Откройте для себя выразительные терракотовые решения и возможности для индивидуальных архитектурных проектов."
+    },
+    "Discover the TERRACOTTA collection through six architectural categories and twelve distinctive product types. Explore natural clay forms, earthy colours and design possibilities for every space.": {
+      "fr": "Découvrez la collection TERRACOTTA à travers six catégories architecturales et douze types de produits distinctifs. Explorez les formes de l'argile naturelle, les couleurs de la terre et les possibilités de design pour chaque espace.",
+      "de": "Entdecken Sie die TERRACOTTA Kollektion in sechs architektonischen Kategorien und zwölf unverwechselbaren Produkttypen. Erkunden Sie Formen aus natürlichem Ton, erdige Farben und Gestaltungsmöglichkeiten für jeden Raum.",
+      "es": "Descubra la colección TERRACOTTA a través de seis categorías arquitectónicas y doce tipos de producto distintivos. Explore las formas de la arcilla natural, los colores de la tierra y las posibilidades de diseño para cada espacio.",
+      "ru": "Откройте коллекцию TERRACOTTA: шесть архитектурных категорий и двенадцать выразительных типов продукции. Исследуйте формы натуральной глины, землистые цвета и дизайнерские возможности для любого пространства."
+    },
+    "Discover twelve earthy shades inspired by clay, stone, nature and Mediterranean landscapes.": {
+      "fr": "Découvrez douze teintes terreuses inspirées de l'argile, de la pierre, de la nature et des paysages méditerranéens.",
+      "de": "Entdecken Sie zwölf erdige Farbtöne, inspiriert von Ton, Stein, Natur und mediterranen Landschaften.",
+      "es": "Descubra doce tonos terrosos inspirados en la arcilla, la piedra, la naturaleza y los paisajes mediterráneos.",
+      "ru": "Откройте двенадцать землистых оттенков, вдохновлённых глиной, камнем, природой и средиземноморскими пейзажами."
+    },
+    "Distribution Enquiries": {
+      "fr": "Demandes de distribution",
+      "de": "Vertriebsanfragen",
+      "es": "Consultas de distribución",
+      "ru": "Запросы по дистрибуции"
+    },
+    "EXPLORE THE COLLECTION": {
+      "fr": "EXPLOREZ LA COLLECTION",
+      "de": "ENTDECKEN SIE DIE KOLLEKTION",
+      "es": "EXPLORE LA COLECCIÓN",
+      "ru": "ОТКРОЙТЕ КОЛЛЕКЦИЮ"
+    },
+    "Ethics and Compliance": {
+      "fr": "Éthique et conformité",
+      "de": "Ethik und Compliance",
+      "es": "Ética y cumplimiento",
+      "ru": "Этика и комплаенс"
+    },
+    "Every TERRACOTTA product card lists its product name, category, product type, available colours, available sizes, surface & finish, product description and technical specifications, together with a direct request for a quote.": {
+      "fr": "Chaque fiche produit TERRACOTTA indique le nom du produit, la catégorie, le type de produit, les couleurs et formats disponibles, la surface et la finition, la description et les caractéristiques techniques, avec une demande de devis directe.",
+      "de": "Jede TERRACOTTA Produktkarte nennt Produktname, Kategorie, Produkttyp, verfügbare Farben und Formate, Oberfläche & Finish, Produktbeschreibung und technische Daten – zusammen mit einer direkten Angebotsanfrage.",
+      "es": "Cada ficha de producto TERRACOTTA indica el nombre del producto, la categoría, el tipo de producto, los colores y formatos disponibles, la superficie y el acabado, la descripción y las especificaciones técnicas, junto con una solicitud de presupuesto directa.",
+      "ru": "Каждая карточка продукта TERRACOTTA содержит название, категорию, тип продукта, доступные цвета и размеры, поверхность и отделку, описание и технические характеристики, а также прямой запрос коммерческого предложения."
+    },
+    "Explore Projects": {
+      "fr": "Explorer les projets",
+      "de": "Projekte entdecken",
+      "es": "Explorar proyectos",
+      "ru": "Смотреть проекты"
+    },
+    "Explore architectural spaces and design concepts inspired by the natural character of terracotta. Discover how colour, texture and material selection contribute to distinctive environments.": {
+      "fr": "Explorez des espaces architecturaux et des concepts de design inspirés du caractère naturel de la terre cuite. Découvrez comment la couleur, la texture et le choix des matériaux façonnent des lieux singuliers.",
+      "de": "Entdecken Sie architektonische Räume und Designkonzepte, inspiriert vom natürlichen Charakter der Terrakotta. Erfahren Sie, wie Farbe, Struktur und Materialwahl unverwechselbare Umgebungen prägen.",
+      "es": "Explore espacios arquitectónicos y conceptos de diseño inspirados en el carácter natural de la terracota. Descubra cómo el color, la textura y la elección de materiales contribuyen a crear entornos singulares.",
+      "ru": "Исследуйте архитектурные пространства и дизайнерские концепции, вдохновлённые природным характером терракоты. Узнайте, как цвет, фактура и выбор материалов создают выразительную среду."
+    },
+    "Explore the TERRACOTTA collection of natural clay tiles, architectural surfaces and decorative formats.": {
+      "fr": "Explorez la collection TERRACOTTA de carreaux en argile naturelle, de surfaces architecturales et de formats décoratifs.",
+      "de": "Entdecken Sie die TERRACOTTA Kollektion aus Fliesen aus natürlichem Ton, architektonischen Oberflächen und dekorativen Formaten.",
+      "es": "Explore la colección TERRACOTTA de baldosas de arcilla natural, superficies arquitectónicas y formatos decorativos.",
+      "ru": "Откройте коллекцию TERRACOTTA: плитка из натуральной глины, архитектурные поверхности и декоративные форматы."
+    },
+    "Featured": {
+      "fr": "À la une",
+      "de": "Empfohlen",
+      "es": "Destacados",
+      "ru": "Рекомендуем"
+    },
+    "Find out more": {
+      "fr": "En savoir plus",
+      "de": "Mehr erfahren",
+      "es": "Más información",
+      "ru": "Подробнее"
+    },
+    "Floor Tiles": {
+      "fr": "Sols",
+      "de": "Bodenfliesen",
+      "es": "Baldosas de suelo",
+      "ru": "Напольная плитка"
+    },
+    "General Sales Conditions": {
+      "fr": "Conditions générales de vente",
+      "de": "Allgemeine Verkaufsbedingungen",
+      "es": "Condiciones generales de venta",
+      "ru": "Общие условия продажи"
+    },
+    "Get in Touch with Our Tile Experts": {
+      "fr": "Contactez nos experts",
+      "de": "Kontaktieren Sie unsere Fliesenexperten",
+      "es": "Contacte con nuestros expertos",
+      "ru": "Свяжитесь с нашими специалистами"
+    },
+    "Hexagon Terracotta Tiles": {
+      "fr": "Carreaux hexagonaux en terre cuite",
+      "de": "Sechseckige Terrakottafliesen",
+      "es": "Baldosas hexagonales de terracota",
+      "ru": "Шестигранная терракотовая плитка"
+    },
+    "Hexagon Terracotta Tiles | Geometric Clay Designs": {
+      "fr": "Carreaux hexagonaux en terre cuite | Motifs géométriques en argile",
+      "de": "Sechseckige Terrakottafliesen | Geometrische Designs aus Ton",
+      "es": "Baldosas hexagonales de terracota | Diseños geométricos en arcilla",
+      "ru": "Шестигранная терракотовая плитка | Геометрические решения из глины"
+    },
+    "Hexagon Tiles": {
+      "fr": "Carreaux hexagonaux",
+      "de": "Sechseckfliesen",
+      "es": "Baldosas hexagonales",
+      "ru": "Шестигранная плитка"
+    },
+    "Homepage": {
+      "fr": "Accueil",
+      "de": "Startseite",
+      "es": "Inicio",
+      "ru": "Главная"
+    },
+    "Hospitality": {
+      "fr": "Hôtellerie",
+      "de": "Hotellerie",
+      "es": "Hostelería",
+      "ru": "Гостиничный сектор"
+    },
+    "Hospitality | Projects & Inspiration": {
+      "fr": "Hôtellerie | Projets & Inspiration",
+      "de": "Hotellerie | Projekte & Inspiration",
+      "es": "Hostelería | Proyectos e inspiración",
+      "ru": "Гостиничный сектор | Проекты и вдохновение"
+    },
+    "How to Use Earth Tones in Contemporary Interiors": {
+      "fr": "Utiliser les tons terre dans les intérieurs contemporains",
+      "de": "Erdtöne in zeitgenössischen Interieurs einsetzen",
+      "es": "Cómo usar los tonos tierra en interiores contemporáneos",
+      "ru": "Как использовать землистые оттенки в современных интерьерах"
+    },
+    "How to Use Earth Tones in Contemporary Interiors | TERRACOTTA Magazine": {
+      "fr": "Utiliser les tons terre dans les intérieurs contemporains | Magazine TERRACOTTA",
+      "de": "Erdtöne in zeitgenössischen Interieurs einsetzen | TERRACOTTA Magazin",
+      "es": "Cómo usar los tonos tierra en interiores contemporáneos | Revista TERRACOTTA",
+      "ru": "Как использовать землистые оттенки в современных интерьерах | Журнал TERRACOTTA"
+    },
+    "Ideas for homes and private residences shaped by natural clay.": {
+      "fr": "Des idées pour des maisons et résidences privées façonnées par l'argile naturelle.",
+      "de": "Ideen für Häuser und Privatresidenzen, geprägt von natürlichem Ton.",
+      "es": "Ideas para viviendas y residencias privadas definidas por la arcilla natural.",
+      "ru": "Идеи для домов и частных резиденций из натуральной глины."
+    },
+    "Informations": {
+      "fr": "Informations",
+      "de": "Informationen",
+      "es": "Información",
+      "ru": "Информация"
+    },
+    "Inspiration for boutique hotels and hospitality spaces.": {
+      "fr": "De l'inspiration pour les hôtels boutique et les espaces d'accueil.",
+      "de": "Inspiration für Boutique-Hotels und Gastgewerbe.",
+      "es": "Inspiración para hoteles boutique y espacios de hostelería.",
+      "ru": "Вдохновение для бутик-отелей и гостиничных пространств."
+    },
+    "Installation & Care": {
+      "fr": "Pose & Entretien",
+      "de": "Verlegung & Pflege",
+      "es": "Instalación y cuidado",
+      "ru": "Укладка и уход"
+    },
+    "Interior Inspiration": {
+      "fr": "Inspiration intérieure",
+      "de": "Interior-Inspiration",
+      "es": "Inspiración para interiores",
+      "ru": "Идеи для интерьера"
+    },
+    "Kitchen": {
+      "fr": "Cuisine",
+      "de": "Küche",
+      "es": "Cocina",
+      "ru": "Кухня"
+    },
+    "Kitchen Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour cuisine | TERRACOTTA",
+      "de": "Terrakottafliesen für die Küche | TERRACOTTA",
+      "es": "Baldosas de terracota para cocina | TERRACOTTA",
+      "ru": "Терракотовая плитка для кухни | TERRACOTTA"
+    },
+    "Language": {
+      "fr": "Langue",
+      "de": "Sprache",
+      "es": "Idioma",
+      "ru": "Язык"
+    },
+    "Legal Notice": {
+      "fr": "Mentions légales",
+      "de": "Impressum",
+      "es": "Aviso legal",
+      "ru": "Правовая информация"
+    },
+    "Living Room": {
+      "fr": "Salon",
+      "de": "Wohnzimmer",
+      "es": "Salón",
+      "ru": "Гостиная"
+    },
+    "Living Room Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour salon | TERRACOTTA",
+      "de": "Terrakottafliesen für das Wohnzimmer | TERRACOTTA",
+      "es": "Baldosas de terracota para salón | TERRACOTTA",
+      "ru": "Терракотовая плитка для гостиной | TERRACOTTA"
+    },
+    "Magazine": {
+      "fr": "Magazine",
+      "de": "Magazin",
+      "es": "Revista",
+      "ru": "Журнал"
+    },
+    "Magazine, News, and Trends from the World of Terracotta": {
+      "fr": "Magazine, actualités et tendances de l'univers de la terre cuite",
+      "de": "Magazin, News und Trends aus der Welt der Terrakotta",
+      "es": "Revista, noticias y tendencias del mundo de la terracota",
+      "ru": "Журнал, новости и тренды из мира терракоты"
+    },
+    "Materials & Craft": {
+      "fr": "Matière & Savoir-faire",
+      "de": "Material & Handwerk",
+      "es": "Materiales y oficio",
+      "ru": "Материалы и мастерство"
+    },
+    "Menu toggle": {
+      "fr": "Ouvrir le menu",
+      "de": "Menü öffnen",
+      "es": "Abrir menú",
+      "ru": "Открыть меню"
+    },
+    "More Colours": {
+      "fr": "Plus de couleurs",
+      "de": "Weitere Farben",
+      "es": "Más colores",
+      "ru": "Другие цвета"
+    },
+    "Natural Clay & Terracotta Craft | TERRACOTTA": {
+      "fr": "Argile naturelle & savoir-faire de la terre cuite | TERRACOTTA",
+      "de": "Natürlicher Ton & Terrakotta-Handwerk | TERRACOTTA",
+      "es": "Arcilla natural y oficio de la terracota | TERRACOTTA",
+      "ru": "Натуральная глина и искусство терракоты | TERRACOTTA"
+    },
+    "Natural clay, shaped and finished with care for every surface.": {
+      "fr": "L'argile naturelle, façonnée et finie avec soin pour chaque surface.",
+      "de": "Natürlicher Ton, sorgfältig geformt und veredelt für jede Oberfläche.",
+      "es": "Arcilla natural, moldeada y acabada con cuidado para cada superficie.",
+      "ru": "Натуральная глина, бережно сформированная и обработанная для любой поверхности."
+    },
+    "Next": {
+      "fr": "Suivant",
+      "de": "Weiter",
+      "es": "Siguiente",
+      "ru": "Далее"
+    },
+    "Outdoor Living": {
+      "fr": "Vie en extérieur",
+      "de": "Outdoor Living",
+      "es": "Vida al aire libre",
+      "ru": "Жизнь на открытом воздухе"
+    },
+    "Outdoor Living | Projects & Inspiration": {
+      "fr": "Vie en extérieur | Projets & Inspiration",
+      "de": "Outdoor Living | Projekte & Inspiration",
+      "es": "Vida al aire libre | Proyectos e inspiración",
+      "ru": "Жизнь на открытом воздухе | Проекты и вдохновение"
+    },
+    "Outdoor Spaces": {
+      "fr": "Espaces extérieurs",
+      "de": "Außenbereiche",
+      "es": "Espacios exteriores",
+      "ru": "Открытые пространства"
+    },
+    "Outdoor Spaces Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour l'extérieur | TERRACOTTA",
+      "de": "Terrakottafliesen für Außenbereiche | TERRACOTTA",
+      "es": "Baldosas de terracota para exteriores | TERRACOTTA",
+      "ru": "Терракотовая плитка для открытых пространств | TERRACOTTA"
+    },
+    "Outdoor Terracotta Tiles": {
+      "fr": "Carreaux en terre cuite pour l'extérieur",
+      "de": "Terrakottafliesen für außen",
+      "es": "Baldosas de terracota para exterior",
+      "ru": "Уличная терракотовая плитка"
+    },
+    "Outdoor Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour l'extérieur | TERRACOTTA",
+      "de": "Terrakottafliesen für außen | TERRACOTTA",
+      "es": "Baldosas de terracota para exterior | TERRACOTTA",
+      "ru": "Уличная терракотовая плитка | TERRACOTTA"
+    },
+    "Outdoor Terracotta Tiles: Natural Clay for Outdoor Spaces": {
+      "fr": "Carreaux en terre cuite pour l'extérieur : l'argile naturelle au jardin",
+      "de": "Terrakottafliesen für außen: natürlicher Ton für den Außenbereich",
+      "es": "Baldosas de terracota para exterior: arcilla natural al aire libre",
+      "ru": "Уличная терракотовая плитка: натуральная глина для открытых пространств"
+    },
+    "Outdoor Tiles": {
+      "fr": "Carreaux d'extérieur",
+      "de": "Außenfliesen",
+      "es": "Baldosas de exterior",
+      "ru": "Уличная плитка"
+    },
+    "Pavers": {
+      "fr": "Pavés",
+      "de": "Pflasterplatten",
+      "es": "Adoquines",
+      "ru": "Тротуарная плитка"
+    },
+    "Pool Coping": {
+      "fr": "Margelles de piscine",
+      "de": "Beckenrandsteine",
+      "es": "Coronación de piscina",
+      "ru": "Бортовой камень бассейна"
+    },
+    "Pool Surround": {
+      "fr": "Plage de piscine",
+      "de": "Poolumrandung",
+      "es": "Entorno de piscina",
+      "ru": "Обрамление бассейна"
+    },
+    "Pool Surround Tiles": {
+      "fr": "Carreaux pour plage de piscine",
+      "de": "Fliesen für die Poolumrandung",
+      "es": "Baldosas para entorno de piscina",
+      "ru": "Плитка для обрамления бассейна"
+    },
+    "Pool Tiles": {
+      "fr": "Carreaux de piscine",
+      "de": "Poolfliesen",
+      "es": "Baldosas de piscina",
+      "ru": "Плитка для бассейна"
+    },
+    "Pool and Wellness": {
+      "fr": "Piscine et bien-être",
+      "de": "Pool und Wellness",
+      "es": "Piscina y bienestar",
+      "ru": "Бассейн и спа"
+    },
+    "Pool and Wellness Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour piscine et bien-être | TERRACOTTA",
+      "de": "Terrakottafliesen für Pool und Wellness | TERRACOTTA",
+      "es": "Baldosas de terracota para piscina y bienestar | TERRACOTTA",
+      "ru": "Терракотовая плитка для бассейна и спа | TERRACOTTA"
+    },
+    "Previous": {
+      "fr": "Précédent",
+      "de": "Zurück",
+      "es": "Anterior",
+      "ru": "Назад"
+    },
+    "Privacy policy": {
+      "fr": "Politique de confidentialité",
+      "de": "Datenschutzerklärung",
+      "es": "Política de privacidad",
+      "ru": "Политика конфиденциальности"
+    },
+    "Product Catalogue": {
+      "fr": "Catalogue produits",
+      "de": "Produktkatalog",
+      "es": "Catálogo de productos",
+      "ru": "Каталог продукции"
+    },
+    "Products": {
+      "fr": "Produits",
+      "de": "Produkte",
+      "es": "Productos",
+      "ru": "Продукция"
+    },
+    "Projects": {
+      "fr": "Projets",
+      "de": "Projekte",
+      "es": "Proyectos",
+      "ru": "Проекты"
+    },
+    "Projects & Inspiration": {
+      "fr": "Projets & Inspiration",
+      "de": "Projekte & Inspiration",
+      "es": "Proyectos e inspiración",
+      "ru": "Проекты и вдохновение"
+    },
+    "Rectangle Terracotta Tiles": {
+      "fr": "Carreaux rectangulaires en terre cuite",
+      "de": "Rechteckige Terrakottafliesen",
+      "es": "Baldosas rectangulares de terracota",
+      "ru": "Прямоугольная терракотовая плитка"
+    },
+    "Rectangle Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux rectangulaires en terre cuite | TERRACOTTA",
+      "de": "Rechteckige Terrakottafliesen | TERRACOTTA",
+      "es": "Baldosas rectangulares de terracota | TERRACOTTA",
+      "ru": "Прямоугольная терракотовая плитка | TERRACOTTA"
+    },
+    "Rectangle Tiles": {
+      "fr": "Carreaux rectangles",
+      "de": "Rechteckfliesen",
+      "es": "Baldosas rectangulares",
+      "ru": "Прямоугольная плитка"
+    },
+    "Relief Tiles": {
+      "fr": "Carreaux en relief",
+      "de": "Relieffliesen",
+      "es": "Baldosas en relieve",
+      "ru": "Рельефная плитка"
+    },
+    "Request a Quote": {
+      "fr": "Demander un devis",
+      "de": "Angebot anfordern",
+      "es": "Solicitar presupuesto",
+      "ru": "Запросить предложение"
+    },
+    "Reserved Area": {
+      "fr": "Espace réservé",
+      "de": "Login-Bereich",
+      "es": "Área reservada",
+      "ru": "Личный кабинет"
+    },
+    "Reserved area": {
+      "fr": "Espace réservé",
+      "de": "Login-Bereich",
+      "es": "Área reservada",
+      "ru": "Личный кабинет"
+    },
+    "Residential": {
+      "fr": "Résidentiel",
+      "de": "Wohnbau",
+      "es": "Residencial",
+      "ru": "Жилые объекты"
+    },
+    "Residential | Projects & Inspiration": {
+      "fr": "Résidentiel | Projets & Inspiration",
+      "de": "Wohnbau | Projekte & Inspiration",
+      "es": "Residencial | Proyectos e inspiración",
+      "ru": "Жилые объекты | Проекты и вдохновение"
+    },
+    "Search": {
+      "fr": "Rechercher",
+      "de": "Suchen",
+      "es": "Buscar",
+      "ru": "Поиск"
+    },
+    "Search the site": {
+      "fr": "Rechercher sur le site",
+      "de": "Website durchsuchen",
+      "es": "Buscar en el sitio",
+      "ru": "Поиск по сайту"
+    },
+    "Sitemap": {
+      "fr": "Plan du site",
+      "de": "Sitemap",
+      "es": "Mapa del sitio",
+      "ru": "Карта сайта"
+    },
+    "Skirting": {
+      "fr": "Plinthes",
+      "de": "Sockelleisten",
+      "es": "Rodapiés",
+      "ru": "Плинтусы"
+    },
+    "Square Terracotta Tiles": {
+      "fr": "Carreaux carrés en terre cuite",
+      "de": "Quadratische Terrakottafliesen",
+      "es": "Baldosas cuadradas de terracota",
+      "ru": "Квадратная терракотовая плитка"
+    },
+    "Square Terracotta Tiles | Natural Clay Flooring": {
+      "fr": "Carreaux carrés en terre cuite | Sols en argile naturelle",
+      "de": "Quadratische Terrakottafliesen | Böden aus natürlichem Ton",
+      "es": "Baldosas cuadradas de terracota | Suelos de arcilla natural",
+      "ru": "Квадратная терракотовая плитка | Полы из натуральной глины"
+    },
+    "Square Tiles": {
+      "fr": "Carreaux carrés",
+      "de": "Quadratische Fliesen",
+      "es": "Baldosas cuadradas",
+      "ru": "Квадратная плитка"
+    },
+    "Stair Treads": {
+      "fr": "Marches d'escalier",
+      "de": "Treppenstufen",
+      "es": "Peldaños",
+      "ru": "Ступени"
+    },
+    "Steps & Copings": {
+      "fr": "Marches & Margelles",
+      "de": "Stufen & Abdeckungen",
+      "es": "Peldaños y coronaciones",
+      "ru": "Ступени и бортики"
+    },
+    "Steps & Copings: Details that Complete the Space": {
+      "fr": "Marches & Margelles : des détails qui complètent l'espace",
+      "de": "Stufen & Abdeckungen: Details, die den Raum vollenden",
+      "es": "Peldaños y coronaciones: detalles que completan el espacio",
+      "ru": "Ступени и бортики: детали, завершающие пространство"
+    },
+    "Subscribe to Newsletter": {
+      "fr": "S'abonner à la newsletter",
+      "de": "Newsletter abonnieren",
+      "es": "Suscribirse al boletín",
+      "ru": "Подписаться на рассылку"
+    },
+    "Surface & Finish": {
+      "fr": "Surface & Finition",
+      "de": "Oberfläche & Finish",
+      "es": "Superficie y acabado",
+      "ru": "Поверхность и отделка"
+    },
+    "TERRACOTTA Awards": {
+      "fr": "Prix TERRACOTTA",
+      "de": "TERRACOTTA Auszeichnungen",
+      "es": "Premios TERRACOTTA",
+      "ru": "Награды TERRACOTTA"
+    },
+    "TERRACOTTA Magazine: News & Trends": {
+      "fr": "Magazine TERRACOTTA : actualités & tendances",
+      "de": "TERRACOTTA Magazin: News & Trends",
+      "es": "Revista TERRACOTTA: noticias y tendencias",
+      "ru": "Журнал TERRACOTTA: новости и тренды"
+    },
+    "TERRACOTTA Project Inspiration": {
+      "fr": "Inspiration projets TERRACOTTA",
+      "de": "TERRACOTTA Projektinspiration",
+      "es": "Inspiración de proyectos TERRACOTTA",
+      "ru": "Идеи проектов TERRACOTTA"
+    },
+    "TERRACOTTA TILES: SIX CATEGORIES, ONE EARTH.": {
+      "fr": "CARREAUX TERRACOTTA : SIX CATÉGORIES, UNE SEULE TERRE.",
+      "de": "TERRACOTTA FLIESEN: SECHS KATEGORIEN, EINE ERDE.",
+      "es": "BALDOSAS TERRACOTTA: SEIS CATEGORÍAS, UNA TIERRA.",
+      "ru": "ПЛИТКА TERRACOTTA: ШЕСТЬ КАТЕГОРИЙ, ОДНА ЗЕМЛЯ."
+    },
+    "TERRACOTTA brings together six architectural categories, twelve product types and twelve earthy colours to inspire your design ideas. Explore our collections, discover your preferred shades and create spaces shaped by natural clay.": {
+      "fr": "TERRACOTTA réunit six catégories architecturales, douze types de produits et douze couleurs terreuses pour inspirer vos idées. Explorez nos collections, trouvez vos teintes préférées et créez des espaces façonnés par l'argile naturelle.",
+      "de": "TERRACOTTA vereint sechs architektonische Kategorien, zwölf Produkttypen und zwölf erdige Farben, um Ihre Gestaltungsideen zu inspirieren. Entdecken Sie unsere Kollektionen, finden Sie Ihre Lieblingsfarben und gestalten Sie Räume aus natürlichem Ton.",
+      "es": "TERRACOTTA reúne seis categorías arquitectónicas, doce tipos de producto y doce colores terrosos para inspirar sus ideas de diseño. Explore nuestras colecciones, descubra sus tonos preferidos y cree espacios definidos por la arcilla natural.",
+      "ru": "TERRACOTTA объединяет шесть архитектурных категорий, двенадцать типов продукции и двенадцать землистых цветов, чтобы вдохновить ваши идеи. Исследуйте наши коллекции, выберите любимые оттенки и создавайте пространства из натуральной глины."
+    },
+    "TERRACOTTA turns earth, water and fire into surfaces with character. Our collection is organised into six categories and twelve product types, brought together by a palette of twelve earthy colours, from Sand and Clay to Olive, Ocean and Ivory.": {
+      "fr": "TERRACOTTA transforme la terre, l'eau et le feu en surfaces de caractère. Notre collection s'organise en six catégories et douze types de produits, réunis par une palette de douze couleurs terreuses, de Sand et Clay à Olive, Ocean et Ivory.",
+      "de": "TERRACOTTA verwandelt Erde, Wasser und Feuer in Oberflächen mit Charakter. Unsere Kollektion ist in sechs Kategorien und zwölf Produkttypen gegliedert, verbunden durch eine Palette aus zwölf erdigen Farben – von Sand und Clay bis Olive, Ocean und Ivory.",
+      "es": "TERRACOTTA transforma la tierra, el agua y el fuego en superficies con carácter. Nuestra colección se organiza en seis categorías y doce tipos de producto, unidos por una paleta de doce colores terrosos, de Sand y Clay a Olive, Ocean e Ivory.",
+      "ru": "TERRACOTTA превращает землю, воду и огонь в поверхности с характером. Коллекция разделена на шесть категорий и двенадцать типов продукции, объединённых палитрой из двенадцати землистых цветов — от Sand и Clay до Olive, Ocean и Ivory."
+    },
+    "TERRACOTTA: design your space": {
+      "fr": "TERRACOTTA : concevez votre espace",
+      "de": "TERRACOTTA: Gestalten Sie Ihren Raum",
+      "es": "TERRACOTTA: diseñe su espacio",
+      "ru": "TERRACOTTA: создайте своё пространство"
+    },
+    "Technical Information": {
+      "fr": "Informations techniques",
+      "de": "Technische Informationen",
+      "es": "Información técnica",
+      "ru": "Техническая информация"
+    },
+    "Terracotta Brick Tiles": {
+      "fr": "Briquettes en terre cuite",
+      "de": "Terrakotta-Ziegelfliesen",
+      "es": "Baldosas tipo ladrillo de terracota",
+      "ru": "Терракотовая плитка-кирпич"
+    },
+    "Terracotta Brick Tiles | Outdoor Clay Formats": {
+      "fr": "Briquettes en terre cuite | Formats d'extérieur en argile",
+      "de": "Terrakotta-Ziegelfliesen | Tonformate für außen",
+      "es": "Baldosas tipo ladrillo de terracota | Formatos de arcilla para exterior",
+      "ru": "Терракотовая плитка-кирпич | Глиняные форматы для улицы"
+    },
+    "Terracotta Floor Tiles": {
+      "fr": "Carreaux de sol en terre cuite",
+      "de": "Terrakotta-Bodenfliesen",
+      "es": "Baldosas de suelo de terracota",
+      "ru": "Терракотовая напольная плитка"
+    },
+    "Terracotta Floor Tiles | TERRACOTTA": {
+      "fr": "Carreaux de sol en terre cuite | TERRACOTTA",
+      "de": "Terrakotta-Bodenfliesen | TERRACOTTA",
+      "es": "Baldosas de suelo de terracota | TERRACOTTA",
+      "ru": "Терракотовая напольная плитка | TERRACOTTA"
+    },
+    "Terracotta Pavers": {
+      "fr": "Pavés en terre cuite",
+      "de": "Terrakotta-Pflasterplatten",
+      "es": "Adoquines de terracota",
+      "ru": "Терракотовая тротуарная плитка"
+    },
+    "Terracotta Pavers | Natural Outdoor Paving": {
+      "fr": "Pavés en terre cuite | Revêtement extérieur naturel",
+      "de": "Terrakotta-Pflasterplatten | Natürliche Außenbeläge",
+      "es": "Adoquines de terracota | Pavimento exterior natural",
+      "ru": "Терракотовая тротуарная плитка | Натуральное мощение"
+    },
+    "Terracotta Pool Coping | Architectural Details": {
+      "fr": "Margelles de piscine en terre cuite | Détails architecturaux",
+      "de": "Terrakotta-Beckenrandsteine | Architektonische Details",
+      "es": "Coronación de piscina de terracota | Detalles arquitectónicos",
+      "ru": "Терракотовый бортовой камень бассейна | Архитектурные детали"
+    },
+    "Terracotta Pool Surround Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour plage de piscine | TERRACOTTA",
+      "de": "Terrakottafliesen für die Poolumrandung | TERRACOTTA",
+      "es": "Baldosas de terracota para entorno de piscina | TERRACOTTA",
+      "ru": "Терракотовая плитка для обрамления бассейна | TERRACOTTA"
+    },
+    "Terracotta Pool Tiles": {
+      "fr": "Carreaux de piscine en terre cuite",
+      "de": "Terrakotta-Poolfliesen",
+      "es": "Baldosas de piscina de terracota",
+      "ru": "Терракотовая плитка для бассейна"
+    },
+    "Terracotta Pool Tiles | TERRACOTTA": {
+      "fr": "Carreaux de piscine en terre cuite | TERRACOTTA",
+      "de": "Terrakotta-Poolfliesen | TERRACOTTA",
+      "es": "Baldosas de piscina de terracota | TERRACOTTA",
+      "ru": "Терракотовая плитка для бассейна | TERRACOTTA"
+    },
+    "Terracotta Skirting": {
+      "fr": "Plinthes en terre cuite",
+      "de": "Terrakotta-Sockelleisten",
+      "es": "Rodapiés de terracota",
+      "ru": "Терракотовые плинтусы"
+    },
+    "Terracotta Skirting | Clay Finishing Elements": {
+      "fr": "Plinthes en terre cuite | Éléments de finition en argile",
+      "de": "Terrakotta-Sockelleisten | Abschlusselemente aus Ton",
+      "es": "Rodapiés de terracota | Elementos de acabado en arcilla",
+      "ru": "Терракотовые плинтусы | Отделочные элементы из глины"
+    },
+    "Terracotta Stair Treads": {
+      "fr": "Marches d'escalier en terre cuite",
+      "de": "Terrakotta-Treppenstufen",
+      "es": "Peldaños de terracota",
+      "ru": "Терракотовые ступени"
+    },
+    "Terracotta Stair Treads and Skirting | TERRACOTTA": {
+      "fr": "Marches et plinthes en terre cuite | TERRACOTTA",
+      "de": "Terrakotta-Treppenstufen und Sockelleisten | TERRACOTTA",
+      "es": "Peldaños y rodapiés de terracota | TERRACOTTA",
+      "ru": "Терракотовые ступени и плинтусы | TERRACOTTA"
+    },
+    "Terracotta Stair Treads | Architectural Details": {
+      "fr": "Marches d'escalier en terre cuite | Détails architecturaux",
+      "de": "Terrakotta-Treppenstufen | Architektonische Details",
+      "es": "Peldaños de terracota | Detalles arquitectónicos",
+      "ru": "Терракотовые ступени | Архитектурные детали"
+    },
+    "Terracotta Steps & Copings": {
+      "fr": "Marches & Margelles en terre cuite",
+      "de": "Terrakotta-Stufen & Abdeckungen",
+      "es": "Peldaños y coronaciones de terracota",
+      "ru": "Терракотовые ступени и бортики"
+    },
+    "Terracotta Tile Installation & Care | TERRACOTTA": {
+      "fr": "Pose et entretien des carreaux en terre cuite | TERRACOTTA",
+      "de": "Verlegung & Pflege von Terrakottafliesen | TERRACOTTA",
+      "es": "Instalación y cuidado de baldosas de terracota | TERRACOTTA",
+      "ru": "Укладка и уход за терракотовой плиткой | TERRACOTTA"
+    },
+    "Terracotta Tile Technical Information | TERRACOTTA": {
+      "fr": "Informations techniques des carreaux en terre cuite | TERRACOTTA",
+      "de": "Technische Informationen zu Terrakottafliesen | TERRACOTTA",
+      "es": "Información técnica de baldosas de terracota | TERRACOTTA",
+      "ru": "Техническая информация о терракотовой плитке | TERRACOTTA"
+    },
+    "Terracotta Tiles: The Art of Earth": {
+      "fr": "Carreaux en terre cuite : The Art of Earth",
+      "de": "Terrakottafliesen: The Art of Earth",
+      "es": "Baldosas de terracota: The Art of Earth",
+      "ru": "Терракотовая плитка: The Art of Earth"
+    },
+    "Terracotta Wall Cladding": {
+      "fr": "Revêtement mural en terre cuite",
+      "de": "Terrakotta-Wandverkleidung",
+      "es": "Revestimiento mural de terracota",
+      "ru": "Терракотовая облицовка стен"
+    },
+    "Terracotta Wall Cladding | Natural Clay Surfaces": {
+      "fr": "Revêtement mural en terre cuite | Surfaces en argile naturelle",
+      "de": "Terrakotta-Wandverkleidung | Oberflächen aus natürlichem Ton",
+      "es": "Revestimiento mural de terracota | Superficies de arcilla natural",
+      "ru": "Терракотовая облицовка стен | Поверхности из натуральной глины"
+    },
+    "Terracotta Wall Tiles": {
+      "fr": "Carreaux muraux en terre cuite",
+      "de": "Terrakotta-Wandfliesen",
+      "es": "Baldosas de pared de terracota",
+      "ru": "Терракотовая настенная плитка"
+    },
+    "Terracotta Wall Tiles | TERRACOTTA": {
+      "fr": "Carreaux muraux en terre cuite | TERRACOTTA",
+      "de": "Terrakotta-Wandfliesen | TERRACOTTA",
+      "es": "Baldosas de pared de terracota | TERRACOTTA",
+      "ru": "Терракотовая настенная плитка | TERRACOTTA"
+    },
+    "Terracotta Wall Tiles: Character for Every Wall": {
+      "fr": "Carreaux muraux en terre cuite : du caractère pour chaque mur",
+      "de": "Terrakotta-Wandfliesen: Charakter für jede Wand",
+      "es": "Baldosas de pared de terracota: carácter para cada pared",
+      "ru": "Терракотовая настенная плитка: характер для каждой стены"
+    },
+    "Terracotta tiles by TERRACOTTA | The Art of Earth: floor, outdoor, pool, decorative and wall tiles, steps and copings, with a palette of twelve earthy colours.": {
+      "fr": "Carreaux en terre cuite TERRACOTTA | The Art of Earth : carreaux de sol, d'extérieur, de piscine, décoratifs et muraux, marches et margelles, dans une palette de douze couleurs terreuses.",
+      "de": "Terrakottafliesen von TERRACOTTA | The Art of Earth: Boden-, Außen-, Pool-, Dekor- und Wandfliesen, Stufen und Abdeckungen in einer Palette aus zwölf erdigen Farben.",
+      "es": "Baldosas de terracota de TERRACOTTA | The Art of Earth: baldosas de suelo, exterior, piscina, decorativas y de pared, peldaños y coronaciones, con una paleta de doce colores terrosos.",
+      "ru": "Терракотовая плитка TERRACOTTA | The Art of Earth: напольная, уличная, для бассейна, декоративная и настенная плитка, ступени и бортики в палитре из двенадцати землистых цветов."
+    },
+    "The Art of Earth": {
+      "fr": "The Art of Earth",
+      "de": "The Art of Earth",
+      "es": "The Art of Earth",
+      "ru": "The Art of Earth"
+    },
+    "The TERRACOTTA collection is organised into six categories: Floor Tiles, Outdoor Tiles, Pool Tiles, Decorative Tiles, Wall Tiles and Steps & Copings. Each category features two product types, bringing together twelve distinctive formats and a palette of twelve earthy colours.": {
+      "fr": "La collection TERRACOTTA s'organise en six catégories : carreaux de sol, carreaux d'extérieur, carreaux de piscine, carreaux décoratifs, carreaux muraux et marches & margelles. Chaque catégorie comprend deux types de produits, soit douze formats distinctifs et une palette de douze couleurs terreuses.",
+      "de": "Die TERRACOTTA Kollektion ist in sechs Kategorien gegliedert: Bodenfliesen, Außenfliesen, Poolfliesen, Dekorfliesen, Wandfliesen sowie Stufen & Abdeckungen. Jede Kategorie umfasst zwei Produkttypen – insgesamt zwölf unverwechselbare Formate und eine Palette aus zwölf erdigen Farben.",
+      "es": "La colección TERRACOTTA se organiza en seis categorías: baldosas de suelo, de exterior, de piscina, decorativas, de pared y peldaños y coronaciones. Cada categoría incluye dos tipos de producto, que reúnen doce formatos distintivos y una paleta de doce colores terrosos.",
+      "ru": "Коллекция TERRACOTTA разделена на шесть категорий: напольная плитка, уличная плитка, плитка для бассейна, декоративная плитка, настенная плитка, а также ступени и бортики. В каждой категории два типа продукции — всего двенадцать выразительных форматов и палитра из двенадцати землистых цветов."
+    },
+    "The Timeless Appeal of Terracotta in Architecture": {
+      "fr": "L'attrait intemporel de la terre cuite en architecture",
+      "de": "Die zeitlose Anziehungskraft von Terrakotta in der Architektur",
+      "es": "El atractivo atemporal de la terracota en la arquitectura",
+      "ru": "Неподвластная времени привлекательность терракоты в архитектуре"
+    },
+    "The Timeless Appeal of Terracotta in Architecture | TERRACOTTA Magazine": {
+      "fr": "L'attrait intemporel de la terre cuite en architecture | Magazine TERRACOTTA",
+      "de": "Die zeitlose Anziehungskraft von Terrakotta in der Architektur | TERRACOTTA Magazin",
+      "es": "El atractivo atemporal de la terracota en la arquitectura | Revista TERRACOTTA",
+      "ru": "Неподвластная времени привлекательность терракоты в архитектуре | Журнал TERRACOTTA"
+    },
+    "Tiles": {
+      "fr": "Carreaux",
+      "de": "Fliesen",
+      "es": "Baldosas",
+      "ru": "Плитка"
+    },
+    "Transform your spaces with the warmth and versatility of natural clay. TERRACOTTA tiles bring character to every room, from bathrooms and kitchens to living rooms and bedrooms, outdoor spaces, pools, wellness areas and commercial interiors of every profile.": {
+      "fr": "Transformez vos espaces avec la chaleur et la polyvalence de l'argile naturelle. Les carreaux TERRACOTTA apportent du caractère à chaque pièce, des salles de bain et cuisines aux salons et chambres, en passant par les espaces extérieurs, les piscines, les espaces bien-être et les intérieurs commerciaux de tout type.",
+      "de": "Verwandeln Sie Ihre Räume mit der Wärme und Vielseitigkeit von natürlichem Ton. TERRACOTTA Fliesen verleihen jedem Raum Charakter – vom Bad und der Küche über Wohn- und Schlafzimmer bis zu Außenbereichen, Pools, Wellnessbereichen und Gewerbeflächen jeder Art.",
+      "es": "Transforme sus espacios con la calidez y la versatilidad de la arcilla natural. Las baldosas TERRACOTTA aportan carácter a cada estancia, desde baños y cocinas hasta salones y dormitorios, espacios exteriores, piscinas, zonas de bienestar e interiores comerciales de todo tipo.",
+      "ru": "Преобразите пространство теплом и универсальностью натуральной глины. Плитка TERRACOTTA придаёт характер любому помещению — от ванных комнат и кухонь до гостиных и спален, открытых пространств, бассейнов, спа-зон и коммерческих интерьеров любого профиля."
+    },
+    "Wall Cladding": {
+      "fr": "Revêtement mural",
+      "de": "Wandverkleidung",
+      "es": "Revestimiento mural",
+      "ru": "Облицовка стен"
+    },
+    "Wall Tiles": {
+      "fr": "Carreaux muraux",
+      "de": "Wandfliesen",
+      "es": "Baldosas de pared",
+      "ru": "Настенная плитка"
+    },
+    "Warmth and Natural Character for Your Spaces with Terracotta Tiles": {
+      "fr": "Chaleur et caractère naturel pour vos espaces avec les carreaux en terre cuite",
+      "de": "Wärme und natürlicher Charakter für Ihre Räume mit Terrakottafliesen",
+      "es": "Calidez y carácter natural para sus espacios con baldosas de terracota",
+      "ru": "Тепло и природный характер для ваших пространств с терракотовой плиткой"
+    },
+    "Welcome to the world of TERRACOTTA, where the tradition of natural clay meets craftsmanship to create terracotta tiles of character. Explore six categories, twelve product types and twelve earth colours for indoor and outdoor spaces.": {
+      "fr": "Bienvenue dans l'univers TERRACOTTA, où la tradition de l'argile naturelle rencontre le savoir-faire pour créer des carreaux en terre cuite de caractère. Explorez six catégories, douze types de produits et douze couleurs de la terre pour l'intérieur et l'extérieur.",
+      "de": "Willkommen in der Welt von TERRACOTTA, wo die Tradition des natürlichen Tons auf Handwerkskunst trifft und Terrakottafliesen mit Charakter entstehen. Entdecken Sie sechs Kategorien, zwölf Produkttypen und zwölf Erdfarben für innen und außen.",
+      "es": "Bienvenido al mundo de TERRACOTTA, donde la tradición de la arcilla natural se une al oficio para crear baldosas de terracota con carácter. Explore seis categorías, doce tipos de producto y doce colores tierra para interiores y exteriores.",
+      "ru": "Добро пожаловать в мир TERRACOTTA, где традиции натуральной глины встречаются с мастерством, создавая терракотовую плитку с характером. Откройте шесть категорий, двенадцать типов продукции и двенадцать землистых цветов для интерьеров и открытых пространств."
+    },
+    "Work with Us": {
+      "fr": "Travailler avec nous",
+      "de": "Karriere",
+      "es": "Trabaje con nosotros",
+      "ru": "Вакансии"
+    },
+    "Your browser doesn't support HTML video. Here is a": {
+      "fr": "Votre navigateur ne prend pas en charge la vidéo HTML. Voici un",
+      "de": "Ihr Browser unterstützt kein HTML-Video. Hier ist ein",
+      "es": "Su navegador no admite vídeo HTML. Aquí tiene un",
+      "ru": "Ваш браузер не поддерживает HTML-видео. Вот"
+    },
+    "link to the video": {
+      "fr": "lien vers la vidéo",
+      "de": "Link zum Video",
+      "es": "enlace al vídeo",
+      "ru": "ссылка на видео"
+    },
+    "instead.": {
+      "fr": "à la place.",
+      "de": "stattdessen.",
+      "es": "en su lugar.",
+      "ru": "."
+    }
+  },
+  "html": {
+    "TERRACOTTA <a href=\"/collections/terracotta-wall-tiles/\" title=\"Wall Tiles\">Wall Tiles</a> bring the warmth of natural clay to interior and exterior walls. Terracotta Wall Cladding creates surfaces with depth and texture, while Custom Artisan Tiles are developed in project-specific sizes, shapes and patterns.<br>Explore the twelve shades of the TERRACOTTA Colour Collection, from Sand and Rose to Graphite and Ivory, and discover the possibilities for your walls.": {
+      "fr": "Les <a href=\"/collections/terracotta-wall-tiles/\" title=\"Carreaux muraux\">carreaux muraux</a> TERRACOTTA apportent la chaleur de l'argile naturelle aux murs intérieurs et extérieurs. Le revêtement mural en terre cuite crée des surfaces de profondeur et de texture, tandis que les carreaux artisanaux sur mesure sont développés aux dimensions, formes et motifs de chaque projet.<br>Explorez les douze teintes de la collection de couleurs TERRACOTTA, de Sand et Rose à Graphite et Ivory, et découvrez les possibilités pour vos murs.",
+      "de": "TERRACOTTA <a href=\"/collections/terracotta-wall-tiles/\" title=\"Wandfliesen\">Wandfliesen</a> bringen die Wärme von natürlichem Ton an Innen- und Außenwände. Die Terrakotta-Wandverkleidung schafft Oberflächen mit Tiefe und Struktur, während individuelle Manufakturfliesen in projektspezifischen Formaten, Formen und Mustern entwickelt werden.<br>Entdecken Sie die zwölf Farbtöne der TERRACOTTA Farbkollektion – von Sand und Rose bis Graphite und Ivory – und die Möglichkeiten für Ihre Wände.",
+      "es": "Las <a href=\"/collections/terracotta-wall-tiles/\" title=\"Baldosas de pared\">baldosas de pared</a> TERRACOTTA llevan la calidez de la arcilla natural a paredes interiores y exteriores. El revestimiento mural de terracota crea superficies con profundidad y textura, mientras que las baldosas artesanales a medida se desarrollan en tamaños, formas y diseños específicos para cada proyecto.<br>Explore los doce tonos de la colección de colores TERRACOTTA, de Sand y Rose a Graphite e Ivory, y descubra las posibilidades para sus paredes.",
+      "ru": "<a href=\"/collections/terracotta-wall-tiles/\" title=\"Настенная плитка\">Настенная плитка</a> TERRACOTTA приносит тепло натуральной глины на внутренние и наружные стены. Терракотовая облицовка создаёт поверхности с глубиной и фактурой, а индивидуальная авторская плитка разрабатывается в размерах, формах и узорах под конкретный проект.<br>Откройте двенадцать оттенков коллекции цветов TERRACOTTA — от Sand и Rose до Graphite и Ivory — и возможности для ваших стен."
+    },
+    "TERRACOTTA <a href=\"/collections/terracotta-steps-copings/\" title=\"Steps &amp; Copings\">Steps &amp; Copings</a> complete floors with the same natural material. Terracotta Stair Treads cover steps and stairs, while Terracotta Skirting creates a clean transition between floor and wall.<br>Coordinated elements help stairs, floors and walls stay in harmony, from the first step to the last, in a single natural material.": {
+      "fr": "Les <a href=\"/collections/terracotta-steps-copings/\" title=\"Marches &amp; Margelles\">marches &amp; margelles</a> TERRACOTTA complètent les sols avec le même matériau naturel. Les marches d'escalier en terre cuite habillent marches et escaliers, tandis que les plinthes en terre cuite créent une transition nette entre le sol et le mur.<br>Des éléments coordonnés maintiennent l'harmonie entre escaliers, sols et murs, de la première à la dernière marche, dans un seul matériau naturel.",
+      "de": "TERRACOTTA <a href=\"/collections/terracotta-steps-copings/\" title=\"Stufen &amp; Abdeckungen\">Stufen &amp; Abdeckungen</a> ergänzen Böden mit demselben natürlichen Material. Terrakotta-Treppenstufen bekleiden Stufen und Treppen, während Terrakotta-Sockelleisten einen sauberen Übergang zwischen Boden und Wand schaffen.<br>Aufeinander abgestimmte Elemente halten Treppen, Böden und Wände im Einklang – von der ersten bis zur letzten Stufe, in einem einzigen natürlichen Material.",
+      "es": "Los <a href=\"/collections/terracotta-steps-copings/\" title=\"Peldaños y coronaciones\">peldaños y coronaciones</a> TERRACOTTA completan los suelos con el mismo material natural. Los peldaños de terracota revisten escalones y escaleras, mientras que los rodapiés de terracota crean una transición limpia entre suelo y pared.<br>Los elementos coordinados mantienen la armonía entre escaleras, suelos y paredes, del primer al último peldaño, en un único material natural.",
+      "ru": "<a href=\"/collections/terracotta-steps-copings/\" title=\"Ступени и бортики\">Ступени и бортики</a> TERRACOTTA дополняют полы тем же натуральным материалом. Терракотовые ступени облицовывают лестницы, а терракотовые плинтусы создают аккуратный переход от пола к стене.<br>Согласованные элементы сохраняют гармонию лестниц, полов и стен — от первой ступени до последней — в едином натуральном материале."
+    },
+    "TERRACOTTA offers <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Outdoor Tiles\">Outdoor Terracotta Tiles</a> for gardens, verandas, patios and terraces. Terracotta Brick Tiles bring long, narrow formats to outdoor floors, and Terracotta Pavers are designed for paving outdoor areas.<br>Explore earthy colours and natural formats to create a warm and functional outdoor space.": {
+      "fr": "TERRACOTTA propose des <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Carreaux d'extérieur\">carreaux en terre cuite pour l'extérieur</a> pour jardins, vérandas, patios et terrasses. Les briquettes en terre cuite apportent des formats longs et étroits aux sols extérieurs, et les pavés en terre cuite sont conçus pour le revêtement des espaces extérieurs.<br>Explorez des couleurs terreuses et des formats naturels pour créer un espace extérieur chaleureux et fonctionnel.",
+      "de": "TERRACOTTA bietet <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Außenfliesen\">Terrakottafliesen für außen</a> für Gärten, Veranden, Patios und Terrassen. Terrakotta-Ziegelfliesen bringen lange, schmale Formate auf Außenböden, und Terrakotta-Pflasterplatten sind für die Befestigung von Außenflächen konzipiert.<br>Entdecken Sie erdige Farben und natürliche Formate für einen warmen und funktionalen Außenbereich.",
+      "es": "TERRACOTTA ofrece <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Baldosas de exterior\">baldosas de terracota para exterior</a> para jardines, porches, patios y terrazas. Las baldosas tipo ladrillo de terracota aportan formatos largos y estrechos a los suelos exteriores, y los adoquines de terracota están pensados para pavimentar zonas exteriores.<br>Explore colores terrosos y formatos naturales para crear un espacio exterior cálido y funcional.",
+      "ru": "TERRACOTTA предлагает <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Уличная плитка\">уличную терракотовую плитку</a> для садов, веранд, патио и террас. Терракотовая плитка-кирпич приносит длинные узкие форматы на уличные полы, а терракотовая тротуарная плитка предназначена для мощения открытых площадок.<br>Откройте землистые цвета и натуральные форматы, чтобы создать тёплое и функциональное пространство под открытым небом."
+    }
+  }
+}

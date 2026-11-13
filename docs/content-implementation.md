@@ -27,36 +27,36 @@ Phase: content, product data and SEO only. No images, CSS, layout or behaviour w
 | Generic page template (no-image header + text blocks + CTA banner) | All new pages |
 | `.ae-form` styles | Contacts and Request a Quote forms |
 
-## Pages generated (30)
+## Pages generated
 
-Product Catalogue, Colour Collection, Custom Artisan Tiles, 6 category pages, 12 product pages, Company, Projects, Magazine, Awards, Contacts, Request a Quote, Technical Information, Materials & Craft, Installation & Care.
+- English: Product Catalogue, Colour Collection, Custom Artisan Tiles, 6 category pages, 12 product pages, Company, Projects, Magazine, Awards, Contacts, Request a Quote, Technical Information, Materials & Craft, Installation & Care.
+- Translated homepages: `/fr/`, `/de/`, `/es/`, `/ru/` (from `site/data/i18n.json`). Other pages are English for now; menu links on translated homepages lead to the English pages.
+- Legal placeholders (noindex, not in sitemap): privacy policy, legal notice, cookie policy, general sales conditions, accessibility statement, ethics and compliance.
 
-## Open items (need a decision or real data)
+## Domain
+
+`https://terracottaceramictiles.com` (set as `siteUrl` in `products.json`). Used for canonicals, hreflang, structured data, sitemap and site search.
+
+## Open items
 
 | Item | Status |
 |---|---|
-| Domain | `siteUrl` in `products.json` is a placeholder (`https://www.example.com`). Canonicals, structured data and the sitemap use it. Replace and re-run the build. |
-| Forms | Connected to Formspree (form ID `xgakokqp`) with @formspree/ajax 1.1.5, self-hosted in `site/assets/js/`. Both forms post to the same endpoint; `_subject` and `form_type` tell them apart. File uploads (Request a Quote) depend on the Formspree plan. |
+| Forms | Connected to Formspree (form ID `xgakokqp`) with @formspree/ajax 1.1.5, self-hosted in `site/assets/js/`. File uploads depend on the Formspree plan. |
 | Product data | Colours per product, dimensions, surface & finish and specifications are `null` and shown as "to be confirmed". |
-| Legal pages | Footer links (privacy, cookies, legal note, sales conditions, accessibility, ethics) still point to the former brand's paths. Real legal texts are needed. |
-| Search | The search form still posts to `/en/search`; there is no search page. |
-| Language menu | Kept unchanged as required; only English exists, so /fr, /de, /es, /ru return 404. |
-| Newsletter link | Still opens the former site's modal endpoint, which does not exist here. |
-| Match App | Removed from navigation, footer and pages at the owner's request. |
-| Projects, Awards, Magazine | No verified projects, awards or articles yet; pages show the intro and "will be published" text only. |
-| Breadcrumbs | Added as BreadcrumbList structured data only; the existing design has no visible breadcrumb component. |
-| Category card labels | The six category cards have no element for a second "supporting label"; only the main heading is shown. |
+| Legal pages | Placeholder text only. Real legal texts are needed before launch. |
+| Search | Uses Google site search for terracottaceramictiles.com; works once the site is indexed. |
+| Translations | Only homepages are translated. Other pages need translation if required. Colour names stay in English in all languages. |
+| Projects, Awards, Magazine | No verified projects, awards or articles yet. |
+| Breadcrumbs | Structured data only; the design has no visible breadcrumb component. |
+| Favicon | The former favicon was removed; a TERRACOTTA favicon has not been created yet. |
 
-## Visual replacement register (former brand identity in images)
+## Former brand traces removed
 
-These assets were left untouched in this phase. Their `alt` text was cleared so they are not described as TERRACOTTA products.
+Asset folders and logo files renamed, favicons, verification tags, award overlays, effect stamps, video links to the former brand's YouTube channel, the slogan image ("MATTER ABOVE ALL" replaced by "THE ART OF EARTH"), and images showing the former brand's name, technology names or factory were removed or swapped for other images already on the site.
 
-| Asset / location | Issue |
+## Still to replace in the visual phase
+
+| Asset | Reason |
 |---|---|
-| Favicons (`assets/www.keope.com/content/images/favicons/`) | Former brand icon |
-| Mega menu card 3 image (now "Custom Artisan Tiles") | Shows "SMART – CERAMICHE KEOPE" text |
-| Hero video and "MATTER ABOVE ALL" title image | Former brand campaign |
-| ADI Design Award badges on carousel cards | Award belongs to the former brand; must not be shown as a TERRACOTTA award |
-| Effect badges ("S", "C" stamps) on carousel and category cards | Former brand's effect icons |
+| Hero video | Former brand campaign footage |
 | All product, room, project and article photos | Former brand's porcelain products and real projects |
-| Company submenu images | Former brand's company imagery |

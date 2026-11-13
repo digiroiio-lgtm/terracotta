@@ -27,6 +27,7 @@ head_end = INDEX.index('<body')
 HEAD = INDEX[:head_end]
 HEAD = re.sub(r'\s*<link rel="preload" as="image"[^>]*>', '', HEAD)
 HEAD = re.sub(r'\s*<link rel="canonical"[^>]*>', '', HEAD)
+HEAD = re.sub(r'\s*<link rel="alternate" hreflang="[^"]*"[^>]*>', '', HEAD)
 HEAD = re.sub(r'\s*<script type="application/ld\+json">.*?</script>', '', HEAD, flags=re.S)
 hs = INDEX.index('<header class="">')
 hv = INDEX.index('<div class="ae-video-container">', hs)
@@ -139,7 +140,7 @@ def crumbs(items):
 ORG = {"@id": SITEURL + "/#organization"}
 
 
-def page(path, title, desc, h1, body, schema, template='ae-template-genericpage', header_bg='ae-bg-grey'):
+def page(path, title, desc, h1, body, schema, template='ae-template-genericpage', header_bg='ae-bg-grey', robots='index, follow'):
     i = body.find('<div class="ae-section request-info-cta-block')
     if i > 0:  # the banner has its own top border; avoid a double line
         j = body.rfind(' ae-border-bottom', 0, i)
@@ -154,7 +155,7 @@ def page(path, title, desc, h1, body, schema, template='ae-template-genericpage'
     head = re.sub(r'(<meta property="og:description" content=")[^"]*', r'\g<1>' + e(desc).replace('\\', r'\\'), head)
     ld = {"@context": "https://schema.org", "@graph": schema}
     head = head.replace('<meta name="robots" content="index, follow"/>',
-                        f'<meta name="robots" content="index, follow"/>\n\t<link rel="canonical" href="{SITEURL}{path}"/>\n\t<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>')
+                        f'<meta name="robots" content="{robots}"/>\n\t<link rel="canonical" href="{SITEURL}{path}"/>\n\t<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>')
     doc = (head + f'<body class="{template}">' + body_open[body_open.index('>') + 1:]
            + f'<header class="ae-no-image {header_bg}">' + HEADER_NAV
            + f'''<div class="ae-header-container">
@@ -368,6 +369,75 @@ built.append(page(path, 'Terracotta Tile Installation & Care | TERRACOTTA',
                   'Installation and care guidance for TERRACOTTA terracotta tiles: surface preparation, installation, grouting, sealing, cleaning and maintenance.',
                   'Installation &amp; Care', b, [{"@type": "WebPage", "name": "Installation & Care", "url": SITEURL + path}, crumbs([('Installation & Care', path)])],
                   template='ae-template-technicalinformation'))
+
+# ------------------------------------------------------------------ legal pages (placeholders, not indexed)
+LEGAL = [('/privacy-policy/', 'Privacy Policy'), ('/legal-notice/', 'Legal Notice'), ('/cookie-policy/', 'Cookie Policy'),
+         ('/general-sales-conditions/', 'General Sales Conditions'), ('/accessibility-statement/', 'Accessibility Statement'),
+         ('/ethics-and-compliance/', 'Ethics and Compliance')]
+for path, name in LEGAL:
+    b = text_block(path, 0, None, [f'The TERRACOTTA {name.lower()} will be published here before the website goes live.',
+                                   'For any questions in the meantime, please contact our team.'], ctas=[('Contact Us', '/contacts/')])
+    page(path, f'{name} | TERRACOTTA', f'{name} of TERRACOTTA | The Art of Earth.', name, b,
+         [{"@type": "WebPage", "name": name, "url": SITEURL + path}, crumbs([(name, path)])], robots='noindex, follow')
+
+# ------------------------------------------------------------------ language homepages
+I18N = json.load(open(os.path.join(SITE, 'data/i18n.json'), encoding='utf-8'))
+LANGS = ['en'] + list(I18N['languages'])
+HREFLANG = ''.join(f'\n\t<link rel="alternate" hreflang="{l}" href="{SITEURL}{"/" if l == "en" else "/" + l + "/"}"/>' for l in LANGS) + \
+           f'\n\t<link rel="alternate" hreflang="x-default" href="{SITEURL}/"/>'
+
+
+def add_hreflang(doc):
+    doc = re.sub(r'\s*<link rel="alternate" hreflang="[^"]*" href="[^"]*"/>', '', doc)
+    return re.sub(r'(<link rel="canonical" href="[^"]*"/>)', lambda m: m.group(1) + HREFLANG, doc, count=1)
+
+
+open(os.path.join(SITE, 'index.html'), 'w', encoding='utf-8').write(add_hreflang(INDEX))
+T, HT = I18N['strings'], I18N['html']
+norm = lambda t: re.sub(r'\s+', ' ', html.unescape(t)).strip()
+
+
+def translate(doc, lang):
+    for en, tr in HT.items():
+        if en in doc:
+            doc = doc.replace(en, tr[lang])
+
+    def text(m):
+        raw = m.group(1); key = norm(raw)
+        if key in T:
+            lead = raw[:len(raw) - len(raw.lstrip())]; trail = raw[len(raw.rstrip()):]
+            return '>' + lead + html.escape(T[key][lang], quote=False) + trail + '<'
+        return m.group(0)
+
+    def attr(m):
+        key = norm(m.group(2))
+        return f' {m.group(1)}="{e(T[key][lang])}"' if key in T else m.group(0)
+    head, body = doc[:doc.index('<body')], doc[doc.index('<body'):]
+    parts = re.split(r'(<script.*?</script>)', body, flags=re.S)
+    parts = [x if x.startswith('<script') else re.sub(r'\s(title|placeholder|aria-label)="([^"]*)"', attr, re.sub(r'>([^<>]+)<', text, x)) for x in parts]
+    head = re.sub(r'(<meta (?:name="description"|property="og:description") content=")([^"]*)',
+                  lambda m: m.group(1) + (e(T[norm(m.group(2))][lang]) if norm(m.group(2)) in T else m.group(2)), head)
+    return head + ''.join(parts)
+
+
+for lang in I18N['languages']:
+    path = f'/{lang}/'
+    doc = translate(INDEX, lang)
+    doc = doc.replace('<html lang="en">', f'<html lang="{lang}">', 1)
+    doc = re.sub(r'<link rel="canonical" href="[^"]*"/>', f'<link rel="canonical" href="{SITEURL}{path}"/>', doc, count=1)
+    doc = re.sub(r'<script type="application/ld\+json">.*?</script>', lambda m: '<script type="application/ld+json">' + json.dumps(
+        {"@context": "https://schema.org", "@type": "WebPage", "name": "TERRACOTTA | The Art of Earth", "url": SITEURL + path, "inLanguage": lang,
+         "isPartOf": {"@id": SITEURL + "/#website"}}, ensure_ascii=False) + '</script>', doc, count=1, flags=re.S)
+    doc = add_hreflang(doc)
+    doc = doc.replace('<a class="ae-header-logo" aria-label="Homepage" href="/"', f'<a class="ae-header-logo" aria-label="Homepage" href="{path}"')
+    doc = re.sub(r'(<a class="ae-header-logo" aria-label=")[^"]*(" href="{0}")'.format(re.escape(path)), r'\g<1>' + e(T['Homepage'][lang]) + r'\g<2>', doc)
+    doc = doc.replace('ae-dropdown-toggle">en</button>', f'ae-dropdown-toggle">{lang}</button>')
+    doc = re.sub(r'(class="(?:dropdown-item|nav-link) text-uppercase) active("\s*href="/">en</a>)', r'\1\2', doc)
+    doc = re.sub(r'(class="(?:dropdown-item|nav-link) text-uppercase)("\s*href="/{0}/">{0}</a>)'.format(lang), r'\1 active\2', doc)
+    doc = prefix_assets(doc, '../')
+    os.makedirs(os.path.join(SITE, lang), exist_ok=True)
+    open(os.path.join(SITE, lang, 'index.html'), 'w', encoding='utf-8').write(doc)
+    built.append(path)
 
 # ------------------------------------------------------------------ sitemap + robots
 urls = ['/'] + built
