@@ -481,8 +481,15 @@ def hreflang(path):
 
 def localize(doc, lang, path, robots):
     doc = doc.replace('<html lang="en">', f'<html lang="{lang}">', 1)
-    if lang == 'ko':  # Korean glyphs from Noto Sans KR, Latin stays DM Sans
-        doc = doc.replace('<link rel="stylesheet" href="css/fonts.css" />', '<link rel="stylesheet" href="css/fonts.css" />\n    <link rel="stylesheet" href="css/fonts-ko.css" />', 1)
+    extra = {'ko': ['css/fonts-ko.css'],                  # Korean glyphs from Noto Sans KR, Latin stays DM Sans
+             'ar': ['css/fonts-ar.css']}.get(lang, [])     # Arabic glyphs from Noto Sans Arabic
+    if MKT[lang].get('dir') == 'rtl':
+        doc = doc.replace(f'<html lang="{lang}">', f'<html lang="{lang}" dir="rtl">', 1)
+    if extra:
+        doc = doc.replace('<link rel="stylesheet" href="css/fonts.css" />', '<link rel="stylesheet" href="css/fonts.css" />'
+                          + ''.join(f'\n    <link rel="stylesheet" href="{x}" />' for x in extra), 1)
+    if MKT[lang].get('dir') == 'rtl':  # right-to-left adjustments, loaded after all other stylesheets
+        doc = doc.replace('<link rel="stylesheet" href="css/custom.css">', '<link rel="stylesheet" href="css/custom.css"><link rel="stylesheet" href="css/rtl.css">', 1)
     # internal links -> language folder (sitemap and language menu are handled separately)
     doc = re.sub(r'href="/(?!/)(?!sitemap\.xml)([^"]*)"', lambda m: f'href="/{lang}/{m.group(1)}"', doc)
     # language menu: same page in every active language, inactive languages removed
