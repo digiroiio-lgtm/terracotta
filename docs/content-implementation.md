@@ -45,7 +45,7 @@ Phase: content, product data and SEO only. No images, CSS, layout or behaviour w
 | Product data | Colours per product, dimensions, surface & finish and specifications are `null` and shown as "to be confirmed". |
 | Legal pages | Placeholder text only. Real legal texts are needed before launch. |
 | Search | Uses Google site search for terracottaceramictiles.com; works once the site is indexed. |
-| Translations | Only homepages are translated. Other pages need translation if required. Colour names stay in English in all languages. |
+| Translations | Launch priority (P1): English (US, UK, Australia, Canada, UAE), German (Germany), French (France, Canada). German and French homepages are optimised for B2B buyers; Spanish and Russian homepages exist but are not P1. Only homepages are translated so far. Colour names stay in English. |
 | Projects, Awards, Magazine | No verified projects, awards or articles yet. |
 | Breadcrumbs | Structured data only; the design has no visible breadcrumb component. |
 | Favicon | The former favicon was removed; a TERRACOTTA favicon has not been created yet. |

@@ -383,8 +383,10 @@ for path, name in LEGAL:
 # ------------------------------------------------------------------ language homepages
 I18N = json.load(open(os.path.join(SITE, 'data/i18n.json'), encoding='utf-8'))
 LANGS = ['en'] + list(I18N['languages'])
-HREFLANG = ''.join(f'\n\t<link rel="alternate" hreflang="{l}" href="{SITEURL}{"/" if l == "en" else "/" + l + "/"}"/>' for l in LANGS) + \
-           f'\n\t<link rel="alternate" hreflang="x-default" href="{SITEURL}/"/>'
+MKT = I18N['markets']
+home = lambda l: SITEURL + ('/' if l == 'en' else f'/{l}/')
+HREFLANG = ''.join(f'\n\t<link rel="alternate" hreflang="{code}" href="{home(l)}"/>'
+                   for l in LANGS for code in [l] + MKT[l]['regions']) + f'\n\t<link rel="alternate" hreflang="x-default" href="{SITEURL}/"/>'
 
 
 def add_hreflang(doc):
@@ -424,6 +426,13 @@ for lang in I18N['languages']:
     path = f'/{lang}/'
     doc = translate(INDEX, lang)
     doc = doc.replace('<html lang="en">', f'<html lang="{lang}">', 1)
+    loc = f'<meta property="og:locale" content="{MKT[lang]["ogLocale"]}"/>' + ''.join(
+        f'\n\t<meta property="og:locale:alternate" content="{a}"/>' for a in MKT[lang].get('ogLocaleAlternate', []))
+    doc = re.sub(r'<meta property="og:locale" content="[^"]*"/>', loc, doc, count=1)
+    if lang in I18N.get('titles', {}):
+        t = e(I18N['titles'][lang])
+        doc = re.sub(r'<title>.*?</title>', f'<title>{t}</title>', doc, count=1, flags=re.S)
+        doc = re.sub(r'(<meta property="og:title" content=")[^"]*', r'\g<1>' + t, doc, count=1)
     doc = re.sub(r'<link rel="canonical" href="[^"]*"/>', f'<link rel="canonical" href="{SITEURL}{path}"/>', doc, count=1)
     doc = re.sub(r'<script type="application/ld\+json">.*?</script>', lambda m: '<script type="application/ld+json">' + json.dumps(
         {"@context": "https://schema.org", "@type": "WebPage", "name": "TERRACOTTA | The Art of Earth", "url": SITEURL + path, "inLanguage": lang,
