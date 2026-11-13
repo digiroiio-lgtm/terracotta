@@ -27,9 +27,9 @@ Phase: content, product data and SEO only. No images, CSS, layout or behaviour w
 | Generic page template (no-image header + text blocks + CTA banner) | All new pages |
 | `.ae-form` styles | Contacts and Request a Quote forms |
 
-## Pages generated (31)
+## Pages generated (30)
 
-Product Catalogue, Colour Collection, Custom Artisan Tiles, 6 category pages, 12 product pages, Company, Projects, Magazine, Awards, Match App, Contacts, Request a Quote, Technical Information, Materials & Craft, Installation & Care.
+Product Catalogue, Colour Collection, Custom Artisan Tiles, 6 category pages, 12 product pages, Company, Projects, Magazine, Awards, Contacts, Request a Quote, Technical Information, Materials & Craft, Installation & Care.
 
 ## Open items (need a decision or real data)
 
@@ -42,7 +42,7 @@ Product Catalogue, Colour Collection, Custom Artisan Tiles, 6 category pages, 12
 | Search | The search form still posts to `/en/search`; there is no search page. |
 | Language menu | Kept unchanged as required; only English exists, so /fr, /de, /es, /ru return 404. |
 | Newsletter link | Still opens the former site's modal endpoint, which does not exist here. |
-| Match App | Restored in navigation as required. No application exists in this repository; the page only contains the approved intro text. |
+| Match App | Removed from navigation, footer and pages at the owner's request. |
 | Projects, Awards, Magazine | No verified projects, awards or articles yet; pages show the intro and "will be published" text only. |
 | Breadcrumbs | Added as BreadcrumbList structured data only; the existing design has no visible breadcrumb component. |
 | Category card labels | The six category cards have no element for a second "supporting label"; only the main heading is shown. |

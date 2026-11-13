@@ -282,14 +282,6 @@ built.append(page(path, 'Design Awards & Recognition | TERRACOTTA',
                   'Explore verified design awards, recognitions and industry achievements associated with TERRACOTTA.',
                   'Awards &amp; Recognition', b, [{"@type": "WebPage", "name": "Awards & Recognition", "url": SITEURL + path}, crumbs([('Awards', path)])]))
 
-# ------------------------------------------------------------------ match app
-path = '/match-app/'
-b = text_block(path, 0, None, ['Discover the Match App experience and explore how it supports product and design selection.'],
-               ctas=[('Explore Catalogue', '/product-catalogue/'), ('Explore Colours', '/colour-collection/')])
-built.append(page(path, 'TERRACOTTA Match App | Explore Design Possibilities',
-                  'Discover the TERRACOTTA Match App experience and explore how it supports product and design selection.',
-                  'Match App', b, [{"@type": "WebPage", "name": "Match App", "url": SITEURL + path}, crumbs([('Match App', path)])]))
-
 # ------------------------------------------------------------------ contacts
 path = '/contacts/'
 cat_opts = [c['name'] for c in CATS]
