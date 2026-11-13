@@ -19,7 +19,7 @@ Phase: content, product data and SEO only. No images, CSS, layout or behaviour w
 | German | /de/ | de, de-DE | P1 | Live, all pages translated |
 | French | /fr/ | fr, fr-FR, fr-CA | P1 | Live, all pages translated |
 | Dutch | /nl/ | nl, nl-NL | P2 | Live, all pages translated |
-| Korean | /ko/ | ko, ko-KR | P2 | Live, all pages translated; Korean text uses word-based line breaks (`custom.css`) and the system Korean font (DM Sans has no Hangul) |
+| Korean | /ko/ | ko, ko-KR | P2 | Live, all pages translated; Korean text uses word-based line breaks (`custom.css`). Hangul is set in Noto Sans KR (`css/fonts-ko.css`, self-hosted, SIL OFL), declared under the DM Sans name for Korean characters only and loaded on Korean pages only |
 | Arabic | /ar/ | ar, ar-AE | P2 | Needs a separate right-to-left (RTL) development phase |
 | Spanish, Russian | – | – | – | Not in the architecture; translations kept in `i18n.json`, pages not built |
 

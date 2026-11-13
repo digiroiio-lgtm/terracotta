@@ -481,6 +481,8 @@ def hreflang(path):
 
 def localize(doc, lang, path, robots):
     doc = doc.replace('<html lang="en">', f'<html lang="{lang}">', 1)
+    if lang == 'ko':  # Korean glyphs from Noto Sans KR, Latin stays DM Sans
+        doc = doc.replace('<link rel="stylesheet" href="css/fonts.css" />', '<link rel="stylesheet" href="css/fonts.css" />\n    <link rel="stylesheet" href="css/fonts-ko.css" />', 1)
     # internal links -> language folder (sitemap and language menu are handled separately)
     doc = re.sub(r'href="/(?!/)(?!sitemap\.xml)([^"]*)"', lambda m: f'href="/{lang}/{m.group(1)}"', doc)
     # language menu: same page in every active language, inactive languages removed
