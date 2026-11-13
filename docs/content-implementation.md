@@ -36,7 +36,7 @@ Product Catalogue, Colour Collection, Custom Artisan Tiles, 6 category pages, 12
 | Item | Status |
 |---|---|
 | Domain | `siteUrl` in `products.json` is a placeholder (`https://www.example.com`). Canonicals, structured data and the sitemap use it. Replace and re-run the build. |
-| Forms | Contacts and Request a Quote forms have no backend (`action="#"`). A form service or endpoint must be connected. |
+| Forms | Connected to Formspree (form ID `xgakokqp`) with @formspree/ajax 1.1.5, self-hosted in `site/assets/js/`. Both forms post to the same endpoint; `_subject` and `form_type` tell them apart. File uploads (Request a Quote) depend on the Formspree plan. |
 | Product data | Colours per product, dimensions, surface & finish and specifications are `null` and shown as "to be confirmed". |
 | Legal pages | Footer links (privacy, cookies, legal note, sales conditions, accessibility, ethics) still point to the former brand's paths. Real legal texts are needed. |
 | Search | The search form still posts to `/en/search`; there is no search page. |

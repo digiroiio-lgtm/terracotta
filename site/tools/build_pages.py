@@ -18,6 +18,9 @@ CAT = {c['id']: c for c in CATS}
 COLS = D['colours']
 e = lambda s: html.escape(s, quote=True)
 PENDING = 'To be confirmed with verified product data.'
+FORMSPREE_ID = 'xgakokqp'
+FORMSPREE_URL = 'https://formspree.io/f/' + FORMSPREE_ID
+FORMSPREE_JS = 'assets/js/formspree-ajax-1.1.5.js'
 
 # ------------------------------------------------------------------ shell
 head_end = INDEX.index('<body')
@@ -88,31 +91,43 @@ def field(name, label, kind='text', options=None, required=False, half=True, mul
                 opts += f'<optgroup label="{e(o[0])}">' + ''.join(f'<option>{e(x)}</option>' for x in o[1]) + '</optgroup>'
             else:
                 opts += f'<option>{e(o)}</option>'
-        ctl = f'<select class="form-select" id="f-{name}" name="{name}" aria-label="{e(label)}"{req}>{opts}</select>'
+        ctl = f'<select class="form-select" id="f-{name}" name="{name}" aria-label="{e(label)}" data-fs-field{req}>{opts}</select>'
     elif kind == 'textarea':
-        ctl = f'<textarea class="form-control" id="f-{name}" name="{name}" placeholder="{e(label)}{star}" aria-label="{e(label)}"{req}></textarea>'
+        ctl = f'<textarea class="form-control" id="f-{name}" name="{name}" placeholder="{e(label)}{star}" aria-label="{e(label)}" data-fs-field{req}></textarea>'
     elif kind == 'file':
         ctl = (f'<label class="form-label" for="f-{name}">{e(label)}</label>'
-               f'<input class="form-control" type="file" id="f-{name}" name="{name}"{" multiple" if multiple else ""} accept=".pdf,.dwg,.dxf,.jpg,.jpeg,.png">')
+               f'<input class="form-control" type="file" id="f-{name}" name="{name}"{" multiple" if multiple else ""} accept=".pdf,.dwg,.dxf,.jpg,.jpeg,.png" data-fs-field>')
     else:
-        ctl = f'<input class="form-control" type="{kind}" id="f-{name}" name="{name}" placeholder="{e(label)}{star}" aria-label="{e(label)}"{req}>'
-    return f'\n                    <div class="{col}">{ctl}</div>'
+        ctl = f'<input class="form-control" type="{kind}" id="f-{name}" name="{name}" placeholder="{e(label)}{star}" aria-label="{e(label)}" data-fs-field{req}>'
+    return f'\n                    <div class="{col}">{ctl}<span data-fs-error="{name}"></span></div>'
 
 
-def form_block(path, i, form_id, intro, fields, cta, enctype=None):
+def form_block(path, i, form_id, intro, fields, cta, subject, form_type, success, enctype=None):
+    """Form posted to Formspree. Works as a plain HTML POST without JavaScript;
+    with JavaScript the @formspree/ajax library submits it in place and shows the messages."""
     enc = f' enctype="{enctype}"' if enctype else ''
+    prefix = '../' * (path.strip('/').count('/') + 1)
     return f'''<div class="ae-section ae-text-block ae-bg-grey" id="{bid(path, i)}">
     <div class="ae-container ae-animate">
         <div class="ae-generic-text-container">
             <div class="ae-form">
                 <div class="ae-form-intro"><p>{intro}</p></div>
-                <form class="row" id="{form_id}" method="post" action="#"{enc}>{''.join(fields)}
-                    <div class="col-12 ae-form-buttons"><button type="submit" class="btn btn-outline-primary">{cta}</button></div>
+                <div data-fs-success>{success}</div>
+                <div data-fs-error></div>
+                <form class="row" id="{form_id}" method="POST" action="{FORMSPREE_URL}"{enc}>
+                    <input type="hidden" name="_subject" value="{e(subject)}">
+                    <input type="hidden" name="form_type" value="{e(form_type)}">{''.join(fields)}
+                    <div class="col-12 ae-form-buttons"><button type="submit" class="btn btn-outline-primary" data-fs-submit-btn>{cta}</button></div>
                 </form>
             </div>
         </div>
     </div>
 </div>
+<script>
+    window.formspree = window.formspree || function () {{ (formspree.q = formspree.q || []).push(arguments); }};
+    formspree('initForm', {{ formElement: '#{form_id}', formId: '{FORMSPREE_ID}' }});
+</script>
+<script src="{prefix}{FORMSPREE_JS}" defer></script>
 '''
 
 
@@ -294,7 +309,8 @@ b += form_block(path, 1, 'contact-form', 'Fields marked * are required.', [
     field('enquiry_type', 'Enquiry Type', 'select', ['Product Information', 'Architectural Project', 'Custom Artisan Tiles', 'Distribution Partnership', 'General Enquiry'], required=True),
     field('product_category', 'Product Category', 'select', cat_opts), field('project_area', 'Estimated Project Area (m²)'),
     field('project_description', 'Project Description', 'textarea', half=False),
-    field('additional_information', 'Additional Information', 'textarea', half=False)], 'Send Enquiry')
+    field('additional_information', 'Additional Information', 'textarea', half=False)], 'Send Enquiry',
+    'New enquiry – TERRACOTTA website', 'Contact', 'Thank you. Your enquiry has been sent and our team will be in touch.')
 built.append(page(path, 'Contact TERRACOTTA | Product & Project Enquiries',
                   'Contact TERRACOTTA for product information, architectural projects, custom tile enquiries and distribution opportunities.',
                   'Let&#x27;s Talk About Your Project', b, [{"@type": "ContactPage", "name": "Contact TERRACOTTA", "url": SITEURL + path}, crumbs([('Contacts', path)])],
@@ -313,7 +329,9 @@ b += form_block(path, 1, 'quote-form', 'Fields marked * are required.', [
     field('project_type', 'Project Type', 'select', ['Residential', 'Hospitality', 'Commercial', 'Outdoor Living', 'Landscape Architecture', 'Other']),
     field('project_timeline', 'Project Timeline'),
     field('additional_information', 'Additional Information', 'textarea', half=False),
-    field('drawings', 'Upload Drawings or Plans', 'file', half=False, multiple=True)], 'Submit Enquiry', enctype='multipart/form-data')
+    field('drawings', 'Upload Drawings or Plans', 'file', half=False, multiple=True)], 'Submit Enquiry',
+    'New quote request – TERRACOTTA website', 'Request a Quote', 'Thank you. Your quote request has been sent and our team will review your requirements.',
+    enctype='multipart/form-data')
 built.append(page(path, 'Request a Terracotta Tile Quote | TERRACOTTA',
                   'Request product information and a tailored quotation for your terracotta tile or architectural project.',
                   'Request a Quote', b, [{"@type": "ContactPage", "name": "Request a Quote", "url": SITEURL + path}, crumbs([('Request a Quote', path)])],

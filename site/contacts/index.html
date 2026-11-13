@@ -614,23 +614,32 @@
         <div class="ae-generic-text-container">
             <div class="ae-form">
                 <div class="ae-form-intro"><p>Fields marked * are required.</p></div>
-                <form class="row" id="contact-form" method="post" action="#">
-                    <div class="col-12 col-md-6"><input class="form-control" type="text" id="f-full_name" name="full_name" placeholder="Full Name *" aria-label="Full Name" required></div>
-                    <div class="col-12 col-md-6"><input class="form-control" type="text" id="f-company" name="company" placeholder="Company" aria-label="Company"></div>
-                    <div class="col-12 col-md-6"><input class="form-control" type="email" id="f-email" name="email" placeholder="Email Address *" aria-label="Email Address" required></div>
-                    <div class="col-12 col-md-6"><input class="form-control" type="text" id="f-country" name="country" placeholder="Country *" aria-label="Country" required></div>
-                    <div class="col-12 col-md-6"><input class="form-control" type="tel" id="f-telephone" name="telephone" placeholder="Telephone" aria-label="Telephone"></div>
-                    <div class="col-12 col-md-6"><select class="form-select" id="f-enquiry_type" name="enquiry_type" aria-label="Enquiry Type" required><option value="">Enquiry Type *</option><option>Product Information</option><option>Architectural Project</option><option>Custom Artisan Tiles</option><option>Distribution Partnership</option><option>General Enquiry</option></select></div>
-                    <div class="col-12 col-md-6"><select class="form-select" id="f-product_category" name="product_category" aria-label="Product Category"><option value="">Product Category</option><option>Terracotta Floor Tiles</option><option>Outdoor Terracotta Tiles</option><option>Terracotta Pool Tiles</option><option>Decorative Terracotta Tiles</option><option>Terracotta Wall Tiles</option><option>Terracotta Steps &amp; Copings</option></select></div>
-                    <div class="col-12 col-md-6"><input class="form-control" type="text" id="f-project_area" name="project_area" placeholder="Estimated Project Area (m²)" aria-label="Estimated Project Area (m²)"></div>
-                    <div class="col-12"><textarea class="form-control" id="f-project_description" name="project_description" placeholder="Project Description" aria-label="Project Description"></textarea></div>
-                    <div class="col-12"><textarea class="form-control" id="f-additional_information" name="additional_information" placeholder="Additional Information" aria-label="Additional Information"></textarea></div>
-                    <div class="col-12 ae-form-buttons"><button type="submit" class="btn btn-outline-primary">Send Enquiry</button></div>
+                <div data-fs-success>Thank you. Your enquiry has been sent and our team will be in touch.</div>
+                <div data-fs-error></div>
+                <form class="row" id="contact-form" method="POST" action="https://formspree.io/f/xgakokqp">
+                    <input type="hidden" name="_subject" value="New enquiry – TERRACOTTA website">
+                    <input type="hidden" name="form_type" value="Contact">
+                    <div class="col-12 col-md-6"><input class="form-control" type="text" id="f-full_name" name="full_name" placeholder="Full Name *" aria-label="Full Name" data-fs-field required><span data-fs-error="full_name"></span></div>
+                    <div class="col-12 col-md-6"><input class="form-control" type="text" id="f-company" name="company" placeholder="Company" aria-label="Company" data-fs-field><span data-fs-error="company"></span></div>
+                    <div class="col-12 col-md-6"><input class="form-control" type="email" id="f-email" name="email" placeholder="Email Address *" aria-label="Email Address" data-fs-field required><span data-fs-error="email"></span></div>
+                    <div class="col-12 col-md-6"><input class="form-control" type="text" id="f-country" name="country" placeholder="Country *" aria-label="Country" data-fs-field required><span data-fs-error="country"></span></div>
+                    <div class="col-12 col-md-6"><input class="form-control" type="tel" id="f-telephone" name="telephone" placeholder="Telephone" aria-label="Telephone" data-fs-field><span data-fs-error="telephone"></span></div>
+                    <div class="col-12 col-md-6"><select class="form-select" id="f-enquiry_type" name="enquiry_type" aria-label="Enquiry Type" data-fs-field required><option value="">Enquiry Type *</option><option>Product Information</option><option>Architectural Project</option><option>Custom Artisan Tiles</option><option>Distribution Partnership</option><option>General Enquiry</option></select><span data-fs-error="enquiry_type"></span></div>
+                    <div class="col-12 col-md-6"><select class="form-select" id="f-product_category" name="product_category" aria-label="Product Category" data-fs-field><option value="">Product Category</option><option>Terracotta Floor Tiles</option><option>Outdoor Terracotta Tiles</option><option>Terracotta Pool Tiles</option><option>Decorative Terracotta Tiles</option><option>Terracotta Wall Tiles</option><option>Terracotta Steps &amp; Copings</option></select><span data-fs-error="product_category"></span></div>
+                    <div class="col-12 col-md-6"><input class="form-control" type="text" id="f-project_area" name="project_area" placeholder="Estimated Project Area (m²)" aria-label="Estimated Project Area (m²)" data-fs-field><span data-fs-error="project_area"></span></div>
+                    <div class="col-12"><textarea class="form-control" id="f-project_description" name="project_description" placeholder="Project Description" aria-label="Project Description" data-fs-field></textarea><span data-fs-error="project_description"></span></div>
+                    <div class="col-12"><textarea class="form-control" id="f-additional_information" name="additional_information" placeholder="Additional Information" aria-label="Additional Information" data-fs-field></textarea><span data-fs-error="additional_information"></span></div>
+                    <div class="col-12 ae-form-buttons"><button type="submit" class="btn btn-outline-primary" data-fs-submit-btn>Send Enquiry</button></div>
                 </form>
             </div>
         </div>
     </div>
 </div>
+<script>
+    window.formspree = window.formspree || function () { (formspree.q = formspree.q || []).push(arguments); };
+    formspree('initForm', { formElement: '#contact-form', formId: 'xgakokqp' });
+</script>
+<script src="../assets/js/formspree-ajax-1.1.5.js" defer></script>
 </main>
             <div class="ae-section pre-footer-block ae-bg-grey" id="pre-footer-block-5d6570fd12254ec89ab9010e59cae1d6">
 
