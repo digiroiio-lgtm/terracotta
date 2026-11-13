@@ -1,0 +1,62 @@
+/* Right-to-left (Arabic) adjustments. Loaded on dir="rtl" pages only.
+
+   The page layout (left bar, header order, image positions, carousels) stays exactly
+   as in the other languages, as agreed for this phase. Only text-bearing elements run
+   right-to-left, so Arabic reads and aligns correctly without redesigning the site. */
+
+html[dir="rtl"],
+html[dir="rtl"] body {
+    direction: ltr
+}
+
+/* text runs right-to-left */
+html[dir="rtl"] h1, html[dir="rtl"] h2, html[dir="rtl"] h3, html[dir="rtl"] h4,
+html[dir="rtl"] .h1, html[dir="rtl"] .h2, html[dir="rtl"] .h3,
+html[dir="rtl"] p, html[dir="rtl"] ul, html[dir="rtl"] ol, html[dir="rtl"] li,
+html[dir="rtl"] label, html[dir="rtl"] figcaption, html[dir="rtl"] .nav-link,
+html[dir="rtl"] .ae-mobile-nav-link, html[dir="rtl"] .btn, html[dir="rtl"] .ae-generic-text-container,
+html[dir="rtl"] .ae-text-content, html[dir="rtl"] .ae-call-to-actions, html[dir="rtl"] .ae-form,
+html[dir="rtl"] .ae-list-item-info, html[dir="rtl"] .ae-articles-list-item div,
+html[dir="rtl"] .ae-header-submenu-item-right > div, html[dir="rtl"] .ae-pre-footer-menu,
+html[dir="rtl"] .ae-footer-menu-container, html[dir="rtl"] .ae-footer-bottom p,
+html[dir="rtl"] .ae-banner-cta-container .h3, html[dir="rtl"] input, html[dir="rtl"] textarea,
+html[dir="rtl"] select {
+    direction: rtl
+}
+
+/* lists: bullet and indent on the right */
+html[dir="rtl"] .ae-generic-text-container ul {
+    padding-left: 0;
+    padding-right: 1.25rem
+}
+
+/* select arrow on the left so it does not cover the text */
+html[dir="rtl"] .form-select {
+    background-position: left 1.125rem center;
+    padding-left: 2.5rem;
+    padding-right: 1.125rem
+}
+
+/* form error messages sit on the left edge of the field */
+html[dir="rtl"] .ae-form span.field-validation-error,
+html[dir="rtl"] .ae-form span[data-fs-error] {
+    right: auto;
+    left: 1rem
+}
+
+/* Arabic script needs a little more line height than Latin */
+html[dir="rtl"] p, html[dir="rtl"] li {
+    line-height: 1.8
+}
+
+/* mobile menu: open/close arrow and icons on the left of the Arabic labels */
+html[dir="rtl"] #nav-mobile .ae-mobile-nav-link[data-bs-toggle=collapse]:after,
+html[dir="rtl"] #nav-mobile .ae-mobile-submenu .nav-link[data-bs-toggle=collapse]:after {
+    right: auto;
+    left: 24px
+}
+
+html[dir="rtl"] #nav-mobile .ae-mobile-nav-link > span {
+    margin-left: 0;
+    margin-right: 24px
+}

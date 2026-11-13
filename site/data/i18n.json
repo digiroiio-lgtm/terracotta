@@ -1,0 +1,3430 @@
+{
+  "_note": "Keys are the English strings of the site. \"active\" lists the languages that are built. Colour names and the brand name stay in English.",
+  "strings": {
+    "About TERRACOTTA": {
+      "fr": "À propos de TERRACOTTA",
+      "de": "Über TERRACOTTA",
+      "es": "Sobre TERRACOTTA",
+      "ru": "О TERRACOTTA",
+      "nl": "Over TERRACOTTA",
+      "ko": "TERRACOTTA 소개",
+      "ar": "عن TERRACOTTA",
+      "tr": "TERRACOTTA Hakkında"
+    },
+    "About TERRACOTTA | The Art of Earth": {
+      "fr": "À propos de TERRACOTTA | The Art of Earth",
+      "de": "Über TERRACOTTA | The Art of Earth",
+      "es": "Sobre TERRACOTTA | The Art of Earth",
+      "ru": "О TERRACOTTA | The Art of Earth",
+      "nl": "Over TERRACOTTA | The Art of Earth",
+      "ko": "TERRACOTTA 소개 | The Art of Earth",
+      "ar": "عن TERRACOTTA | The Art of Earth",
+      "tr": "TERRACOTTA Hakkında | The Art of Earth"
+    },
+    "Accessibility Statement": {
+      "fr": "Déclaration d'accessibilité",
+      "de": "Erklärung zur Barrierefreiheit",
+      "es": "Declaración de accesibilidad",
+      "ru": "Заявление о доступности",
+      "nl": "Toegankelijkheidsverklaring",
+      "ko": "접근성 정책",
+      "ar": "بيان إمكانية الوصول",
+      "tr": "Erişilebilirlik Beyanı"
+    },
+    "Architecture & Design": {
+      "fr": "Architecture & Design",
+      "de": "Architektur & Design",
+      "es": "Arquitectura y Diseño",
+      "ru": "Архитектура и дизайн",
+      "nl": "Architectuur & Design",
+      "ko": "건축 & 디자인",
+      "ar": "العمارة والتصميم",
+      "tr": "Mimari & Tasarım"
+    },
+    "Available sizes, surface finishes and technical specifications will be published after production validation. For project details, special formats or samples, contact our team and request a quote.": {
+      "fr": "Les formats disponibles, les finitions de surface et les caractéristiques techniques seront publiés après validation de la production. Pour les détails de votre projet, des formats spéciaux ou des échantillons, contactez notre équipe et demandez un devis.",
+      "de": "Verfügbare Formate, Oberflächen und technische Daten werden nach der Produktionsfreigabe veröffentlicht. Für Projektdetails, Sonderformate oder Muster wenden Sie sich an unser Team und fordern Sie ein Angebot an.",
+      "es": "Los formatos disponibles, los acabados de superficie y las especificaciones técnicas se publicarán tras la validación de la producción. Para detalles de proyecto, formatos especiales o muestras, contacte con nuestro equipo y solicite un presupuesto.",
+      "ru": "Доступные размеры, отделка поверхности и технические характеристики будут опубликованы после подтверждения производства. Чтобы обсудить проект, специальные форматы или образцы, свяжитесь с нашей командой и запросите коммерческое предложение.",
+      "nl": "Beschikbare formaten, oppervlakteafwerkingen en technische specificaties worden gepubliceerd na validatie van de productie. Neem voor projectdetails, speciale formaten of monsters contact op met ons team en vraag een offerte aan.",
+      "ko": "제공 규격, 표면 마감 및 기술 사양은 생산 검증 후 공개됩니다. 프로젝트 세부 사항, 특수 규격 또는 샘플은 저희 팀에 문의하시어 견적을 요청해 주십시오.",
+      "ar": "ستُنشر المقاسات المتوفرة والتشطيبات السطحية والمواصفات الفنية بعد اعتماد الإنتاج. لتفاصيل المشاريع أو المقاسات الخاصة أو العينات، تواصلوا مع فريقنا واطلبوا عرض سعر.",
+      "tr": "Mevcut ebatlar, yüzey bitişleri ve teknik özellikler üretim doğrulamasından sonra yayımlanacaktır. Proje detayları, özel ebatlar veya numuneler için ekibimizle iletişime geçin ve teklif isteyin."
+    },
+    "Awards": {
+      "fr": "Distinctions",
+      "de": "Auszeichnungen",
+      "es": "Premios",
+      "ru": "Награды",
+      "nl": "Onderscheidingen",
+      "ko": "수상",
+      "ar": "الجوائز",
+      "tr": "Ödüller"
+    },
+    "Back to top": {
+      "fr": "Retour en haut",
+      "de": "Nach oben",
+      "es": "Volver arriba",
+      "ru": "Наверх",
+      "nl": "Naar boven",
+      "ko": "맨 위로",
+      "ar": "العودة إلى الأعلى",
+      "tr": "Başa dön"
+    },
+    "Bathroom": {
+      "fr": "Salle de bain",
+      "de": "Badezimmer",
+      "es": "Baño",
+      "ru": "Ванная",
+      "nl": "Badkamer",
+      "ko": "욕실",
+      "ar": "الحمّام",
+      "tr": "Banyo"
+    },
+    "Bathroom Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour salle de bain | TERRACOTTA",
+      "de": "Terrakottafliesen für das Badezimmer | TERRACOTTA",
+      "es": "Baldosas de terracota para baño | TERRACOTTA",
+      "ru": "Терракотовая плитка для ванной | TERRACOTTA",
+      "nl": "Terracotta tegels voor de badkamer | TERRACOTTA",
+      "ko": "욕실용 테라코타 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا للحمّامات | TERRACOTTA",
+      "tr": "Banyo için terracotta karo | TERRACOTTA"
+    },
+    "Bedroom": {
+      "fr": "Chambre",
+      "de": "Schlafzimmer",
+      "es": "Dormitorio",
+      "ru": "Спальня",
+      "nl": "Slaapkamer",
+      "ko": "침실",
+      "ar": "غرفة النوم",
+      "tr": "Yatak Odası"
+    },
+    "Bedroom Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour chambre | TERRACOTTA",
+      "de": "Terrakottafliesen für das Schlafzimmer | TERRACOTTA",
+      "es": "Baldosas de terracota para dormitorio | TERRACOTTA",
+      "ru": "Терракотовая плитка для спальни | TERRACOTTA",
+      "nl": "Terracotta tegels voor de slaapkamer | TERRACOTTA",
+      "ko": "침실용 테라코타 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا لغرف النوم | TERRACOTTA",
+      "tr": "Yatak odası için terracotta karo | TERRACOTTA"
+    },
+    "Brick Tiles": {
+      "fr": "Briquettes",
+      "de": "Ziegelformate",
+      "es": "Baldosas tipo ladrillo",
+      "ru": "Плитка-кирпич",
+      "nl": "Steenstrips",
+      "ko": "브릭 타일",
+      "ar": "بلاط على شكل طوب",
+      "tr": "Tuğla Karolar"
+    },
+    "Categories": {
+      "fr": "Catégories",
+      "de": "Kategorien",
+      "es": "Categorías",
+      "ru": "Категории",
+      "nl": "Categorieën",
+      "ko": "카테고리",
+      "ar": "الفئات",
+      "tr": "Kategoriler"
+    },
+    "Choose language": {
+      "fr": "Choisir la langue",
+      "de": "Sprache wählen",
+      "es": "Elegir idioma",
+      "ru": "Выберите язык",
+      "nl": "Kies een taal",
+      "ko": "언어 선택",
+      "ar": "اختر اللغة",
+      "tr": "Dil seçin"
+    },
+    "Code of Ethics": {
+      "fr": "Code d'éthique",
+      "de": "Verhaltenskodex",
+      "es": "Código ético",
+      "ru": "Этический кодекс",
+      "nl": "Gedragscode",
+      "ko": "윤리 강령",
+      "ar": "مدونة السلوك",
+      "tr": "Etik Kurallar"
+    },
+    "Colour Collection": {
+      "fr": "Collection de couleurs",
+      "de": "Farbkollektion",
+      "es": "Colección de colores",
+      "ru": "Коллекция цветов",
+      "nl": "Kleurencollectie",
+      "ko": "컬러 컬렉션",
+      "ar": "مجموعة الألوان",
+      "tr": "Renk Koleksiyonu"
+    },
+    "Colours": {
+      "fr": "Couleurs",
+      "de": "Farben",
+      "es": "Colores",
+      "ru": "Цвета",
+      "nl": "Kleuren",
+      "ko": "컬러",
+      "ar": "الألوان",
+      "tr": "Renkler"
+    },
+    "Commercial Spaces": {
+      "fr": "Espaces commerciaux",
+      "de": "Gewerbe & Objekt",
+      "es": "Espacios comerciales",
+      "ru": "Коммерческие пространства",
+      "nl": "Commerciële ruimtes",
+      "ko": "상업 공간",
+      "ar": "المساحات التجارية",
+      "tr": "Ticari Alanlar"
+    },
+    "Commercial Spaces Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour espaces commerciaux | TERRACOTTA",
+      "de": "Terrakottafliesen für Gewerbe & Objekt | TERRACOTTA",
+      "es": "Baldosas de terracota para espacios comerciales | TERRACOTTA",
+      "ru": "Терракотовая плитка для коммерческих пространств | TERRACOTTA",
+      "nl": "Terracotta tegels voor commerciële ruimtes | TERRACOTTA",
+      "ko": "상업 공간용 테라코타 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا للمساحات التجارية | TERRACOTTA",
+      "tr": "Ticari alanlar için terracotta karo | TERRACOTTA"
+    },
+    "Company": {
+      "fr": "Entreprise",
+      "de": "Unternehmen",
+      "es": "Empresa",
+      "ru": "Компания",
+      "nl": "Bedrijf",
+      "ko": "회사",
+      "ar": "الشركة",
+      "tr": "Kurumsal"
+    },
+    "Concepts for patios, terraces, gardens and poolside spaces.": {
+      "fr": "Des idées pour patios, terrasses, jardins et abords de piscine.",
+      "de": "Konzepte für Patios, Terrassen, Gärten und Poolbereiche.",
+      "es": "Propuestas para patios, terrazas, jardines y zonas de piscina.",
+      "ru": "Идеи для патио, террас, садов и зон у бассейна.",
+      "nl": "Ideeën voor patio's, terrassen, tuinen en zwembadomgevingen.",
+      "ko": "파티오, 테라스, 정원 및 수영장 주변 공간을 위한 아이디어.",
+      "ar": "أفكار للفناءات والتراسات والحدائق ومحيط المسابح.",
+      "tr": "Avlu, teras, bahçe ve havuz çevresi için fikirler."
+    },
+    "Contacts": {
+      "fr": "Contact",
+      "de": "Kontakt",
+      "es": "Contacto",
+      "ru": "Контакты",
+      "nl": "Contact",
+      "ko": "문의",
+      "ar": "تواصل معنا",
+      "tr": "İletişim"
+    },
+    "Cookie Policy": {
+      "fr": "Politique relative aux cookies",
+      "de": "Cookie-Richtlinie",
+      "es": "Política de cookies",
+      "ru": "Политика использования cookie",
+      "nl": "Cookiebeleid",
+      "ko": "쿠키 정책",
+      "ar": "سياسة ملفات تعريف الارتباط",
+      "tr": "Çerez Politikası"
+    },
+    "Custom Artisan Tiles": {
+      "fr": "Carreaux sur mesure",
+      "de": "Sonderanfertigungen",
+      "es": "Baldosas artesanales a medida",
+      "ru": "Индивидуальная авторская плитка",
+      "nl": "Maatwerktegels",
+      "ko": "맞춤 제작 타일",
+      "ar": "بلاط مُصمَّم حسب الطلب",
+      "tr": "Özel Tasarım Karolar"
+    },
+    "Custom Artisan Tiles | TERRACOTTA": {
+      "fr": "Carreaux sur mesure | TERRACOTTA",
+      "de": "Sonderanfertigungen | TERRACOTTA",
+      "es": "Baldosas artesanales a medida | TERRACOTTA",
+      "ru": "Индивидуальная авторская плитка | TERRACOTTA",
+      "nl": "Maatwerktegels | TERRACOTTA",
+      "ko": "맞춤 제작 타일 | TERRACOTTA",
+      "ar": "بلاط مُصمَّم حسب الطلب | TERRACOTTA",
+      "tr": "Özel Tasarım Karolar | TERRACOTTA"
+    },
+    "Decorative Relief Tiles": {
+      "fr": "Carreaux décoratifs en relief",
+      "de": "Dekorative Relieffliesen",
+      "es": "Baldosas decorativas en relieve",
+      "ru": "Декоративная рельефная плитка",
+      "nl": "Decoratieve reliëftegels",
+      "ko": "장식용 릴리프 타일",
+      "ar": "بلاط زخرفي بارز",
+      "tr": "Dekoratif Rölyef Karolar"
+    },
+    "Decorative Relief Tiles | TERRACOTTA": {
+      "fr": "Carreaux décoratifs en relief | TERRACOTTA",
+      "de": "Dekorative Relieffliesen | TERRACOTTA",
+      "es": "Baldosas decorativas en relieve | TERRACOTTA",
+      "ru": "Декоративная рельефная плитка | TERRACOTTA",
+      "nl": "Decoratieve reliëftegels | TERRACOTTA",
+      "ko": "장식용 릴리프 타일 | TERRACOTTA",
+      "ar": "بلاط زخرفي بارز | TERRACOTTA",
+      "tr": "Dekoratif Rölyef Karolar | TERRACOTTA"
+    },
+    "Decorative Terracotta Tiles": {
+      "fr": "Carreaux décoratifs en terre cuite",
+      "de": "Dekorative Terrakottafliesen",
+      "es": "Baldosas decorativas de terracota",
+      "ru": "Декоративная терракотовая плитка",
+      "nl": "Decoratieve terracotta tegels",
+      "ko": "장식용 테라코타 타일",
+      "ar": "بلاط تيراكوتا زخرفي",
+      "tr": "Dekoratif Terracotta Karolar"
+    },
+    "Decorative Terracotta Tiles bring pattern, rhythm and texture to floors and walls. Hexagon Terracotta Tiles create geometric compositions that work as a full surface or as a feature area, while Decorative Relief Tiles add embossed, textured and patterned surfaces to every project. Colours and formats for each design will be confirmed with verified product data, so decorative areas can be planned to contrast with or complement the surrounding floors and walls.": {
+      "fr": "Les carreaux décoratifs en terre cuite apportent motifs, rythme et texture aux sols et aux murs. Les carreaux hexagonaux créent des compositions géométriques, en surface complète ou en zone d'accent, tandis que les carreaux décoratifs en relief ajoutent des surfaces embossées, texturées et ornées à chaque projet. Les couleurs et formats de chaque modèle seront confirmés par des données produit vérifiées, afin que les zones décoratives puissent être pensées en contraste ou en harmonie avec les sols et murs environnants.",
+      "de": "Dekorative Terrakottafliesen bringen Muster, Rhythmus und Struktur auf Böden und Wände. Sechseckige Terrakottafliesen schaffen geometrische Kompositionen für ganze Flächen oder Akzentbereiche, während dekorative Relieffliesen jedem Projekt geprägte, strukturierte und gemusterte Oberflächen verleihen. Farben und Formate jedes Designs werden mit geprüften Produktdaten bestätigt, damit dekorative Bereiche im Kontrast oder im Einklang mit den umgebenden Böden und Wänden geplant werden können.",
+      "es": "Las baldosas decorativas de terracota aportan patrón, ritmo y textura a suelos y paredes. Las baldosas hexagonales crean composiciones geométricas para superficies completas o zonas de acento, mientras que las baldosas decorativas en relieve añaden superficies grabadas, texturizadas y estampadas a cada proyecto. Los colores y formatos de cada diseño se confirmarán con datos de producto verificados, para que las zonas decorativas puedan planificarse en contraste o en armonía con los suelos y paredes del entorno.",
+      "ru": "Декоративная терракотовая плитка придаёт полам и стенам узор, ритм и фактуру. Шестигранная терракотовая плитка создаёт геометрические композиции — на всей поверхности или в виде акцентной зоны, а декоративная рельефная плитка добавляет каждому проекту тиснёные, фактурные и узорчатые поверхности. Цвета и форматы каждого дизайна будут подтверждены проверенными данными о продукции, чтобы декоративные зоны можно было планировать в контрасте или в гармонии с окружающими полами и стенами.",
+      "nl": "Decoratieve terracotta tegels brengen patroon, ritme en textuur op vloeren en wanden. Zeshoekige terracotta tegels vormen geometrische composities voor een volledig oppervlak of een accentzone, terwijl decoratieve reliëftegels elk project verrijken met gestempelde, getextureerde en gedessineerde oppervlakken. Kleuren en formaten per ontwerp worden bevestigd met geverifieerde productgegevens, zodat decoratieve zones in contrast of in harmonie met de omliggende vloeren en wanden kunnen worden gepland.",
+      "ko": "장식용 테라코타 타일은 바닥과 벽에 패턴, 리듬, 질감을 더합니다. 육각 테라코타 타일은 전체 면이나 포인트 영역에 기하학적 구성을 만들고, 장식용 릴리프 타일은 모든 프로젝트에 엠보싱, 질감, 패턴 표면을 더합니다. 각 디자인의 컬러와 규격은 검증된 제품 데이터로 확정되므로, 장식 영역을 주변 바닥 및 벽과 대비되거나 조화되도록 계획할 수 있습니다.",
+      "ar": "يضفي بلاط التيراكوتا الزخرفي النقوش والإيقاع والملمس على الأرضيات والجدران. يشكّل بلاط التيراكوتا السداسي تكوينات هندسية لسطح كامل أو لمساحة مميّزة، بينما يضيف البلاط الزخرفي البارز أسطحًا منقوشة وذات ملمس وزخارف إلى كل مشروع. سيتم تأكيد ألوان ومقاسات كل تصميم ببيانات منتج موثّقة، ليتسنّى تخطيط المساحات الزخرفية بما يتباين أو ينسجم مع الأرضيات والجدران المحيطة.",
+      "tr": "Dekoratif terracotta karolar zemin ve duvarlara desen, ritim ve doku katar. Altıgen terracotta karolar tüm yüzeyde ya da vurgu alanlarında geometrik kompozisyonlar oluştururken, dekoratif rölyef karolar her projeye kabartmalı, dokulu ve desenli yüzeyler ekler. Her tasarımın renk ve ebatları doğrulanmış ürün verileriyle teyit edilecektir; böylece dekoratif alanlar çevredeki zemin ve duvarlarla kontrast ya da uyum içinde planlanabilir."
+    },
+    "Decorative Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux décoratifs en terre cuite | TERRACOTTA",
+      "de": "Dekorative Terrakottafliesen | TERRACOTTA",
+      "es": "Baldosas decorativas de terracota | TERRACOTTA",
+      "ru": "Декоративная терракотовая плитка | TERRACOTTA",
+      "nl": "Decoratieve terracotta tegels | TERRACOTTA",
+      "ko": "장식용 테라코타 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا زخرفي | TERRACOTTA",
+      "tr": "Dekoratif Terracotta Karolar | TERRACOTTA"
+    },
+    "Decorative Tiles": {
+      "fr": "Carreaux décoratifs",
+      "de": "Dekorfliesen",
+      "es": "Baldosas decorativas",
+      "ru": "Декоративная плитка",
+      "nl": "Decoratieve tegels",
+      "ko": "장식 타일",
+      "ar": "بلاط زخرفي",
+      "tr": "Dekoratif Karolar"
+    },
+    "Designing Outdoor Spaces with Natural Materials": {
+      "fr": "Concevoir des espaces extérieurs avec des matériaux naturels",
+      "de": "Außenbereiche mit natürlichen Materialien gestalten",
+      "es": "Diseñar espacios exteriores con materiales naturales",
+      "ru": "Проектирование открытых пространств из натуральных материалов",
+      "nl": "Buitenruimtes ontwerpen met natuurlijke materialen",
+      "ko": "자연 소재로 설계하는 외부 공간",
+      "ar": "تصميم المساحات الخارجية بمواد طبيعية",
+      "tr": "Doğal Malzemelerle Dış Mekân Tasarımı"
+    },
+    "Designing Outdoor Spaces with Natural Materials | TERRACOTTA Magazine": {
+      "fr": "Concevoir des espaces extérieurs avec des matériaux naturels | Magazine TERRACOTTA",
+      "de": "Außenbereiche mit natürlichen Materialien gestalten | TERRACOTTA Magazin",
+      "es": "Diseñar espacios exteriores con materiales naturales | Revista TERRACOTTA",
+      "ru": "Проектирование открытых пространств из натуральных материалов | Журнал TERRACOTTA",
+      "nl": "Buitenruimtes ontwerpen met natuurlijke materialen | TERRACOTTA Magazine",
+      "ko": "자연 소재로 설계하는 외부 공간 | TERRACOTTA 매거진",
+      "ar": "تصميم المساحات الخارجية بمواد طبيعية | مجلة TERRACOTTA",
+      "tr": "Doğal Malzemelerle Dış Mekân Tasarımı | TERRACOTTA Dergi"
+    },
+    "Discover Decorative Tiles": {
+      "fr": "Découvrir les carreaux décoratifs",
+      "de": "Dekorfliesen entdecken",
+      "es": "Descubrir las baldosas decorativas",
+      "ru": "Открыть декоративную плитку",
+      "nl": "Ontdek decoratieve tegels",
+      "ko": "장식 타일 보기",
+      "ar": "اكتشف البلاط الزخرفي",
+      "tr": "Dekoratif Karoları Keşfedin"
+    },
+    "Discover distinctive terracotta designs and explore possibilities for customised architectural projects.": {
+      "fr": "Découvrez des créations en terre cuite singulières et explorez les possibilités pour des projets architecturaux personnalisés.",
+      "de": "Entdecken Sie unverwechselbare Terrakotta-Designs und die Möglichkeiten für individuelle Architekturprojekte.",
+      "es": "Descubra diseños de terracota singulares y explore posibilidades para proyectos arquitectónicos personalizados.",
+      "ru": "Откройте для себя выразительные терракотовые решения и возможности для индивидуальных архитектурных проектов.",
+      "nl": "Ontdek onderscheidende terracotta ontwerpen en de mogelijkheden voor architectuurprojecten op maat.",
+      "ko": "개성 있는 테라코타 디자인과 맞춤형 건축 프로젝트의 가능성을 확인해 보십시오.",
+      "ar": "اكتشفوا تصاميم تيراكوتا مميّزة وإمكانات المشاريع المعمارية المصمّمة حسب الطلب.",
+      "tr": "Kendine özgü terracotta tasarımlarını ve projeye özel mimari uygulamaların olanaklarını keşfedin."
+    },
+    "Discover the TERRACOTTA collection through six architectural categories and twelve distinctive product types. Explore natural clay forms, earthy colours and design possibilities for every space.": {
+      "fr": "Découvrez la collection TERRACOTTA à travers six catégories architecturales et douze types de produits distinctifs. Explorez les formes de l'argile naturelle, les couleurs de la terre et les possibilités de design pour chaque espace.",
+      "de": "Entdecken Sie die TERRACOTTA Kollektion in sechs architektonischen Kategorien und zwölf unverwechselbaren Produkttypen. Erkunden Sie Formen aus natürlichem Ton, erdige Farben und Gestaltungsmöglichkeiten für jeden Raum.",
+      "es": "Descubra la colección TERRACOTTA a través de seis categorías arquitectónicas y doce tipos de producto distintivos. Explore las formas de la arcilla natural, los colores de la tierra y las posibilidades de diseño para cada espacio.",
+      "ru": "Откройте коллекцию TERRACOTTA: шесть архитектурных категорий и двенадцать выразительных типов продукции. Исследуйте формы натуральной глины, землистые цвета и дизайнерские возможности для любого пространства.",
+      "nl": "Ontdek de TERRACOTTA collectie in zes architecturale categorieën en twaalf onderscheidende producttypes. Verken de vormen van natuurlijke klei, aardse kleuren en ontwerpmogelijkheden voor elke ruimte.",
+      "ko": "여섯 가지 건축 카테고리와 열두 가지 제품 유형으로 TERRACOTTA 컬렉션을 만나 보십시오. 자연 점토의 형태, 흙빛 컬러, 그리고 모든 공간을 위한 디자인 가능성을 살펴보십시오.",
+      "ar": "اكتشفوا مجموعة TERRACOTTA عبر ست فئات معمارية واثني عشر نوعًا مميّزًا من المنتجات. استكشفوا أشكال الطين الطبيعي وألوان الأرض وإمكانات التصميم لكل مساحة.",
+      "tr": "TERRACOTTA koleksiyonunu altı mimari kategori ve on iki özgün ürün tipiyle keşfedin. Doğal kilin formlarını, toprak renklerini ve her mekân için tasarım olanaklarını inceleyin."
+    },
+    "Discover twelve earthy shades inspired by clay, stone, nature and Mediterranean landscapes.": {
+      "fr": "Découvrez douze teintes terreuses inspirées de l'argile, de la pierre, de la nature et des paysages méditerranéens.",
+      "de": "Entdecken Sie zwölf erdige Farbtöne, inspiriert von Ton, Stein, Natur und mediterranen Landschaften.",
+      "es": "Descubra doce tonos terrosos inspirados en la arcilla, la piedra, la naturaleza y los paisajes mediterráneos.",
+      "ru": "Откройте двенадцать землистых оттенков, вдохновлённых глиной, камнем, природой и средиземноморскими пейзажами.",
+      "nl": "Ontdek twaalf aardse tinten, geïnspireerd op klei, steen, natuur en mediterrane landschappen.",
+      "ko": "점토, 돌, 자연, 지중해 풍경에서 영감을 받은 열두 가지 흙빛 컬러를 만나 보십시오.",
+      "ar": "اكتشفوا اثني عشر لونًا ترابيًا مستوحى من الطين والحجر والطبيعة ومناظر البحر الأبيض المتوسط.",
+      "tr": "Kil, taş, doğa ve Akdeniz manzaralarından ilham alan on iki toprak tonunu keşfedin."
+    },
+    "Distribution Enquiries": {
+      "fr": "Distributeurs et revendeurs",
+      "de": "Händler- & Importanfragen",
+      "es": "Consultas de distribución",
+      "ru": "Запросы по дистрибуции",
+      "nl": "Dealer- en distributieaanvragen",
+      "ko": "대리점·수입 문의",
+      "ar": "استفسارات التوزيع والوكلاء",
+      "tr": "Bayi ve Distribütör Başvuruları"
+    },
+    "EXPLORE THE COLLECTION": {
+      "fr": "EXPLOREZ LA COLLECTION",
+      "de": "ENTDECKEN SIE DIE KOLLEKTION",
+      "es": "EXPLORE LA COLECCIÓN",
+      "ru": "ОТКРОЙТЕ КОЛЛЕКЦИЮ",
+      "nl": "ONTDEK DE COLLECTIE",
+      "ko": "컬렉션 살펴보기",
+      "ar": "استكشف المجموعة",
+      "tr": "KOLEKSİYONU KEŞFEDİN"
+    },
+    "Ethics and Compliance": {
+      "fr": "Éthique et conformité",
+      "de": "Ethik und Compliance",
+      "es": "Ética y cumplimiento",
+      "ru": "Этика и комплаенс",
+      "nl": "Ethiek en compliance",
+      "ko": "윤리 및 컴플라이언스",
+      "ar": "الأخلاقيات والامتثال",
+      "tr": "Etik ve Uyum"
+    },
+    "Every TERRACOTTA product card lists its product name, category, product type, available colours, available sizes, surface & finish, product description and technical specifications, together with a direct request for a quote.": {
+      "fr": "Chaque fiche produit TERRACOTTA indique le nom du produit, la catégorie, le type de produit, les couleurs et formats disponibles, la surface et la finition, la description et les caractéristiques techniques, avec une demande de devis directe.",
+      "de": "Jede TERRACOTTA Produktkarte nennt Produktname, Kategorie, Produkttyp, verfügbare Farben und Formate, Oberfläche & Finish, Produktbeschreibung und technische Daten – zusammen mit einer direkten Angebotsanfrage.",
+      "es": "Cada ficha de producto TERRACOTTA indica el nombre del producto, la categoría, el tipo de producto, los colores y formatos disponibles, la superficie y el acabado, la descripción y las especificaciones técnicas, junto con una solicitud de presupuesto directa.",
+      "ru": "Каждая карточка продукта TERRACOTTA содержит название, категорию, тип продукта, доступные цвета и размеры, поверхность и отделку, описание и технические характеристики, а также прямой запрос коммерческого предложения.",
+      "nl": "Elke TERRACOTTA productkaart vermeldt productnaam, categorie, producttype, beschikbare kleuren en formaten, oppervlak & afwerking, productbeschrijving en technische specificaties, samen met een directe offerteaanvraag.",
+      "ko": "모든 TERRACOTTA 제품 카드에는 제품명, 카테고리, 제품 유형, 제공 컬러와 규격, 표면 및 마감, 제품 설명, 기술 사양과 함께 견적 요청 버튼이 제공됩니다.",
+      "ar": "تتضمن كل بطاقة منتج من TERRACOTTA اسم المنتج والفئة ونوع المنتج والألوان والمقاسات المتوفرة والسطح والتشطيب ووصف المنتج والمواصفات الفنية، إلى جانب طلب مباشر لعرض السعر.",
+      "tr": "Her TERRACOTTA ürün kartında ürün adı, kategori, ürün tipi, mevcut renkler ve ebatlar, yüzey ve bitiş, ürün açıklaması ve teknik özellikler ile doğrudan teklif talebi yer alır."
+    },
+    "Explore Projects": {
+      "fr": "Explorer les projets",
+      "de": "Projekte entdecken",
+      "es": "Explorar proyectos",
+      "ru": "Смотреть проекты",
+      "nl": "Bekijk projecten",
+      "ko": "프로젝트 보기",
+      "ar": "استكشف المشاريع",
+      "tr": "Projeleri İnceleyin"
+    },
+    "Explore architectural spaces and design concepts inspired by the natural character of terracotta. Discover how colour, texture and material selection contribute to distinctive environments.": {
+      "fr": "Explorez des espaces architecturaux et des concepts de design inspirés du caractère naturel de la terre cuite. Découvrez comment la couleur, la texture et le choix des matériaux façonnent des lieux singuliers.",
+      "de": "Entdecken Sie architektonische Räume und Designkonzepte, inspiriert vom natürlichen Charakter der Terrakotta. Erfahren Sie, wie Farbe, Struktur und Materialwahl unverwechselbare Umgebungen prägen.",
+      "es": "Explore espacios arquitectónicos y conceptos de diseño inspirados en el carácter natural de la terracota. Descubra cómo el color, la textura y la elección de materiales contribuyen a crear entornos singulares.",
+      "ru": "Исследуйте архитектурные пространства и дизайнерские концепции, вдохновлённые природным характером терракоты. Узнайте, как цвет, фактура и выбор материалов создают выразительную среду.",
+      "nl": "Verken architecturale ruimtes en ontwerpconcepten geïnspireerd op het natuurlijke karakter van terracotta. Ontdek hoe kleur, textuur en materiaalkeuze bijdragen aan onderscheidende omgevingen.",
+      "ko": "테라코타의 자연스러운 개성에서 영감을 받은 건축 공간과 디자인 콘셉트를 살펴보십시오. 컬러, 질감, 소재 선택이 어떻게 개성 있는 공간을 만드는지 확인해 보십시오.",
+      "ar": "استكشفوا مساحات معمارية ومفاهيم تصميم مستوحاة من الطابع الطبيعي للتيراكوتا، واكتشفوا كيف يسهم اللون والملمس واختيار المواد في صنع بيئات مميّزة.",
+      "tr": "Terracottanın doğal karakterinden ilham alan mimari mekânları ve tasarım konseptlerini keşfedin. Renk, doku ve malzeme seçiminin özgün mekânlar yaratmaya nasıl katkı sağladığını görün."
+    },
+    "Explore the TERRACOTTA collection of natural clay tiles, architectural surfaces and decorative formats.": {
+      "fr": "Explorez la collection TERRACOTTA de carreaux en argile naturelle, de surfaces architecturales et de formats décoratifs.",
+      "de": "Entdecken Sie die TERRACOTTA Kollektion aus Fliesen aus natürlichem Ton, architektonischen Oberflächen und dekorativen Formaten.",
+      "es": "Explore la colección TERRACOTTA de baldosas de arcilla natural, superficies arquitectónicas y formatos decorativos.",
+      "ru": "Откройте коллекцию TERRACOTTA: плитка из натуральной глины, архитектурные поверхности и декоративные форматы.",
+      "nl": "Ontdek de TERRACOTTA collectie van tegels van natuurlijke klei, architecturale oppervlakken en decoratieve formaten.",
+      "ko": "자연 점토 타일, 건축 표면재, 장식용 포맷으로 구성된 TERRACOTTA 컬렉션을 살펴보십시오.",
+      "ar": "استكشفوا مجموعة TERRACOTTA من بلاط الطين الطبيعي والأسطح المعمارية والتصاميم الزخرفية.",
+      "tr": "Doğal kil karolar, mimari yüzeyler ve dekoratif formatlardan oluşan TERRACOTTA koleksiyonunu keşfedin."
+    },
+    "Featured": {
+      "fr": "À la une",
+      "de": "Highlights",
+      "es": "Destacados",
+      "ru": "Рекомендуем",
+      "nl": "Uitgelicht",
+      "ko": "추천",
+      "ar": "مختارات",
+      "tr": "Öne Çıkanlar"
+    },
+    "Find out more": {
+      "fr": "En savoir plus",
+      "de": "Mehr erfahren",
+      "es": "Más información",
+      "ru": "Подробнее",
+      "nl": "Meer informatie",
+      "ko": "자세히 보기",
+      "ar": "اعرف المزيد",
+      "tr": "Detaylı bilgi"
+    },
+    "Floor Tiles": {
+      "fr": "Sols",
+      "de": "Bodenfliesen",
+      "es": "Baldosas de suelo",
+      "ru": "Напольная плитка",
+      "nl": "Vloertegels",
+      "ko": "바닥 타일",
+      "ar": "بلاط الأرضيات",
+      "tr": "Zemin Karoları"
+    },
+    "General Sales Conditions": {
+      "fr": "Conditions générales de vente",
+      "de": "Allgemeine Verkaufsbedingungen",
+      "es": "Condiciones generales de venta",
+      "ru": "Общие условия продажи",
+      "nl": "Algemene verkoopvoorwaarden",
+      "ko": "일반 판매 약관",
+      "ar": "الشروط العامة للبيع",
+      "tr": "Genel Satış Koşulları"
+    },
+    "Get in Touch with Our Tile Experts": {
+      "fr": "Contactez nos spécialistes",
+      "de": "Kontakt zu unseren Fliesenexperten",
+      "es": "Contacte con nuestros expertos",
+      "ru": "Свяжитесь с нашими специалистами",
+      "nl": "Neem contact op met onze tegelspecialisten",
+      "ko": "타일 전문가에게 문의하기",
+      "ar": "تواصلوا مع خبراء البلاط لدينا",
+      "tr": "Karo uzmanlarımızla iletişime geçin"
+    },
+    "Hexagon Terracotta Tiles": {
+      "fr": "Tomettes hexagonales en terre cuite",
+      "de": "Sechseckige Terrakotta Fliesen",
+      "es": "Baldosas hexagonales de terracota",
+      "ru": "Шестигранная терракотовая плитка",
+      "nl": "Zeshoekige terracotta tegels",
+      "ko": "육각 테라코타 타일",
+      "ar": "بلاط تيراكوتا سداسي",
+      "tr": "Altıgen Terracotta Karolar"
+    },
+    "Hexagon Terracotta Tiles | Geometric Clay Designs": {
+      "fr": "Tomettes hexagonales en terre cuite | Motifs géométriques en argile",
+      "de": "Sechseckige Terrakotta Fliesen | Geometrische Designs aus Ton",
+      "es": "Baldosas hexagonales de terracota | Diseños geométricos en arcilla",
+      "ru": "Шестигранная терракотовая плитка | Геометрические решения из глины",
+      "nl": "Zeshoekige terracotta tegels | Geometrische ontwerpen in klei",
+      "ko": "육각 테라코타 타일 | 점토로 만든 기하학적 디자인",
+      "ar": "بلاط تيراكوتا سداسي | تصاميم طينية هندسية",
+      "tr": "Altıgen Terracotta Karolar | Kilden Geometrik Tasarımlar"
+    },
+    "Hexagon Tiles": {
+      "fr": "Carreaux hexagonaux",
+      "de": "Sechseckfliesen",
+      "es": "Baldosas hexagonales",
+      "ru": "Шестигранная плитка",
+      "nl": "Zeshoekige tegels",
+      "ko": "육각 타일",
+      "ar": "بلاط سداسي",
+      "tr": "Altıgen Karolar"
+    },
+    "Homepage": {
+      "fr": "Accueil",
+      "de": "Startseite",
+      "es": "Inicio",
+      "ru": "Главная",
+      "nl": "Homepage",
+      "ko": "홈페이지",
+      "ar": "الصفحة الرئيسية",
+      "tr": "Ana sayfa"
+    },
+    "Hospitality": {
+      "fr": "Hôtellerie",
+      "de": "Hotellerie",
+      "es": "Hostelería",
+      "ru": "Гостиничный сектор",
+      "nl": "Hospitality",
+      "ko": "호스피탈리티",
+      "ar": "الضيافة",
+      "tr": "Konaklama"
+    },
+    "Hospitality | Projects & Inspiration": {
+      "fr": "Hôtellerie | Projets & Inspiration",
+      "de": "Hotellerie | Projekte & Inspiration",
+      "es": "Hostelería | Proyectos e inspiración",
+      "ru": "Гостиничный сектор | Проекты и вдохновение",
+      "nl": "Hospitality | Projecten & inspiratie",
+      "ko": "호스피탈리티 | 프로젝트 & 영감",
+      "ar": "الضيافة | مشاريع وإلهام",
+      "tr": "Konaklama | Projeler & İlham"
+    },
+    "How to Use Earth Tones in Contemporary Interiors": {
+      "fr": "Utiliser les tons terre dans les intérieurs contemporains",
+      "de": "Erdtöne in zeitgenössischen Interieurs einsetzen",
+      "es": "Cómo usar los tonos tierra en interiores contemporáneos",
+      "ru": "Как использовать землистые оттенки в современных интерьерах",
+      "nl": "Aardetinten gebruiken in hedendaagse interieurs",
+      "ko": "현대 인테리어에 어스 톤을 활용하는 방법",
+      "ar": "كيفية استخدام الألوان الترابية في التصميم الداخلي المعاصر",
+      "tr": "Çağdaş İç Mekânlarda Toprak Tonları Nasıl Kullanılır"
+    },
+    "How to Use Earth Tones in Contemporary Interiors | TERRACOTTA Magazine": {
+      "fr": "Utiliser les tons terre dans les intérieurs contemporains | Magazine TERRACOTTA",
+      "de": "Erdtöne in zeitgenössischen Interieurs einsetzen | TERRACOTTA Magazin",
+      "es": "Cómo usar los tonos tierra en interiores contemporáneos | Revista TERRACOTTA",
+      "ru": "Как использовать землистые оттенки в современных интерьерах | Журнал TERRACOTTA",
+      "nl": "Aardetinten gebruiken in hedendaagse interieurs | TERRACOTTA Magazine",
+      "ko": "현대 인테리어에 어스 톤을 활용하는 방법 | TERRACOTTA 매거진",
+      "ar": "كيفية استخدام الألوان الترابية في التصميم الداخلي المعاصر | مجلة TERRACOTTA",
+      "tr": "Çağdaş İç Mekânlarda Toprak Tonları Nasıl Kullanılır | TERRACOTTA Dergi"
+    },
+    "Ideas for homes and private residences shaped by natural clay.": {
+      "fr": "Des idées pour des maisons et résidences privées façonnées par l'argile naturelle.",
+      "de": "Ideen für Häuser und Privatresidenzen, geprägt von natürlichem Ton.",
+      "es": "Ideas para viviendas y residencias privadas definidas por la arcilla natural.",
+      "ru": "Идеи для домов и частных резиденций из натуральной глины.",
+      "nl": "Ideeën voor woningen en privéresidenties, gevormd door natuurlijke klei.",
+      "ko": "자연 점토로 완성하는 주택과 개인 주거 공간 아이디어.",
+      "ar": "أفكار للمنازل والمساكن الخاصة بلمسة الطين الطبيعي.",
+      "tr": "Doğal kilin şekillendirdiği evler ve özel konutlar için fikirler."
+    },
+    "Informations": {
+      "fr": "Informations",
+      "de": "Informationen",
+      "es": "Información",
+      "ru": "Информация",
+      "nl": "Informatie",
+      "ko": "정보",
+      "ar": "معلومات",
+      "tr": "Bilgiler"
+    },
+    "Inspiration for boutique hotels and hospitality spaces.": {
+      "fr": "De l'inspiration pour les hôtels boutique et les espaces d'accueil.",
+      "de": "Inspiration für Boutique-Hotels und Gastgewerbe.",
+      "es": "Inspiración para hoteles boutique y espacios de hostelería.",
+      "ru": "Вдохновение для бутик-отелей и гостиничных пространств.",
+      "nl": "Inspiratie voor boetiekhotels en hospitality.",
+      "ko": "부티크 호텔과 호스피탈리티 공간을 위한 영감.",
+      "ar": "إلهام للفنادق البوتيكية ومساحات الضيافة.",
+      "tr": "Butik oteller ve konaklama mekânları için ilham."
+    },
+    "Installation & Care": {
+      "fr": "Pose & Entretien",
+      "de": "Verlegung & Pflege",
+      "es": "Instalación y cuidado",
+      "ru": "Укладка и уход",
+      "nl": "Plaatsing & onderhoud",
+      "ko": "시공 & 관리",
+      "ar": "التركيب والعناية",
+      "tr": "Uygulama & Bakım"
+    },
+    "Interior Inspiration": {
+      "fr": "Inspiration intérieure",
+      "de": "Interior-Inspiration",
+      "es": "Inspiración para interiores",
+      "ru": "Идеи для интерьера",
+      "nl": "Interieurinspiratie",
+      "ko": "인테리어 영감",
+      "ar": "إلهام للتصميم الداخلي",
+      "tr": "İç Mekân İlhamı"
+    },
+    "Kitchen": {
+      "fr": "Cuisine",
+      "de": "Küche",
+      "es": "Cocina",
+      "ru": "Кухня",
+      "nl": "Keuken",
+      "ko": "주방",
+      "ar": "المطبخ",
+      "tr": "Mutfak"
+    },
+    "Kitchen Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour cuisine | TERRACOTTA",
+      "de": "Terrakottafliesen für die Küche | TERRACOTTA",
+      "es": "Baldosas de terracota para cocina | TERRACOTTA",
+      "ru": "Терракотовая плитка для кухни | TERRACOTTA",
+      "nl": "Terracotta tegels voor de keuken | TERRACOTTA",
+      "ko": "주방용 테라코타 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا للمطابخ | TERRACOTTA",
+      "tr": "Mutfak için terracotta karo | TERRACOTTA"
+    },
+    "Language": {
+      "fr": "Langue",
+      "de": "Sprache",
+      "es": "Idioma",
+      "ru": "Язык",
+      "nl": "Taal",
+      "ko": "언어",
+      "ar": "اللغة",
+      "tr": "Dil"
+    },
+    "Legal Notice": {
+      "fr": "Mentions légales",
+      "de": "Impressum",
+      "es": "Aviso legal",
+      "ru": "Правовая информация",
+      "nl": "Juridische informatie",
+      "ko": "법적 고지",
+      "ar": "إشعار قانوني",
+      "tr": "Yasal Bilgilendirme"
+    },
+    "Living Room": {
+      "fr": "Salon",
+      "de": "Wohnzimmer",
+      "es": "Salón",
+      "ru": "Гостиная",
+      "nl": "Woonkamer",
+      "ko": "거실",
+      "ar": "غرفة المعيشة",
+      "tr": "Oturma Odası"
+    },
+    "Living Room Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour salon | TERRACOTTA",
+      "de": "Terrakottafliesen für das Wohnzimmer | TERRACOTTA",
+      "es": "Baldosas de terracota para salón | TERRACOTTA",
+      "ru": "Терракотовая плитка для гостиной | TERRACOTTA",
+      "nl": "Terracotta tegels voor de woonkamer | TERRACOTTA",
+      "ko": "거실용 테라코타 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا لغرف المعيشة | TERRACOTTA",
+      "tr": "Oturma odası için terracotta karo | TERRACOTTA"
+    },
+    "Magazine": {
+      "fr": "Magazine",
+      "de": "Magazin",
+      "es": "Revista",
+      "ru": "Журнал",
+      "nl": "Magazine",
+      "ko": "매거진",
+      "ar": "المجلة",
+      "tr": "Dergi"
+    },
+    "Magazine, News, and Trends from the World of Terracotta": {
+      "fr": "Magazine, actualités et tendances de l'univers de la terre cuite",
+      "de": "Magazin, News und Trends aus der Welt der Terrakotta",
+      "es": "Revista, noticias y tendencias del mundo de la terracota",
+      "ru": "Журнал, новости и тренды из мира терракоты",
+      "nl": "Magazine, nieuws en trends uit de wereld van terracotta",
+      "ko": "테라코타의 세계에서 전하는 매거진, 뉴스, 트렌드",
+      "ar": "المجلة والأخبار والتوجهات من عالم التيراكوتا",
+      "tr": "Terracotta Dünyasından Dergi, Haberler ve Trendler"
+    },
+    "Materials & Craft": {
+      "fr": "Matière & Savoir-faire",
+      "de": "Material & Handwerk",
+      "es": "Materiales y oficio",
+      "ru": "Материалы и мастерство",
+      "nl": "Materiaal & vakmanschap",
+      "ko": "소재 & 공예",
+      "ar": "المواد والحِرفية",
+      "tr": "Malzeme & Zanaat"
+    },
+    "Menu toggle": {
+      "fr": "Ouvrir le menu",
+      "de": "Menü öffnen",
+      "es": "Abrir menú",
+      "ru": "Открыть меню",
+      "nl": "Menu openen",
+      "ko": "메뉴 열기",
+      "ar": "فتح القائمة",
+      "tr": "Menüyü aç"
+    },
+    "More Colours": {
+      "fr": "Plus de couleurs",
+      "de": "Weitere Farben",
+      "es": "Más colores",
+      "ru": "Другие цвета",
+      "nl": "Meer kleuren",
+      "ko": "더 많은 컬러",
+      "ar": "المزيد من الألوان",
+      "tr": "Diğer Renkler"
+    },
+    "Natural Clay & Terracotta Craft | TERRACOTTA": {
+      "fr": "Argile naturelle & savoir-faire de la terre cuite | TERRACOTTA",
+      "de": "Natürlicher Ton & Terrakotta-Handwerk | TERRACOTTA",
+      "es": "Arcilla natural y oficio de la terracota | TERRACOTTA",
+      "ru": "Натуральная глина и искусство терракоты | TERRACOTTA",
+      "nl": "Natuurlijke klei & terracotta vakmanschap | TERRACOTTA",
+      "ko": "자연 점토 & 테라코타 공예 | TERRACOTTA",
+      "ar": "الطين الطبيعي وحِرفية التيراكوتا | TERRACOTTA",
+      "tr": "Doğal Kil & Terracotta Zanaatı | TERRACOTTA"
+    },
+    "Natural clay, shaped and finished with care for every surface.": {
+      "fr": "L'argile naturelle, façonnée et finie avec soin pour chaque surface.",
+      "de": "Natürlicher Ton, sorgfältig geformt und veredelt für jede Oberfläche.",
+      "es": "Arcilla natural, moldeada y acabada con cuidado para cada superficie.",
+      "ru": "Натуральная глина, бережно сформированная и обработанная для любой поверхности.",
+      "nl": "Natuurlijke klei, met zorg gevormd en afgewerkt voor elk oppervlak.",
+      "ko": "모든 표면을 위해 정성껏 빚고 마감한 자연 점토.",
+      "ar": "طين طبيعي يُشكَّل ويُشطَّب بعناية لكل سطح.",
+      "tr": "Her yüzey için özenle şekillendirilip bitirilen doğal kil."
+    },
+    "Next": {
+      "fr": "Suivant",
+      "de": "Weiter",
+      "es": "Siguiente",
+      "ru": "Далее",
+      "nl": "Volgende",
+      "ko": "다음",
+      "ar": "التالي",
+      "tr": "Sonraki"
+    },
+    "Outdoor Living": {
+      "fr": "Vie en extérieur",
+      "de": "Outdoor Living",
+      "es": "Vida al aire libre",
+      "ru": "Жизнь на открытом воздухе",
+      "nl": "Buitenleven",
+      "ko": "아웃도어 리빙",
+      "ar": "الحياة في الهواء الطلق",
+      "tr": "Dış Mekân Yaşamı"
+    },
+    "Outdoor Living | Projects & Inspiration": {
+      "fr": "Vie en extérieur | Projets & Inspiration",
+      "de": "Outdoor Living | Projekte & Inspiration",
+      "es": "Vida al aire libre | Proyectos e inspiración",
+      "ru": "Жизнь на открытом воздухе | Проекты и вдохновение",
+      "nl": "Buitenleven | Projecten & inspiratie",
+      "ko": "아웃도어 리빙 | 프로젝트 & 영감",
+      "ar": "الحياة في الهواء الطلق | مشاريع وإلهام",
+      "tr": "Dış Mekân Yaşamı | Projeler & İlham"
+    },
+    "Outdoor Spaces": {
+      "fr": "Espaces extérieurs",
+      "de": "Außenbereiche",
+      "es": "Espacios exteriores",
+      "ru": "Открытые пространства",
+      "nl": "Buitenruimtes",
+      "ko": "외부 공간",
+      "ar": "المساحات الخارجية",
+      "tr": "Dış Mekânlar"
+    },
+    "Outdoor Spaces Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour l'extérieur | TERRACOTTA",
+      "de": "Terrakottafliesen für Außenbereiche | TERRACOTTA",
+      "es": "Baldosas de terracota para exteriores | TERRACOTTA",
+      "ru": "Терракотовая плитка для открытых пространств | TERRACOTTA",
+      "nl": "Terracotta tegels voor buitenruimtes | TERRACOTTA",
+      "ko": "외부 공간용 테라코타 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا للمساحات الخارجية | TERRACOTTA",
+      "tr": "Dış mekânlar için terracotta karo | TERRACOTTA"
+    },
+    "Outdoor Terracotta Tiles": {
+      "fr": "Carreaux en terre cuite pour l'extérieur",
+      "de": "Terrakottafliesen für außen",
+      "es": "Baldosas de terracota para exterior",
+      "ru": "Уличная терракотовая плитка",
+      "nl": "Terracotta buitentegels",
+      "ko": "외부용 테라코타 타일",
+      "ar": "بلاط تيراكوتا خارجي",
+      "tr": "Dış Mekân Terracotta Karoları"
+    },
+    "Outdoor Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour l'extérieur | TERRACOTTA",
+      "de": "Terrakottafliesen für außen | TERRACOTTA",
+      "es": "Baldosas de terracota para exterior | TERRACOTTA",
+      "ru": "Уличная терракотовая плитка | TERRACOTTA",
+      "nl": "Terracotta buitentegels | TERRACOTTA",
+      "ko": "외부용 테라코타 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا خارجي | TERRACOTTA",
+      "tr": "Dış Mekân Terracotta Karoları | TERRACOTTA"
+    },
+    "Outdoor Terracotta Tiles: Natural Clay for Outdoor Spaces": {
+      "fr": "Carreaux en terre cuite pour l'extérieur : l'argile naturelle au jardin",
+      "de": "Terrakottafliesen für außen: natürlicher Ton für den Außenbereich",
+      "es": "Baldosas de terracota para exterior: arcilla natural al aire libre",
+      "ru": "Уличная терракотовая плитка: натуральная глина для открытых пространств",
+      "nl": "Terracotta buitentegels: natuurlijke klei voor buitenruimtes",
+      "ko": "외부용 테라코타 타일: 외부 공간을 위한 자연 점토",
+      "ar": "بلاط تيراكوتا خارجي: طين طبيعي للمساحات الخارجية",
+      "tr": "Dış Mekân Terracotta Karoları: Dış Mekânlar İçin Doğal Kil"
+    },
+    "Outdoor Tiles": {
+      "fr": "Carreaux d'extérieur",
+      "de": "Außenfliesen",
+      "es": "Baldosas de exterior",
+      "ru": "Уличная плитка",
+      "nl": "Buitentegels",
+      "ko": "외부용 타일",
+      "ar": "بلاط خارجي",
+      "tr": "Dış Mekân Karoları"
+    },
+    "Pavers": {
+      "fr": "Dalles",
+      "de": "Terrassenplatten",
+      "es": "Adoquines",
+      "ru": "Тротуарная плитка",
+      "nl": "Terrastegels",
+      "ko": "페이버",
+      "ar": "بلاط الممرات",
+      "tr": "Yer Döşemeleri"
+    },
+    "Pool Coping": {
+      "fr": "Margelles de piscine",
+      "de": "Beckenrandsteine",
+      "es": "Coronación de piscina",
+      "ru": "Бортовой камень бассейна",
+      "nl": "Zwembadranden",
+      "ko": "수영장 코핑",
+      "ar": "حواف المسابح",
+      "tr": "Havuz Kenar Taşları"
+    },
+    "Pool Surround": {
+      "fr": "Plage de piscine",
+      "de": "Poolumrandung",
+      "es": "Entorno de piscina",
+      "ru": "Обрамление бассейна",
+      "nl": "Zwembadomloop",
+      "ko": "수영장 주변",
+      "ar": "محيط المسبح",
+      "tr": "Havuz Çevresi"
+    },
+    "Pool Surround Tiles": {
+      "fr": "Carreaux pour plage de piscine",
+      "de": "Fliesen für die Poolumrandung",
+      "es": "Baldosas para entorno de piscina",
+      "ru": "Плитка для обрамления бассейна",
+      "nl": "Tegels voor de zwembadomloop",
+      "ko": "수영장 주변 타일",
+      "ar": "بلاط محيط المسبح",
+      "tr": "Havuz Çevresi Karoları"
+    },
+    "Pool Tiles": {
+      "fr": "Carreaux de piscine",
+      "de": "Poolfliesen",
+      "es": "Baldosas de piscina",
+      "ru": "Плитка для бассейна",
+      "nl": "Zwembadtegels",
+      "ko": "수영장 타일",
+      "ar": "بلاط المسابح",
+      "tr": "Havuz Karoları"
+    },
+    "Pool and Wellness": {
+      "fr": "Piscine et bien-être",
+      "de": "Pool und Wellness",
+      "es": "Piscina y bienestar",
+      "ru": "Бассейн и спа",
+      "nl": "Zwembad en wellness",
+      "ko": "수영장 & 웰니스",
+      "ar": "المسابح والعافية",
+      "tr": "Havuz ve Wellness"
+    },
+    "Pool and Wellness Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour piscine et bien-être | TERRACOTTA",
+      "de": "Terrakottafliesen für Pool und Wellness | TERRACOTTA",
+      "es": "Baldosas de terracota para piscina y bienestar | TERRACOTTA",
+      "ru": "Терракотовая плитка для бассейна и спа | TERRACOTTA",
+      "nl": "Terracotta tegels voor zwembad en wellness | TERRACOTTA",
+      "ko": "수영장 & 웰니스용 테라코타 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا للمسابح ومرافق العافية | TERRACOTTA",
+      "tr": "Havuz ve wellness alanları için terracotta karo | TERRACOTTA"
+    },
+    "Previous": {
+      "fr": "Précédent",
+      "de": "Zurück",
+      "es": "Anterior",
+      "ru": "Назад",
+      "nl": "Vorige",
+      "ko": "이전",
+      "ar": "السابق",
+      "tr": "Önceki"
+    },
+    "Privacy policy": {
+      "fr": "Politique de confidentialité",
+      "de": "Datenschutzerklärung",
+      "es": "Política de privacidad",
+      "ru": "Политика конфиденциальности",
+      "nl": "Privacybeleid",
+      "ko": "개인정보 처리방침",
+      "ar": "سياسة الخصوصية",
+      "tr": "Gizlilik politikası"
+    },
+    "Product Catalogue": {
+      "fr": "Catalogue produits",
+      "de": "Produktkatalog",
+      "es": "Catálogo de productos",
+      "ru": "Каталог продукции",
+      "nl": "Productcatalogus",
+      "ko": "제품 카탈로그",
+      "ar": "كتالوج المنتجات",
+      "tr": "Ürün Kataloğu"
+    },
+    "Products": {
+      "fr": "Produits",
+      "de": "Produkte",
+      "es": "Productos",
+      "ru": "Продукция",
+      "nl": "Producten",
+      "ko": "제품",
+      "ar": "المنتجات",
+      "tr": "Ürünler"
+    },
+    "Projects": {
+      "fr": "Projets",
+      "de": "Projekte",
+      "es": "Proyectos",
+      "ru": "Проекты",
+      "nl": "Projecten",
+      "ko": "프로젝트",
+      "ar": "المشاريع",
+      "tr": "Projeler"
+    },
+    "Projects & Inspiration": {
+      "fr": "Projets & Inspiration",
+      "de": "Projekte & Inspiration",
+      "es": "Proyectos e inspiración",
+      "ru": "Проекты и вдохновение",
+      "nl": "Projecten & inspiratie",
+      "ko": "프로젝트 & 영감",
+      "ar": "مشاريع وإلهام",
+      "tr": "Projeler & İlham"
+    },
+    "Rectangle Terracotta Tiles": {
+      "fr": "Carreaux rectangulaires en terre cuite",
+      "de": "Rechteckige Terrakottafliesen",
+      "es": "Baldosas rectangulares de terracota",
+      "ru": "Прямоугольная терракотовая плитка",
+      "nl": "Rechthoekige terracotta tegels",
+      "ko": "직사각형 테라코타 타일",
+      "ar": "بلاط تيراكوتا مستطيل",
+      "tr": "Dikdörtgen Terracotta Karolar"
+    },
+    "Rectangle Terracotta Tiles | TERRACOTTA": {
+      "fr": "Carreaux rectangulaires en terre cuite | TERRACOTTA",
+      "de": "Rechteckige Terrakottafliesen | TERRACOTTA",
+      "es": "Baldosas rectangulares de terracota | TERRACOTTA",
+      "ru": "Прямоугольная терракотовая плитка | TERRACOTTA",
+      "nl": "Rechthoekige terracotta tegels | TERRACOTTA",
+      "ko": "직사각형 테라코타 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا مستطيل | TERRACOTTA",
+      "tr": "Dikdörtgen Terracotta Karolar | TERRACOTTA"
+    },
+    "Rectangle Tiles": {
+      "fr": "Carreaux rectangles",
+      "de": "Rechteckfliesen",
+      "es": "Baldosas rectangulares",
+      "ru": "Прямоугольная плитка",
+      "nl": "Rechthoekige tegels",
+      "ko": "직사각형 타일",
+      "ar": "بلاط مستطيل",
+      "tr": "Dikdörtgen Karolar"
+    },
+    "Relief Tiles": {
+      "fr": "Carreaux en relief",
+      "de": "Relieffliesen",
+      "es": "Baldosas en relieve",
+      "ru": "Рельефная плитка",
+      "nl": "Reliëftegels",
+      "ko": "릴리프 타일",
+      "ar": "بلاط بارز",
+      "tr": "Rölyef Karolar"
+    },
+    "Request a Quote": {
+      "fr": "Demander un devis",
+      "de": "Angebot anfordern",
+      "es": "Solicitar presupuesto",
+      "ru": "Запросить предложение",
+      "nl": "Offerte aanvragen",
+      "ko": "견적 요청",
+      "ar": "اطلب عرض سعر",
+      "tr": "Teklif İsteyin"
+    },
+    "Reserved Area": {
+      "fr": "Espace professionnel",
+      "de": "Händlerbereich",
+      "es": "Área reservada",
+      "ru": "Личный кабинет",
+      "nl": "Dealerportaal",
+      "ko": "파트너 전용",
+      "ar": "منطقة الشركاء",
+      "tr": "Bayi Alanı"
+    },
+    "Reserved area": {
+      "fr": "Espace professionnel",
+      "de": "Händlerbereich",
+      "es": "Área reservada",
+      "ru": "Личный кабинет",
+      "nl": "Dealerportaal",
+      "ko": "파트너 전용",
+      "ar": "منطقة الشركاء",
+      "tr": "Bayi Alanı"
+    },
+    "Residential": {
+      "fr": "Résidentiel",
+      "de": "Wohnbau",
+      "es": "Residencial",
+      "ru": "Жилые объекты",
+      "nl": "Wonen",
+      "ko": "주거",
+      "ar": "السكني",
+      "tr": "Konut"
+    },
+    "Residential | Projects & Inspiration": {
+      "fr": "Résidentiel | Projets & Inspiration",
+      "de": "Wohnbau | Projekte & Inspiration",
+      "es": "Residencial | Proyectos e inspiración",
+      "ru": "Жилые объекты | Проекты и вдохновение",
+      "nl": "Wonen | Projecten & inspiratie",
+      "ko": "주거 | 프로젝트 & 영감",
+      "ar": "السكني | مشاريع وإلهام",
+      "tr": "Konut | Projeler & İlham"
+    },
+    "Search": {
+      "fr": "Rechercher",
+      "de": "Suchen",
+      "es": "Buscar",
+      "ru": "Поиск",
+      "nl": "Zoeken",
+      "ko": "검색",
+      "ar": "بحث",
+      "tr": "Ara"
+    },
+    "Search the site": {
+      "fr": "Rechercher sur le site",
+      "de": "Website durchsuchen",
+      "es": "Buscar en el sitio",
+      "ru": "Поиск по сайту",
+      "nl": "Doorzoek de website",
+      "ko": "사이트 검색",
+      "ar": "ابحث في الموقع",
+      "tr": "Sitede ara"
+    },
+    "Sitemap": {
+      "fr": "Plan du site",
+      "de": "Sitemap",
+      "es": "Mapa del sitio",
+      "ru": "Карта сайта",
+      "nl": "Sitemap",
+      "ko": "사이트맵",
+      "ar": "خريطة الموقع",
+      "tr": "Site Haritası"
+    },
+    "Skirting": {
+      "fr": "Plinthes",
+      "de": "Sockelleisten",
+      "es": "Rodapiés",
+      "ru": "Плинтусы",
+      "nl": "Plinten",
+      "ko": "걸레받이",
+      "ar": "وزرات",
+      "tr": "Süpürgelikler"
+    },
+    "Square Terracotta Tiles": {
+      "fr": "Carreaux carrés en terre cuite",
+      "de": "Quadratische Terrakottafliesen",
+      "es": "Baldosas cuadradas de terracota",
+      "ru": "Квадратная терракотовая плитка",
+      "nl": "Vierkante terracotta tegels",
+      "ko": "정사각형 테라코타 타일",
+      "ar": "بلاط تيراكوتا مربع",
+      "tr": "Kare Terracotta Karolar"
+    },
+    "Square Terracotta Tiles | Natural Clay Flooring": {
+      "fr": "Carreaux carrés en terre cuite | Sols en argile naturelle",
+      "de": "Quadratische Terrakottafliesen | Böden aus natürlichem Ton",
+      "es": "Baldosas cuadradas de terracota | Suelos de arcilla natural",
+      "ru": "Квадратная терракотовая плитка | Полы из натуральной глины",
+      "nl": "Vierkante terracotta tegels | Vloeren van natuurlijke klei",
+      "ko": "정사각형 테라코타 타일 | 자연 점토 바닥재",
+      "ar": "بلاط تيراكوتا مربع | أرضيات من الطين الطبيعي",
+      "tr": "Kare Terracotta Karolar | Doğal Kil Zemin Kaplaması"
+    },
+    "Square Tiles": {
+      "fr": "Carreaux carrés",
+      "de": "Quadratische Fliesen",
+      "es": "Baldosas cuadradas",
+      "ru": "Квадратная плитка",
+      "nl": "Vierkante tegels",
+      "ko": "정사각형 타일",
+      "ar": "بلاط مربع",
+      "tr": "Kare Karolar"
+    },
+    "Stair Treads": {
+      "fr": "Marches d'escalier",
+      "de": "Treppenstufen",
+      "es": "Peldaños",
+      "ru": "Ступени",
+      "nl": "Traptreden",
+      "ko": "계단 디딤판",
+      "ar": "درجات السلالم",
+      "tr": "Merdiven Basamakları"
+    },
+    "Steps & Copings": {
+      "fr": "Marches & Margelles",
+      "de": "Stufen & Sockel",
+      "es": "Peldaños y coronaciones",
+      "ru": "Ступени и бортики",
+      "nl": "Treden & randen",
+      "ko": "계단 & 코핑",
+      "ar": "الدرجات والحواف",
+      "tr": "Basamaklar & Kenarlar"
+    },
+    "Steps & Copings: Details that Complete the Space": {
+      "fr": "Marches & Margelles : des détails qui complètent l'espace",
+      "de": "Stufen & Sockel: Details, die den Raum vollenden",
+      "es": "Peldaños y coronaciones: detalles que completan el espacio",
+      "ru": "Ступени и бортики: детали, завершающие пространство",
+      "nl": "Treden & randen: details die de ruimte voltooien",
+      "ko": "계단 & 코핑: 공간을 완성하는 디테일",
+      "ar": "الدرجات والحواف: تفاصيل تُكمل المساحة",
+      "tr": "Basamaklar & Kenarlar: Mekânı Tamamlayan Detaylar"
+    },
+    "Subscribe to Newsletter": {
+      "fr": "S'abonner à la lettre d'information",
+      "de": "Newsletter abonnieren",
+      "es": "Suscribirse al boletín",
+      "ru": "Подписаться на рассылку",
+      "nl": "Inschrijven voor de nieuwsbrief",
+      "ko": "뉴스레터 구독",
+      "ar": "الاشتراك في النشرة الإخبارية",
+      "tr": "Bültene abone olun"
+    },
+    "Surface & Finish": {
+      "fr": "Surface & Finition",
+      "de": "Oberfläche & Finish",
+      "es": "Superficie y acabado",
+      "ru": "Поверхность и отделка",
+      "nl": "Oppervlak & afwerking",
+      "ko": "표면 & 마감",
+      "ar": "السطح والتشطيب",
+      "tr": "Yüzey & Bitiş"
+    },
+    "TERRACOTTA Awards": {
+      "fr": "Distinctions TERRACOTTA",
+      "de": "TERRACOTTA Auszeichnungen",
+      "es": "Premios TERRACOTTA",
+      "ru": "Награды TERRACOTTA",
+      "nl": "TERRACOTTA onderscheidingen",
+      "ko": "TERRACOTTA 수상",
+      "ar": "جوائز TERRACOTTA",
+      "tr": "TERRACOTTA Ödülleri"
+    },
+    "TERRACOTTA Magazine: News & Trends": {
+      "fr": "Magazine TERRACOTTA : actualités & tendances",
+      "de": "TERRACOTTA Magazin: News & Trends",
+      "es": "Revista TERRACOTTA: noticias y tendencias",
+      "ru": "Журнал TERRACOTTA: новости и тренды",
+      "nl": "TERRACOTTA Magazine: nieuws & trends",
+      "ko": "TERRACOTTA 매거진: 뉴스 & 트렌드",
+      "ar": "مجلة TERRACOTTA: أخبار وتوجهات",
+      "tr": "TERRACOTTA Dergi: Haberler & Trendler"
+    },
+    "TERRACOTTA Project Inspiration": {
+      "fr": "Inspiration projets TERRACOTTA",
+      "de": "TERRACOTTA Projektinspiration",
+      "es": "Inspiración de proyectos TERRACOTTA",
+      "ru": "Идеи проектов TERRACOTTA",
+      "nl": "TERRACOTTA projectinspiratie",
+      "ko": "TERRACOTTA 프로젝트 영감",
+      "ar": "إلهام مشاريع TERRACOTTA",
+      "tr": "TERRACOTTA Proje İlhamı"
+    },
+    "TERRACOTTA TILES: SIX CATEGORIES, ONE EARTH.": {
+      "fr": "CARREAUX TERRACOTTA : SIX CATÉGORIES, UNE SEULE TERRE.",
+      "de": "TERRACOTTA FLIESEN: SECHS KATEGORIEN, EINE ERDE.",
+      "es": "BALDOSAS TERRACOTTA: SEIS CATEGORÍAS, UNA TIERRA.",
+      "ru": "ПЛИТКА TERRACOTTA: ШЕСТЬ КАТЕГОРИЙ, ОДНА ЗЕМЛЯ.",
+      "nl": "TERRACOTTA TEGELS: ZES CATEGORIEËN, ÉÉN AARDE.",
+      "ko": "TERRACOTTA 타일: 여섯 가지 카테고리, 하나의 대지.",
+      "ar": "بلاط TERRACOTTA: ست فئات، أرض واحدة.",
+      "tr": "TERRACOTTA KAROLAR: ALTI KATEGORİ, TEK TOPRAK."
+    },
+    "TERRACOTTA brings together six architectural categories, twelve product types and twelve earthy colours to inspire your design ideas. Explore our collections, discover your preferred shades and create spaces shaped by natural clay.": {
+      "fr": "TERRACOTTA réunit six catégories architecturales, douze types de produits et douze couleurs terreuses pour inspirer vos idées. Explorez nos collections, trouvez vos teintes préférées et créez des espaces façonnés par l'argile naturelle.",
+      "de": "TERRACOTTA vereint sechs architektonische Kategorien, zwölf Produkttypen und zwölf erdige Farben, um Ihre Gestaltungsideen zu inspirieren. Entdecken Sie unsere Kollektionen, finden Sie Ihre Lieblingsfarben und gestalten Sie Räume aus natürlichem Ton.",
+      "es": "TERRACOTTA reúne seis categorías arquitectónicas, doce tipos de producto y doce colores terrosos para inspirar sus ideas de diseño. Explore nuestras colecciones, descubra sus tonos preferidos y cree espacios definidos por la arcilla natural.",
+      "ru": "TERRACOTTA объединяет шесть архитектурных категорий, двенадцать типов продукции и двенадцать землистых цветов, чтобы вдохновить ваши идеи. Исследуйте наши коллекции, выберите любимые оттенки и создавайте пространства из натуральной глины.",
+      "nl": "TERRACOTTA brengt zes architecturale categorieën, twaalf producttypes en twaalf aardse kleuren samen om uw ontwerpideeën te inspireren. Verken onze collecties, ontdek uw favoriete tinten en creëer ruimtes gevormd door natuurlijke klei.",
+      "ko": "TERRACOTTA는 여섯 가지 건축 카테고리, 열두 가지 제품 유형, 열두 가지 흙빛 컬러로 여러분의 디자인 아이디어에 영감을 드립니다. 컬렉션을 살펴보고, 원하는 컬러를 찾고, 자연 점토로 공간을 완성해 보십시오.",
+      "ar": "تجمع TERRACOTTA ست فئات معمارية واثني عشر نوعًا من المنتجات واثني عشر لونًا ترابيًا لإلهام أفكاركم التصميمية. استكشفوا مجموعاتنا، واختاروا ألوانكم المفضّلة، وصمّموا مساحات يشكّلها الطين الطبيعي.",
+      "tr": "TERRACOTTA, tasarım fikirlerinize ilham vermek için altı mimari kategoriyi, on iki ürün tipini ve on iki toprak tonunu bir araya getirir. Koleksiyonlarımızı keşfedin, sevdiğiniz tonları bulun ve doğal kilin şekillendirdiği mekânlar yaratın."
+    },
+    "TERRACOTTA turns earth, water and fire into surfaces with character. Our collection is organised into six categories and twelve product types, brought together by a palette of twelve earthy colours, from Sand and Clay to Olive, Ocean and Ivory.": {
+      "fr": "TERRACOTTA transforme la terre, l'eau et le feu en surfaces de caractère. Notre collection s'organise en six catégories et douze types de produits, réunis par une palette de douze couleurs terreuses, de Sand et Clay à Olive, Ocean et Ivory.",
+      "de": "TERRACOTTA verwandelt Erde, Wasser und Feuer in Oberflächen mit Charakter. Unsere Kollektion ist in sechs Kategorien und zwölf Produkttypen gegliedert, verbunden durch eine Palette aus zwölf erdigen Farben – von Sand und Clay bis Olive, Ocean und Ivory.",
+      "es": "TERRACOTTA transforma la tierra, el agua y el fuego en superficies con carácter. Nuestra colección se organiza en seis categorías y doce tipos de producto, unidos por una paleta de doce colores terrosos, de Sand y Clay a Olive, Ocean e Ivory.",
+      "ru": "TERRACOTTA превращает землю, воду и огонь в поверхности с характером. Коллекция разделена на шесть категорий и двенадцать типов продукции, объединённых палитрой из двенадцати землистых цветов — от Sand и Clay до Olive, Ocean и Ivory.",
+      "nl": "TERRACOTTA maakt van aarde, water en vuur oppervlakken met karakter. Onze collectie is opgebouwd uit zes categorieën en twaalf producttypes, verbonden door een palet van twaalf aardse kleuren, van Sand en Clay tot Olive, Ocean en Ivory.",
+      "ko": "TERRACOTTA는 흙, 물, 불을 개성 있는 표면으로 바꿉니다. 컬렉션은 여섯 가지 카테고리와 열두 가지 제품 유형으로 구성되며, Sand와 Clay부터 Olive, Ocean, Ivory까지 열두 가지 흙빛 컬러 팔레트로 하나가 됩니다.",
+      "ar": "تحوّل TERRACOTTA الأرض والماء والنار إلى أسطح ذات طابع مميّز. تنقسم مجموعتنا إلى ست فئات واثني عشر نوعًا من المنتجات، تجمعها لوحة من اثني عشر لونًا ترابيًا، من Sand وClay إلى Olive وOcean وIvory.",
+      "tr": "TERRACOTTA toprağı, suyu ve ateşi karakterli yüzeylere dönüştürür. Koleksiyonumuz altı kategori ve on iki ürün tipinden oluşur ve Sand ile Clay'den Olive, Ocean ve Ivory'ye uzanan on iki toprak tonluk bir paletle bir araya gelir."
+    },
+    "TERRACOTTA: design your space": {
+      "fr": "TERRACOTTA : concevez votre espace",
+      "de": "TERRACOTTA: Gestalten Sie Ihren Raum",
+      "es": "TERRACOTTA: diseñe su espacio",
+      "ru": "TERRACOTTA: создайте своё пространство",
+      "nl": "TERRACOTTA: ontwerp uw ruimte",
+      "ko": "TERRACOTTA: 공간을 디자인하십시오",
+      "ar": "TERRACOTTA: صمّموا مساحتكم",
+      "tr": "TERRACOTTA: mekânınızı tasarlayın"
+    },
+    "Technical Information": {
+      "fr": "Informations techniques",
+      "de": "Technische Informationen",
+      "es": "Información técnica",
+      "ru": "Техническая информация",
+      "nl": "Technische informatie",
+      "ko": "기술 정보",
+      "ar": "المعلومات الفنية",
+      "tr": "Teknik Bilgiler"
+    },
+    "Terracotta Brick Tiles": {
+      "fr": "Briquettes en terre cuite",
+      "de": "Terrakottafliesen im Ziegelformat",
+      "es": "Baldosas tipo ladrillo de terracota",
+      "ru": "Терракотовая плитка-кирпич",
+      "nl": "Terracotta steenstrips",
+      "ko": "테라코타 브릭 타일",
+      "ar": "بلاط تيراكوتا على شكل طوب",
+      "tr": "Terracotta Tuğla Karolar"
+    },
+    "Terracotta Brick Tiles | Outdoor Clay Formats": {
+      "fr": "Briquettes en terre cuite | Formats d'extérieur en argile",
+      "de": "Terrakottafliesen im Ziegelformat | Tonformate für außen",
+      "es": "Baldosas tipo ladrillo de terracota | Formatos de arcilla para exterior",
+      "ru": "Терракотовая плитка-кирпич | Глиняные форматы для улицы",
+      "nl": "Terracotta steenstrips | Kleiformaten voor buiten",
+      "ko": "테라코타 브릭 타일 | 외부용 점토 포맷",
+      "ar": "بلاط تيراكوتا على شكل طوب | مقاسات طينية للمساحات الخارجية",
+      "tr": "Terracotta Tuğla Karolar | Dış Mekân İçin Kil Formatlar"
+    },
+    "Terracotta Floor Tiles": {
+      "fr": "Carrelage de sol en terre cuite",
+      "de": "Terracotta Bodenfliesen",
+      "es": "Baldosas de suelo de terracota",
+      "ru": "Терракотовая напольная плитка",
+      "nl": "Terracotta vloertegels",
+      "ko": "테라코타 바닥 타일",
+      "ar": "بلاط أرضيات تيراكوتا",
+      "tr": "Terracotta Zemin Karoları"
+    },
+    "Terracotta Floor Tiles | TERRACOTTA": {
+      "fr": "Carrelage de sol en terre cuite | Carreaux en terre cuite TERRACOTTA",
+      "de": "Terracotta Bodenfliesen | Terrakotta Fliesen von TERRACOTTA",
+      "es": "Baldosas de suelo de terracota | TERRACOTTA",
+      "ru": "Терракотовая напольная плитка | TERRACOTTA",
+      "nl": "Terracotta vloertegels | Terracotta tegels van TERRACOTTA",
+      "ko": "테라코타 바닥 타일 | TERRACOTTA 테라코타 타일",
+      "ar": "بلاط أرضيات تيراكوتا | بلاط تيراكوتا من TERRACOTTA",
+      "tr": "Terracotta Zemin Karoları | TERRACOTTA Pişmiş Toprak Karo"
+    },
+    "Terracotta Pavers": {
+      "fr": "Dalles en terre cuite",
+      "de": "Terrakotta-Terrassenplatten",
+      "es": "Adoquines de terracota",
+      "ru": "Терракотовая тротуарная плитка",
+      "nl": "Terracotta terrastegels",
+      "ko": "테라코타 페이버",
+      "ar": "بلاط ممرات تيراكوتا",
+      "tr": "Terracotta Yer Döşemeleri"
+    },
+    "Terracotta Pavers | Natural Outdoor Paving": {
+      "fr": "Dalles en terre cuite | Revêtement extérieur naturel",
+      "de": "Terrakotta-Terrassenplatten | Natürliche Außenbeläge",
+      "es": "Adoquines de terracota | Pavimento exterior natural",
+      "ru": "Терракотовая тротуарная плитка | Натуральное мощение",
+      "nl": "Terracotta terrastegels | Natuurlijke buitenbestrating",
+      "ko": "테라코타 페이버 | 자연스러운 외부 포장재",
+      "ar": "بلاط ممرات تيراكوتا | أرضيات خارجية طبيعية",
+      "tr": "Terracotta Yer Döşemeleri | Doğal Dış Mekân Kaplaması"
+    },
+    "Terracotta Pool Coping | Architectural Details": {
+      "fr": "Margelles de piscine en terre cuite | Détails architecturaux",
+      "de": "Terrakotta-Beckenrandsteine | Architektonische Details",
+      "es": "Coronación de piscina de terracota | Detalles arquitectónicos",
+      "ru": "Терракотовый бортовой камень бассейна | Архитектурные детали",
+      "nl": "Terracotta zwembadranden | Architecturale details",
+      "ko": "테라코타 수영장 코핑 | 건축 디테일",
+      "ar": "حواف مسابح من التيراكوتا | تفاصيل معمارية",
+      "tr": "Terracotta Havuz Kenar Taşları | Mimari Detaylar"
+    },
+    "Terracotta Pool Surround Tiles | TERRACOTTA": {
+      "fr": "Carreaux en terre cuite pour plage de piscine | TERRACOTTA",
+      "de": "Terrakottafliesen für die Poolumrandung | TERRACOTTA",
+      "es": "Baldosas de terracota para entorno de piscina | TERRACOTTA",
+      "ru": "Терракотовая плитка для обрамления бассейна | TERRACOTTA",
+      "nl": "Terracotta tegels voor de zwembadomloop | TERRACOTTA",
+      "ko": "테라코타 수영장 주변 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا لمحيط المسابح | TERRACOTTA",
+      "tr": "Terracotta Havuz Çevresi Karoları | TERRACOTTA"
+    },
+    "Terracotta Pool Tiles": {
+      "fr": "Carreaux de piscine en terre cuite",
+      "de": "Terrakotta-Poolfliesen",
+      "es": "Baldosas de piscina de terracota",
+      "ru": "Терракотовая плитка для бассейна",
+      "nl": "Terracotta zwembadtegels",
+      "ko": "테라코타 수영장 타일",
+      "ar": "بلاط تيراكوتا للمسابح",
+      "tr": "Terracotta Havuz Karoları"
+    },
+    "Terracotta Pool Tiles | TERRACOTTA": {
+      "fr": "Carreaux de piscine en terre cuite | TERRACOTTA",
+      "de": "Terrakotta-Poolfliesen | TERRACOTTA",
+      "es": "Baldosas de piscina de terracota | TERRACOTTA",
+      "ru": "Терракотовая плитка для бассейна | TERRACOTTA",
+      "nl": "Terracotta zwembadtegels | TERRACOTTA",
+      "ko": "테라코타 수영장 타일 | TERRACOTTA",
+      "ar": "بلاط تيراكوتا للمسابح | TERRACOTTA",
+      "tr": "Terracotta Havuz Karoları | TERRACOTTA"
+    },
+    "Terracotta Skirting": {
+      "fr": "Plinthes en terre cuite",
+      "de": "Terrakotta-Sockelleisten",
+      "es": "Rodapiés de terracota",
+      "ru": "Терракотовые плинтусы",
+      "nl": "Terracotta plinten",
+      "ko": "테라코타 걸레받이",
+      "ar": "وزرات تيراكوتا",
+      "tr": "Terracotta Süpürgelikler"
+    },
+    "Terracotta Skirting | Clay Finishing Elements": {
+      "fr": "Plinthes en terre cuite | Éléments de finition en argile",
+      "de": "Terrakotta-Sockelleisten | Abschlusselemente aus Ton",
+      "es": "Rodapiés de terracota | Elementos de acabado en arcilla",
+      "ru": "Терракотовые плинтусы | Отделочные элементы из глины",
+      "nl": "Terracotta plinten | Afwerkingselementen van klei",
+      "ko": "테라코타 걸레받이 | 점토 마감재",
+      "ar": "وزرات تيراكوتا | عناصر تشطيب طينية",
+      "tr": "Terracotta Süpürgelikler | Kil Bitiş Elemanları"
+    },
+    "Terracotta Stair Treads": {
+      "fr": "Marches d'escalier en terre cuite",
+      "de": "Terrakotta-Treppenstufen",
+      "es": "Peldaños de terracota",
+      "ru": "Терракотовые ступени",
+      "nl": "Terracotta traptreden",
+      "ko": "테라코타 계단 디딤판",
+      "ar": "درجات سلالم من التيراكوتا",
+      "tr": "Terracotta Merdiven Basamakları"
+    },
+    "Terracotta Stair Treads and Skirting | TERRACOTTA": {
+      "fr": "Marches et plinthes en terre cuite | TERRACOTTA",
+      "de": "Terrakotta-Treppenstufen und Sockelleisten | TERRACOTTA",
+      "es": "Peldaños y rodapiés de terracota | TERRACOTTA",
+      "ru": "Терракотовые ступени и плинтусы | TERRACOTTA",
+      "nl": "Terracotta traptreden en plinten | TERRACOTTA",
+      "ko": "테라코타 계단 디딤판 및 걸레받이 | TERRACOTTA",
+      "ar": "درجات سلالم ووزرات من التيراكوتا | TERRACOTTA",
+      "tr": "Terracotta Merdiven Basamakları ve Süpürgelikler | TERRACOTTA"
+    },
+    "Terracotta Stair Treads | Architectural Details": {
+      "fr": "Marches d'escalier en terre cuite | Détails architecturaux",
+      "de": "Terrakotta-Treppenstufen | Architektonische Details",
+      "es": "Peldaños de terracota | Detalles arquitectónicos",
+      "ru": "Терракотовые ступени | Архитектурные детали",
+      "nl": "Terracotta traptreden | Architecturale details",
+      "ko": "테라코타 계단 디딤판 | 건축 디테일",
+      "ar": "درجات سلالم من التيراكوتا | تفاصيل معمارية",
+      "tr": "Terracotta Merdiven Basamakları | Mimari Detaylar"
+    },
+    "Terracotta Steps & Copings": {
+      "fr": "Marches & Margelles en terre cuite",
+      "de": "Terrakotta-Stufen & Sockel",
+      "es": "Peldaños y coronaciones de terracota",
+      "ru": "Терракотовые ступени и бортики",
+      "nl": "Terracotta treden & randen",
+      "ko": "테라코타 계단 & 코핑",
+      "ar": "درجات وحواف من التيراكوتا",
+      "tr": "Terracotta Basamaklar & Kenarlar"
+    },
+    "Terracotta Tile Installation & Care | TERRACOTTA": {
+      "fr": "Pose et entretien des carreaux en terre cuite | TERRACOTTA",
+      "de": "Verlegung & Pflege von Terrakottafliesen | TERRACOTTA",
+      "es": "Instalación y cuidado de baldosas de terracota | TERRACOTTA",
+      "ru": "Укладка и уход за терракотовой плиткой | TERRACOTTA",
+      "nl": "Plaatsing & onderhoud van terracotta tegels | TERRACOTTA",
+      "ko": "테라코타 타일 시공 & 관리 | TERRACOTTA",
+      "ar": "تركيب بلاط التيراكوتا والعناية به | TERRACOTTA",
+      "tr": "Terracotta Karo Uygulama & Bakım | TERRACOTTA"
+    },
+    "Terracotta Tile Technical Information | TERRACOTTA": {
+      "fr": "Informations techniques des carreaux en terre cuite | TERRACOTTA",
+      "de": "Technische Informationen zu Terrakottafliesen | TERRACOTTA",
+      "es": "Información técnica de baldosas de terracota | TERRACOTTA",
+      "ru": "Техническая информация о терракотовой плитке | TERRACOTTA",
+      "nl": "Technische informatie over terracotta tegels | TERRACOTTA",
+      "ko": "테라코타 타일 기술 정보 | TERRACOTTA",
+      "ar": "المعلومات الفنية لبلاط التيراكوتا | TERRACOTTA",
+      "tr": "Terracotta Karo Teknik Bilgileri | TERRACOTTA"
+    },
+    "Terracotta Tiles: The Art of Earth": {
+      "fr": "Carrelage terre cuite : The Art of Earth",
+      "de": "Terrakotta Fliesen: The Art of Earth",
+      "es": "Baldosas de terracota: The Art of Earth",
+      "ru": "Терракотовая плитка: The Art of Earth",
+      "nl": "Terracotta tegels: The Art of Earth",
+      "ko": "테라코타 타일: The Art of Earth",
+      "ar": "بلاط تيراكوتا: The Art of Earth",
+      "tr": "Terracotta Karolar: The Art of Earth"
+    },
+    "Terracotta Wall Cladding": {
+      "fr": "Revêtement mural en terre cuite",
+      "de": "Terrakotta-Wandverkleidung",
+      "es": "Revestimiento mural de terracota",
+      "ru": "Терракотовая облицовка стен",
+      "nl": "Terracotta wandbekleding",
+      "ko": "테라코타 벽 마감재",
+      "ar": "كسوة جدران من التيراكوتا",
+      "tr": "Terracotta Duvar Kaplaması"
+    },
+    "Terracotta Wall Cladding | Natural Clay Surfaces": {
+      "fr": "Revêtement mural en terre cuite | Surfaces en argile naturelle",
+      "de": "Terrakotta-Wandverkleidung | Oberflächen aus natürlichem Ton",
+      "es": "Revestimiento mural de terracota | Superficies de arcilla natural",
+      "ru": "Терракотовая облицовка стен | Поверхности из натуральной глины",
+      "nl": "Terracotta wandbekleding | Oppervlakken van natuurlijke klei",
+      "ko": "테라코타 벽 마감재 | 자연 점토 표면",
+      "ar": "كسوة جدران من التيراكوتا | أسطح من الطين الطبيعي",
+      "tr": "Terracotta Duvar Kaplaması | Doğal Kil Yüzeyler"
+    },
+    "Terracotta Wall Tiles": {
+      "fr": "Carreaux muraux en terre cuite",
+      "de": "Terrakotta-Wandfliesen",
+      "es": "Baldosas de pared de terracota",
+      "ru": "Терракотовая настенная плитка",
+      "nl": "Terracotta wandtegels",
+      "ko": "테라코타 벽 타일",
+      "ar": "بلاط جدران تيراكوتا",
+      "tr": "Terracotta Duvar Karoları"
+    },
+    "Terracotta Wall Tiles | TERRACOTTA": {
+      "fr": "Carreaux muraux en terre cuite | TERRACOTTA",
+      "de": "Terrakotta-Wandfliesen | TERRACOTTA",
+      "es": "Baldosas de pared de terracota | TERRACOTTA",
+      "ru": "Терракотовая настенная плитка | TERRACOTTA",
+      "nl": "Terracotta wandtegels | TERRACOTTA",
+      "ko": "테라코타 벽 타일 | TERRACOTTA",
+      "ar": "بلاط جدران تيراكوتا | TERRACOTTA",
+      "tr": "Terracotta Duvar Karoları | TERRACOTTA"
+    },
+    "Terracotta Wall Tiles: Character for Every Wall": {
+      "fr": "Carreaux muraux en terre cuite : du caractère pour chaque mur",
+      "de": "Terrakotta-Wandfliesen: Charakter für jede Wand",
+      "es": "Baldosas de pared de terracota: carácter para cada pared",
+      "ru": "Терракотовая настенная плитка: характер для каждой стены",
+      "nl": "Terracotta wandtegels: karakter voor elke wand",
+      "ko": "테라코타 벽 타일: 모든 벽에 개성을",
+      "ar": "بلاط جدران تيراكوتا: طابع مميّز لكل جدار",
+      "tr": "Terracotta Duvar Karoları: Her Duvara Karakter"
+    },
+    "Terracotta tiles by TERRACOTTA | The Art of Earth: floor, outdoor, pool, decorative and wall tiles, steps and copings, with a palette of twelve earthy colours.": {
+      "fr": "Carreaux en terre cuite et tomettes TERRACOTTA pour architectes, prescripteurs et distributeurs : sols, extérieurs, piscines, décors, murs, marches et margelles, dans une palette de douze couleurs terreuses.",
+      "de": "Terrakotta- und Cotto-Fliesen von TERRACOTTA für Architekten, Importeure und den Fachhandel: Boden-, Außen-, Pool-, Dekor- und Wandfliesen, Stufen und Sockel – in einer Palette aus zwölf Erdfarben.",
+      "es": "Baldosas de terracota de TERRACOTTA | The Art of Earth: baldosas de suelo, exterior, piscina, decorativas y de pared, peldaños y coronaciones, con una paleta de doce colores terrosos.",
+      "ru": "Терракотовая плитка TERRACOTTA | The Art of Earth: напольная, уличная, для бассейна, декоративная и настенная плитка, ступени и бортики в палитре из двенадцати землистых цветов.",
+      "nl": "Terracotta tegels van TERRACOTTA | The Art of Earth: vloer-, buiten-, zwembad-, decoratieve en wandtegels, traptreden en plinten, in een palet van twaalf aardse kleuren.",
+      "ko": "TERRACOTTA | The Art of Earth의 테라코타 타일: 바닥, 외부, 수영장, 장식 및 벽 타일, 계단과 코핑을 열두 가지 흙빛 컬러 팔레트로 제공합니다.",
+      "ar": "بلاط تيراكوتا وبلاط طيني من TERRACOTTA | The Art of Earth: بلاط للأرضيات والمساحات الخارجية والمسابح والزخرفة والجدران، ودرجات وحواف، ضمن لوحة من اثني عشر لونًا ترابيًا.",
+      "tr": "TERRACOTTA | The Art of Earth'ten terracotta ve pişmiş toprak karolar: zemin, dış mekân, havuz, dekoratif ve duvar karoları, basamak ve kenar elemanları; on iki toprak tonluk bir paletle."
+    },
+    "The Art of Earth": {
+      "fr": "The Art of Earth",
+      "de": "The Art of Earth",
+      "es": "The Art of Earth",
+      "ru": "The Art of Earth",
+      "nl": "The Art of Earth",
+      "ko": "The Art of Earth",
+      "ar": "The Art of Earth",
+      "tr": "The Art of Earth"
+    },
+    "The TERRACOTTA collection is organised into six categories: Floor Tiles, Outdoor Tiles, Pool Tiles, Decorative Tiles, Wall Tiles and Steps & Copings. Each category features two product types, bringing together twelve distinctive formats and a palette of twelve earthy colours.": {
+      "fr": "La collection TERRACOTTA s'organise en six catégories : carreaux de sol, carreaux d'extérieur, carreaux de piscine, carreaux décoratifs, carreaux muraux et marches & margelles. Chaque catégorie comprend deux types de produits, soit douze formats distinctifs et une palette de douze couleurs terreuses.",
+      "de": "Die TERRACOTTA Kollektion ist in sechs Kategorien gegliedert: Bodenfliesen, Außenfliesen, Poolfliesen, Dekorfliesen, Wandfliesen sowie Stufen & Abdeckungen. Jede Kategorie umfasst zwei Produkttypen – insgesamt zwölf unverwechselbare Formate und eine Palette aus zwölf erdigen Farben.",
+      "es": "La colección TERRACOTTA se organiza en seis categorías: baldosas de suelo, de exterior, de piscina, decorativas, de pared y peldaños y coronaciones. Cada categoría incluye dos tipos de producto, que reúnen doce formatos distintivos y una paleta de doce colores terrosos.",
+      "ru": "Коллекция TERRACOTTA разделена на шесть категорий: напольная плитка, уличная плитка, плитка для бассейна, декоративная плитка, настенная плитка, а также ступени и бортики. В каждой категории два типа продукции — всего двенадцать выразительных форматов и палитра из двенадцати землистых цветов.",
+      "nl": "De TERRACOTTA collectie is opgebouwd uit zes categorieën: vloertegels, buitentegels, zwembadtegels, decoratieve tegels, wandtegels en treden & randen. Elke categorie omvat twee producttypes: samen twaalf onderscheidende formaten en een palet van twaalf aardse kleuren.",
+      "ko": "TERRACOTTA 컬렉션은 바닥 타일, 외부용 타일, 수영장 타일, 장식 타일, 벽 타일, 계단 & 코핑의 여섯 가지 카테고리로 구성됩니다. 각 카테고리는 두 가지 제품 유형으로 이루어져, 열두 가지 개성 있는 포맷과 열두 가지 흙빛 컬러 팔레트를 제공합니다.",
+      "ar": "تنقسم مجموعة TERRACOTTA إلى ست فئات: بلاط الأرضيات، والبلاط الخارجي، وبلاط المسابح، والبلاط الزخرفي، وبلاط الجدران، والدرجات والحواف. تضم كل فئة نوعين من المنتجات، لتجمع اثني عشر مقاسًا مميّزًا ولوحة من اثني عشر لونًا ترابيًا.",
+      "tr": "TERRACOTTA koleksiyonu altı kategoriden oluşur: Zemin Karoları, Dış Mekân Karoları, Havuz Karoları, Dekoratif Karolar, Duvar Karoları ve Basamaklar & Kenarlar. Her kategori iki ürün tipi içerir; toplamda on iki özgün format ve on iki toprak tonluk bir palet sunar."
+    },
+    "The Timeless Appeal of Terracotta in Architecture": {
+      "fr": "L'attrait intemporel de la terre cuite en architecture",
+      "de": "Die zeitlose Anziehungskraft von Terrakotta in der Architektur",
+      "es": "El atractivo atemporal de la terracota en la arquitectura",
+      "ru": "Неподвластная времени привлекательность терракоты в архитектуре",
+      "nl": "De tijdloze aantrekkingskracht van terracotta in de architectuur",
+      "ko": "건축 속 테라코타의 변치 않는 매력",
+      "ar": "الجاذبية الخالدة للتيراكوتا في العمارة",
+      "tr": "Mimaride Terracottanın Zamansız Cazibesi"
+    },
+    "The Timeless Appeal of Terracotta in Architecture | TERRACOTTA Magazine": {
+      "fr": "L'attrait intemporel de la terre cuite en architecture | Magazine TERRACOTTA",
+      "de": "Die zeitlose Anziehungskraft von Terrakotta in der Architektur | TERRACOTTA Magazin",
+      "es": "El atractivo atemporal de la terracota en la arquitectura | Revista TERRACOTTA",
+      "ru": "Неподвластная времени привлекательность терракоты в архитектуре | Журнал TERRACOTTA",
+      "nl": "De tijdloze aantrekkingskracht van terracotta in de architectuur | TERRACOTTA Magazine",
+      "ko": "건축 속 테라코타의 변치 않는 매력 | TERRACOTTA 매거진",
+      "ar": "الجاذبية الخالدة للتيراكوتا في العمارة | مجلة TERRACOTTA",
+      "tr": "Mimaride Terracottanın Zamansız Cazibesi | TERRACOTTA Dergi"
+    },
+    "Tiles": {
+      "fr": "Carreaux",
+      "de": "Fliesen",
+      "es": "Baldosas",
+      "ru": "Плитка",
+      "nl": "Tegels",
+      "ko": "타일",
+      "ar": "البلاط",
+      "tr": "Karolar"
+    },
+    "Transform your spaces with the warmth and versatility of natural clay. TERRACOTTA tiles bring character to every room, from bathrooms and kitchens to living rooms and bedrooms, outdoor spaces, pools, wellness areas and commercial interiors of every profile.": {
+      "fr": "Transformez vos espaces avec la chaleur et la polyvalence de l'argile naturelle. Les carreaux TERRACOTTA apportent du caractère à chaque pièce, des salles de bain et cuisines aux salons et chambres, en passant par les espaces extérieurs, les piscines, les espaces bien-être et les intérieurs commerciaux de tout type.",
+      "de": "Verwandeln Sie Ihre Räume mit der Wärme und Vielseitigkeit von natürlichem Ton. TERRACOTTA Fliesen verleihen jedem Raum Charakter – vom Bad und der Küche über Wohn- und Schlafzimmer bis zu Außenbereichen, Pools, Wellnessbereichen und Gewerbeflächen jeder Art.",
+      "es": "Transforme sus espacios con la calidez y la versatilidad de la arcilla natural. Las baldosas TERRACOTTA aportan carácter a cada estancia, desde baños y cocinas hasta salones y dormitorios, espacios exteriores, piscinas, zonas de bienestar e interiores comerciales de todo tipo.",
+      "ru": "Преобразите пространство теплом и универсальностью натуральной глины. Плитка TERRACOTTA придаёт характер любому помещению — от ванных комнат и кухонь до гостиных и спален, открытых пространств, бассейнов, спа-зон и коммерческих интерьеров любого профиля.",
+      "nl": "Transformeer uw ruimtes met de warmte en veelzijdigheid van natuurlijke klei. TERRACOTTA tegels geven karakter aan elke ruimte, van badkamers en keukens tot woon- en slaapkamers, buitenruimtes, zwembaden, wellnessruimtes en commerciële interieurs van elk profiel.",
+      "ko": "자연 점토의 따뜻함과 다양성으로 공간을 바꿔 보십시오. TERRACOTTA 타일은 욕실과 주방부터 거실과 침실, 외부 공간, 수영장, 웰니스 공간, 모든 유형의 상업 인테리어까지 공간마다 개성을 더합니다.",
+      "ar": "حوّلوا مساحاتكم بدفء الطين الطبيعي وتعدّد استخداماته. يضفي بلاط TERRACOTTA طابعًا مميّزًا على كل مساحة، من الحمّامات والمطابخ إلى غرف المعيشة والنوم والمساحات الخارجية والمسابح ومرافق العافية والمساحات التجارية بمختلف أنواعها.",
+      "tr": "Mekânlarınızı doğal kilin sıcaklığı ve çok yönlülüğüyle dönüştürün. TERRACOTTA karolar banyo ve mutfaklardan oturma ve yatak odalarına, dış mekânlardan havuzlara, wellness alanlarından her türlü ticari iç mekâna kadar her alana karakter katar."
+    },
+    "Wall Cladding": {
+      "fr": "Revêtement mural",
+      "de": "Wandverkleidung",
+      "es": "Revestimiento mural",
+      "ru": "Облицовка стен",
+      "nl": "Wandbekleding",
+      "ko": "벽 마감재",
+      "ar": "كسوة الجدران",
+      "tr": "Duvar Kaplaması"
+    },
+    "Wall Tiles": {
+      "fr": "Carreaux muraux",
+      "de": "Wandfliesen",
+      "es": "Baldosas de pared",
+      "ru": "Настенная плитка",
+      "nl": "Wandtegels",
+      "ko": "벽 타일",
+      "ar": "بلاط الجدران",
+      "tr": "Duvar Karoları"
+    },
+    "Warmth and Natural Character for Your Spaces with Terracotta Tiles": {
+      "fr": "Chaleur et caractère naturel pour vos espaces avec les carreaux en terre cuite",
+      "de": "Wärme und natürlicher Charakter für Ihre Räume mit Terrakottafliesen",
+      "es": "Calidez y carácter natural para sus espacios con baldosas de terracota",
+      "ru": "Тепло и природный характер для ваших пространств с терракотовой плиткой",
+      "nl": "Warmte en natuurlijk karakter voor uw ruimtes met terracotta tegels",
+      "ko": "테라코타 타일로 공간에 따뜻함과 자연스러운 개성을",
+      "ar": "الدفء والطابع الطبيعي لمساحاتكم مع بلاط التيراكوتا",
+      "tr": "Terracotta Karolarla Mekânlarınıza Sıcaklık ve Doğal Karakter"
+    },
+    "Welcome to the world of TERRACOTTA, where the tradition of natural clay meets craftsmanship to create terracotta tiles of character. Explore six categories, twelve product types and twelve earth colours for indoor and outdoor spaces.": {
+      "fr": "Bienvenue chez TERRACOTTA : des carreaux en terre cuite de caractère pour les architectes, les designers et les distributeurs. Explorez six catégories, douze types de produits et une palette de douze couleurs de la terre pour l'intérieur et l'extérieur.",
+      "de": "Willkommen bei TERRACOTTA: Terrakotta- und Cotto-Fliesen mit Charakter für Architekturbüros, Importeure und den Fliesenfachhandel. Entdecken Sie sechs Kategorien, zwölf Produkttypen und eine Palette aus zwölf Erdfarben für innen und außen.",
+      "es": "Bienvenido al mundo de TERRACOTTA, donde la tradición de la arcilla natural se une al oficio para crear baldosas de terracota con carácter. Explore seis categorías, doce tipos de producto y doce colores tierra para interiores y exteriores.",
+      "ru": "Добро пожаловать в мир TERRACOTTA, где традиции натуральной глины встречаются с мастерством, создавая терракотовую плитку с характером. Откройте шесть категорий, двенадцать типов продукции и двенадцать землистых цветов для интерьеров и открытых пространств.",
+      "nl": "Welkom bij TERRACOTTA: terracotta tegels met karakter voor architecten, importeurs en distributeurs. Ontdek zes categorieën, twaalf producttypes en een palet van twaalf aardse kleuren voor binnen en buiten.",
+      "ko": "TERRACOTTA에 오신 것을 환영합니다. 수입업체, 건축가, 상업 바이어를 위한 개성 있는 테라코타 타일을 소개합니다. 실내외 공간을 위한 여섯 가지 카테고리, 열두 가지 제품 유형, 열두 가지 흙빛 컬러를 만나 보십시오.",
+      "ar": "مرحبًا بكم في TERRACOTTA: بلاط تيراكوتا ذو طابع مميّز للشركات المحلية ومستثمري الفنادق وفرق المشتريات في المشاريع. استكشفوا ست فئات واثني عشر نوعًا من المنتجات ولوحة من اثني عشر لونًا ترابيًا للمساحات الداخلية والخارجية.",
+      "tr": "TERRACOTTA'ya hoş geldiniz: mimarlar, ithalatçılar ve satıcılar için karakterli terracotta karolar. İç ve dış mekânlar için altı kategori, on iki ürün tipi ve on iki toprak tonluk bir paleti keşfedin."
+    },
+    "Work with Us": {
+      "fr": "Carrières",
+      "de": "Karriere",
+      "es": "Trabaje con nosotros",
+      "ru": "Вакансии",
+      "nl": "Werken bij ons",
+      "ko": "채용",
+      "ar": "الوظائف",
+      "tr": "Kariyer"
+    },
+    "Your browser doesn't support HTML video. Here is a": {
+      "fr": "Votre navigateur ne prend pas en charge la vidéo HTML. Voici un",
+      "de": "Ihr Browser unterstützt kein HTML-Video. Hier ist ein",
+      "es": "Su navegador no admite vídeo HTML. Aquí tiene un",
+      "ru": "Ваш браузер не поддерживает HTML-видео. Вот",
+      "nl": "Uw browser ondersteunt geen HTML-video. Hier is een",
+      "ko": "사용 중인 브라우저가 HTML 동영상을 지원하지 않습니다. 대신",
+      "ar": "متصفحك لا يدعم فيديو HTML. يمكنك استخدام",
+      "tr": "Tarayıcınız HTML videoyu desteklemiyor. Bunun yerine"
+    },
+    "link to the video": {
+      "fr": "lien vers la vidéo",
+      "de": "Link zum Video",
+      "es": "enlace al vídeo",
+      "ru": "ссылка на видео",
+      "nl": "link naar de video",
+      "ko": "동영상 링크",
+      "ar": "رابط الفيديو",
+      "tr": "video bağlantısını"
+    },
+    "instead.": {
+      "fr": "à la place.",
+      "de": "stattdessen.",
+      "es": "en su lugar.",
+      "ru": ".",
+      "nl": ".",
+      "ko": "를 이용해 주십시오.",
+      "ar": "بدلًا من ذلك.",
+      "tr": "kullanabilirsiniz."
+    },
+    "Home": {
+      "de": "Startseite",
+      "fr": "Accueil",
+      "nl": "Home",
+      "ko": "홈",
+      "ar": "الرئيسية",
+      "tr": "Ana Sayfa"
+    },
+    "A Timeless Material": {
+      "de": "Ein zeitloses Material",
+      "fr": "Un matériau intemporel",
+      "nl": "Een tijdloos materiaal",
+      "ko": "변치 않는 소재",
+      "ar": "مادة خالدة",
+      "tr": "Zamansız Bir Malzeme"
+    },
+    "A collection of ideas, inspiration and perspectives exploring the relationship between architecture, natural materials and design.": {
+      "de": "Ideen, Inspiration und Perspektiven rund um das Zusammenspiel von Architektur, natürlichen Materialien und Design.",
+      "fr": "Un recueil d'idées, d'inspirations et de regards sur la relation entre architecture, matériaux naturels et design.",
+      "nl": "Een verzameling ideeën, inspiratie en perspectieven over de relatie tussen architectuur, natuurlijke materialen en design.",
+      "ko": "건축, 자연 소재, 디자인의 관계를 탐구하는 아이디어, 영감, 관점을 모았습니다.",
+      "ar": "مجموعة من الأفكار والإلهام ووجهات النظر حول العلاقة بين العمارة والمواد الطبيعية والتصميم.",
+      "tr": "Mimari, doğal malzemeler ve tasarım arasındaki ilişkiyi inceleyen fikirler, ilham ve bakış açıları."
+    },
+    "A palette of twelve earthy colours inspired by clay, stone, nature and Mediterranean landscapes. Colour availability is confirmed for each product with verified product data.": {
+      "de": "Eine Palette aus zwölf Erdfarben, inspiriert von Ton, Stein, Natur und mediterranen Landschaften. Die Farbverfügbarkeit wird für jedes Produkt mit geprüften Produktdaten bestätigt.",
+      "fr": "Une palette de douze couleurs terreuses inspirées de l'argile, de la pierre, de la nature et des paysages méditerranéens. La disponibilité des couleurs est confirmée pour chaque produit par des données vérifiées.",
+      "nl": "Een palet van twaalf aardse kleuren, geïnspireerd op klei, steen, natuur en mediterrane landschappen. De beschikbaarheid per product wordt bevestigd met geverifieerde productgegevens.",
+      "ko": "점토, 돌, 자연, 지중해 풍경에서 영감을 받은 열두 가지 흙빛 컬러 팔레트입니다. 제품별 컬러 제공 여부는 검증된 제품 데이터로 확정됩니다.",
+      "ar": "لوحة من اثني عشر لونًا ترابيًا مستوحاة من الطين والحجر والطبيعة ومناظر البحر الأبيض المتوسط. يتم تأكيد توفّر الألوان لكل منتج ببيانات منتج موثّقة.",
+      "tr": "Kil, taş, doğa ve Akdeniz manzaralarından ilham alan on iki toprak tonluk bir palet. Her ürün için renk durumu doğrulanmış ürün verileriyle teyit edilir."
+    },
+    "Additional Information": {
+      "de": "Weitere Informationen",
+      "fr": "Informations complémentaires",
+      "nl": "Aanvullende informatie",
+      "ko": "추가 정보",
+      "ar": "معلومات إضافية",
+      "tr": "Ek Bilgiler"
+    },
+    "Application suitability": {
+      "de": "Eignung für Anwendungsbereiche",
+      "fr": "Adéquation à l'usage",
+      "nl": "Geschiktheid per toepassing",
+      "ko": "용도별 적합성",
+      "ar": "ملاءمة الاستخدام",
+      "tr": "Kullanım uygunluğu"
+    },
+    "Architectural Project": {
+      "de": "Architekturprojekt",
+      "fr": "Projet architectural",
+      "nl": "Architectuurproject",
+      "ko": "건축 프로젝트",
+      "ar": "مشروع معماري",
+      "tr": "Mimari Proje"
+    },
+    "Available Colours": {
+      "de": "Verfügbare Farben",
+      "fr": "Couleurs disponibles",
+      "nl": "Beschikbare kleuren",
+      "ko": "제공 컬러",
+      "ar": "الألوان المتوفرة",
+      "tr": "Mevcut Renkler"
+    },
+    "Awards & Recognition": {
+      "de": "Auszeichnungen & Anerkennung",
+      "fr": "Distinctions & Reconnaissance",
+      "nl": "Onderscheidingen & erkenning",
+      "ko": "수상 & 인정",
+      "ar": "الجوائز والتقدير",
+      "tr": "Ödüller & Takdir"
+    },
+    "Bring geometric character into your space with hexagon terracotta tiles. Their distinctive shape creates opportunities for expressive and contemporary surface compositions.": {
+      "de": "Bringen Sie mit sechseckigen Terrakotta Fliesen geometrischen Charakter in Ihren Raum. Ihre markante Form eröffnet ausdrucksstarke und zeitgemäße Flächengestaltungen.",
+      "fr": "Apportez un caractère géométrique à votre espace avec des tomettes hexagonales en terre cuite. Leur forme singulière ouvre la voie à des compositions de surface expressives et contemporaines.",
+      "nl": "Breng geometrisch karakter in uw ruimte met zeshoekige terracotta tegels. Hun kenmerkende vorm biedt mogelijkheden voor expressieve en hedendaagse composities.",
+      "ko": "육각 테라코타 타일로 공간에 기하학적 개성을 더해 보십시오. 독특한 형태로 표현력 있고 현대적인 표면 구성이 가능합니다.",
+      "ar": "أضيفوا طابعًا هندسيًا إلى مساحتكم مع بلاط التيراكوتا السداسي، فشكله المميّز يتيح تكوينات سطحية معبّرة ومعاصرة.",
+      "tr": "Altıgen terracotta karolarla mekânınıza geometrik bir karakter katın. Kendine özgü formları, etkileyici ve çağdaş yüzey kompozisyonlarına olanak tanır."
+    },
+    "Bring natural clay character to architectural walls. Explore wall cladding concepts and custom artisan tile possibilities.": {
+      "de": "Bringen Sie den Charakter von natürlichem Ton an architektonische Wände. Entdecken Sie Konzepte für Wandverkleidungen und die Möglichkeiten von Sonderanfertigungen.",
+      "fr": "Apportez le caractère de l'argile naturelle aux murs. Découvrez nos concepts de revêtement mural et les possibilités de carreaux sur mesure.",
+      "nl": "Breng het karakter van natuurlijke klei naar architecturale wanden. Ontdek concepten voor wandbekleding en de mogelijkheden van maatwerktegels.",
+      "ko": "건축 벽면에 자연 점토의 개성을 더해 보십시오. 벽 마감재 콘셉트와 맞춤 제작 타일의 가능성을 살펴보십시오.",
+      "ar": "أضيفوا طابع الطين الطبيعي إلى الجدران المعمارية، واستكشفوا مفاهيم كسوة الجدران وإمكانات البلاط المصمّم حسب الطلب.",
+      "tr": "Mimari duvarlara doğal kilin karakterini taşıyın. Duvar kaplaması konseptlerini ve özel tasarım karoların olanaklarını keşfedin."
+    },
+    "Bring the warmth of natural clay to architectural walls with terracotta wall cladding. A surface of depth and texture for interior and exterior wall concepts.": {
+      "de": "Bringen Sie mit Terrakotta-Wandverkleidung die Wärme von natürlichem Ton an architektonische Wände. Eine Oberfläche mit Tiefe und Struktur für Innen- und Außenwände.",
+      "fr": "Apportez la chaleur de l'argile naturelle aux murs avec un revêtement mural en terre cuite. Une surface de profondeur et de texture pour les murs intérieurs et extérieurs.",
+      "nl": "Breng de warmte van natuurlijke klei naar architecturale wanden met terracotta wandbekleding. Een oppervlak met diepte en textuur voor binnen- en buitenwanden.",
+      "ko": "테라코타 벽 마감재로 건축 벽면에 자연 점토의 따뜻함을 더해 보십시오. 실내외 벽을 위한 깊이감과 질감을 갖춘 표면입니다.",
+      "ar": "أضيفوا دفء الطين الطبيعي إلى الجدران المعمارية مع كسوة جدران التيراكوتا، سطح ذو عمق وملمس للجدران الداخلية والخارجية.",
+      "tr": "Terracotta duvar kaplamasıyla mimari duvarlara doğal kilin sıcaklığını taşıyın. İç ve dış duvarlar için derinlik ve dokuya sahip bir yüzey."
+    },
+    "Choosing Natural Clay Tiles for Interior Spaces": {
+      "de": "Fliesen aus natürlichem Ton für Innenräume auswählen",
+      "fr": "Choisir des carreaux en argile naturelle pour l'intérieur",
+      "nl": "Tegels van natuurlijke klei kiezen voor interieurs",
+      "ko": "실내 공간을 위한 자연 점토 타일 선택법",
+      "ar": "اختيار بلاط الطين الطبيعي للمساحات الداخلية",
+      "tr": "İç Mekânlar İçin Doğal Kil Karo Seçimi"
+    },
+    "Cleaning": {
+      "de": "Reinigung",
+      "fr": "Nettoyage",
+      "nl": "Reiniging",
+      "ko": "청소",
+      "ar": "التنظيف",
+      "tr": "Temizlik"
+    },
+    "Colour Availability": {
+      "de": "Farbverfügbarkeit",
+      "fr": "Disponibilité des couleurs",
+      "nl": "Beschikbaarheid van kleuren",
+      "ko": "컬러 제공 여부",
+      "ar": "توفّر الألوان",
+      "tr": "Renk Durumu"
+    },
+    "Coming Soon": {
+      "de": "Demnächst",
+      "fr": "Bientôt disponible",
+      "nl": "Binnenkort",
+      "ko": "준비 중",
+      "ar": "قريبًا",
+      "tr": "Yakında"
+    },
+    "Commercial": {
+      "de": "Gewerbe",
+      "fr": "Commercial",
+      "nl": "Commercieel",
+      "ko": "상업",
+      "ar": "تجاري",
+      "tr": "Ticari"
+    },
+    "Complete floors with terracotta skirting. A finishing element that creates a clean, coordinated transition between floor and wall.": {
+      "de": "Vervollständigen Sie Böden mit Terrakotta-Sockelleisten – ein Abschlusselement für einen sauberen, abgestimmten Übergang zwischen Boden und Wand.",
+      "fr": "Complétez vos sols avec des plinthes en terre cuite, un élément de finition pour une transition nette et coordonnée entre sol et mur.",
+      "nl": "Werk vloeren af met terracotta plinten: een afwerkingselement voor een strakke, afgestemde overgang tussen vloer en wand.",
+      "ko": "테라코타 걸레받이로 바닥을 마무리해 보십시오. 바닥과 벽 사이를 깔끔하고 조화롭게 연결하는 마감 요소입니다.",
+      "ar": "أكملوا الأرضيات بوزرات التيراكوتا، عنصر تشطيب يصنع انتقالًا نظيفًا ومتناسقًا بين الأرضية والجدار.",
+      "tr": "Zeminleri terracotta süpürgeliklerle tamamlayın: zemin ile duvar arasında temiz ve uyumlu bir geçiş sağlayan bir bitiş elemanı."
+    },
+    "Contact TERRACOTTA": {
+      "de": "Kontakt zu TERRACOTTA",
+      "fr": "Contacter TERRACOTTA",
+      "nl": "Contact met TERRACOTTA",
+      "ko": "TERRACOTTA 문의",
+      "ar": "التواصل مع TERRACOTTA",
+      "tr": "TERRACOTTA ile İletişim"
+    },
+    "Contact TERRACOTTA for product information, architectural projects, custom tile enquiries and distribution opportunities.": {
+      "de": "Kontaktieren Sie TERRACOTTA für Produktinformationen, Architekturprojekte, Anfragen zu Sonderanfertigungen und Vertriebspartnerschaften.",
+      "fr": "Contactez TERRACOTTA pour des informations produits, des projets architecturaux, des carreaux sur mesure et des opportunités de distribution.",
+      "nl": "Neem contact op met TERRACOTTA voor productinformatie, architectuurprojecten, maatwerkaanvragen en distributiemogelijkheden.",
+      "ko": "제품 정보, 건축 프로젝트, 맞춤 제작 타일 및 유통 협력에 관해서는 TERRACOTTA에 문의해 주십시오.",
+      "ar": "تواصلوا مع TERRACOTTA للحصول على معلومات المنتجات والمشاريع المعمارية وطلبات البلاط المصمّم حسب الطلب وفرص التوزيع.",
+      "tr": "Ürün bilgisi, mimari projeler, özel tasarım karo talepleri ve distribütörlük fırsatları için TERRACOTTA ile iletişime geçin."
+    },
+    "Contact TERRACOTTA | Product & Project Enquiries": {
+      "de": "Kontakt TERRACOTTA | Produkt- & Projektanfragen",
+      "fr": "Contact TERRACOTTA | Demandes produits & projets",
+      "nl": "Contact TERRACOTTA | Product- & projectaanvragen",
+      "ko": "TERRACOTTA 문의 | 제품 및 프로젝트 문의",
+      "ar": "تواصل مع TERRACOTTA | استفسارات المنتجات والمشاريع",
+      "tr": "TERRACOTTA İletişim | Ürün ve Proje Talepleri"
+    },
+    "Contact Us": {
+      "de": "Kontakt aufnehmen",
+      "fr": "Nous contacter",
+      "nl": "Neem contact op",
+      "ko": "문의하기",
+      "ar": "تواصل معنا",
+      "tr": "Bize Ulaşın"
+    },
+    "Country": {
+      "de": "Land",
+      "fr": "Pays",
+      "nl": "Land",
+      "ko": "국가",
+      "ar": "الدولة",
+      "tr": "Ülke"
+    },
+    "Custom Artisan": {
+      "de": "Sonderanfertigung",
+      "fr": "Sur mesure",
+      "nl": "Maatwerk",
+      "ko": "맞춤 제작",
+      "ar": "حسب الطلب",
+      "tr": "Özel Tasarım"
+    },
+    "Decorative Tile Patterns in Modern Architecture": {
+      "de": "Dekorative Fliesenmuster in der modernen Architektur",
+      "fr": "Motifs de carreaux décoratifs dans l'architecture moderne",
+      "nl": "Decoratieve tegelpatronen in moderne architectuur",
+      "ko": "현대 건축 속 장식 타일 패턴",
+      "ar": "أنماط البلاط الزخرفي في العمارة الحديثة",
+      "tr": "Modern Mimaride Dekoratif Karo Desenleri"
+    },
+    "Design Awards & Recognition | TERRACOTTA": {
+      "de": "Designauszeichnungen & Anerkennung | TERRACOTTA",
+      "fr": "Distinctions design & reconnaissance | TERRACOTTA",
+      "nl": "Designonderscheidingen & erkenning | TERRACOTTA",
+      "ko": "디자인 수상 & 인정 | TERRACOTTA",
+      "ar": "جوائز التصميم والتقدير | TERRACOTTA",
+      "tr": "Tasarım Ödülleri & Takdir | TERRACOTTA"
+    },
+    "Design Trends": {
+      "de": "Designtrends",
+      "fr": "Tendances design",
+      "nl": "Designtrends",
+      "ko": "디자인 트렌드",
+      "ar": "توجهات التصميم",
+      "tr": "Tasarım Trendleri"
+    },
+    "Dimensions and tolerances": {
+      "de": "Abmessungen und Toleranzen",
+      "fr": "Dimensions et tolérances",
+      "nl": "Afmetingen en toleranties",
+      "ko": "치수 및 허용 오차",
+      "ar": "الأبعاد والتفاوتات المسموح بها",
+      "tr": "Ölçüler ve toleranslar"
+    },
+    "Dimensions, Surface & Finish": {
+      "de": "Formate, Oberfläche & Finish",
+      "fr": "Formats, surface & finition",
+      "nl": "Formaten, oppervlak & afwerking",
+      "ko": "규격, 표면 & 마감",
+      "ar": "المقاسات والسطح والتشطيب",
+      "tr": "Ebatlar, Yüzey & Bitiş"
+    },
+    "Discover More": {
+      "de": "Mehr entdecken",
+      "fr": "Découvrir",
+      "nl": "Ontdek meer",
+      "ko": "더 알아보기",
+      "ar": "اكتشف المزيد",
+      "tr": "Daha Fazlası"
+    },
+    "Discover architectural and interior design projects featuring terracotta surfaces, natural materials and distinctive design concepts.": {
+      "de": "Entdecken Sie Architektur- und Interior-Projekte mit Terrakotta-Oberflächen, natürlichen Materialien und unverwechselbaren Designkonzepten.",
+      "fr": "Découvrez des projets d'architecture et d'architecture intérieure mettant en valeur la terre cuite, les matériaux naturels et des concepts de design singuliers.",
+      "nl": "Ontdek architectuur- en interieurprojecten met terracotta oppervlakken, natuurlijke materialen en onderscheidende ontwerpconcepten.",
+      "ko": "테라코타 표면, 자연 소재, 개성 있는 디자인 콘셉트를 담은 건축 및 인테리어 프로젝트를 만나 보십시오.",
+      "ar": "اكتشفوا مشاريع معمارية وتصاميم داخلية تبرز أسطح التيراكوتا والمواد الطبيعية ومفاهيم التصميم المميّزة.",
+      "tr": "Terracotta yüzeyleri, doğal malzemeleri ve özgün tasarım konseptlerini öne çıkaran mimari ve iç mimari projeleri keşfedin."
+    },
+    "Discover decorative relief tiles with embossed, textured and patterned surfaces. Light and shadow bring out the depth of the clay and the character of each design.": {
+      "de": "Entdecken Sie dekorative Relieffliesen mit geprägten, strukturierten und gemusterten Oberflächen. Licht und Schatten betonen die Tiefe des Tons und den Charakter jedes Designs.",
+      "fr": "Découvrez des carreaux décoratifs en relief aux surfaces embossées, texturées et ornées. L'ombre et la lumière révèlent la profondeur de l'argile et le caractère de chaque motif.",
+      "nl": "Ontdek decoratieve reliëftegels met gestempelde, getextureerde en gedessineerde oppervlakken. Licht en schaduw tonen de diepte van de klei en het karakter van elk ontwerp.",
+      "ko": "엠보싱, 질감, 패턴 표면을 갖춘 장식용 릴리프 타일을 만나 보십시오. 빛과 그림자가 점토의 깊이와 각 디자인의 개성을 드러냅니다.",
+      "ar": "اكتشفوا البلاط الزخرفي البارز بأسطحه المنقوشة وذات الملمس والزخارف، حيث يُبرز الضوء والظل عمق الطين وطابع كل تصميم.",
+      "tr": "Kabartmalı, dokulu ve desenli yüzeylere sahip dekoratif rölyef karoları keşfedin. Işık ve gölge, kilin derinliğini ve her tasarımın karakterini ortaya çıkarır."
+    },
+    "Discover distinctive terracotta designs and explore possibilities for customised architectural projects with TERRACOTTA.": {
+      "de": "Entdecken Sie unverwechselbare Terrakotta-Designs und die Möglichkeiten individueller Architekturprojekte mit TERRACOTTA.",
+      "fr": "Découvrez des créations en terre cuite singulières et les possibilités de projets architecturaux personnalisés avec TERRACOTTA.",
+      "nl": "Ontdek onderscheidende terracotta ontwerpen en de mogelijkheden voor architectuurprojecten op maat met TERRACOTTA.",
+      "ko": "개성 있는 테라코타 디자인과 TERRACOTTA와 함께하는 맞춤형 건축 프로젝트의 가능성을 확인해 보십시오.",
+      "ar": "اكتشفوا تصاميم تيراكوتا مميّزة وإمكانات المشاريع المعمارية المصمّمة حسب الطلب مع TERRACOTTA.",
+      "tr": "Kendine özgü terracotta tasarımlarını ve TERRACOTTA ile projeye özel mimari uygulamaların olanaklarını keşfedin."
+    },
+    "Discover expressive terracotta designs through geometric forms, decorative patterns and textured surfaces.": {
+      "de": "Entdecken Sie ausdrucksstarke Terrakotta-Designs mit geometrischen Formen, dekorativen Mustern und strukturierten Oberflächen.",
+      "fr": "Découvrez des créations expressives en terre cuite : formes géométriques, motifs décoratifs et surfaces texturées, dont les tomettes.",
+      "nl": "Ontdek expressieve terracotta ontwerpen met geometrische vormen, decoratieve patronen en getextureerde oppervlakken.",
+      "ko": "기하학적 형태, 장식 패턴, 질감 있는 표면으로 표현력 있는 테라코타 디자인을 만나 보십시오.",
+      "ar": "اكتشفوا تصاميم تيراكوتا معبّرة من خلال الأشكال الهندسية والزخارف والأسطح ذات الملمس.",
+      "tr": "Geometrik formlar, dekoratif desenler ve dokulu yüzeylerle etkileyici terracotta tasarımlarını keşfedin."
+    },
+    "Discover terracotta brick tiles in long, narrow formats. Their traditional proportions bring rhythm and texture to patios, paths and architectural landscapes.": {
+      "de": "Entdecken Sie Terrakottafliesen im Ziegelformat: lange, schmale Formate, deren traditionelle Proportionen Rhythmus und Struktur auf Terrassen, Wege und Außenanlagen bringen.",
+      "fr": "Découvrez les briquettes en terre cuite aux formats longs et étroits. Leurs proportions traditionnelles apportent rythme et texture aux patios, allées et aménagements paysagers.",
+      "nl": "Ontdek terracotta steenstrips in lange, smalle formaten. Hun traditionele verhoudingen brengen ritme en textuur op patio's, paden en buitenruimtes.",
+      "ko": "길고 좁은 포맷의 테라코타 브릭 타일을 만나 보십시오. 전통적인 비율이 파티오, 산책로, 조경 공간에 리듬과 질감을 더합니다.",
+      "ar": "اكتشفوا بلاط التيراكوتا على شكل طوب بمقاساته الطويلة والضيقة، إذ تضفي نِسَبه التقليدية إيقاعًا وملمسًا على الفناءات والممرات والمساحات الطبيعية.",
+      "tr": "Uzun ve dar formatlı terracotta tuğla karoları keşfedin. Geleneksel oranları; avlulara, yürüyüş yollarına ve peyzaj alanlarına ritim ve doku katar."
+    },
+    "Discover terracotta coping elements that finish the edge of the pool. A complementary detail that frames the water and completes the poolside surface.": {
+      "de": "Entdecken Sie Beckenrandsteine aus Terrakotta als Abschluss des Pools – ein ergänzendes Detail, das das Wasser rahmt und die Poolfläche vollendet.",
+      "fr": "Découvrez les margelles en terre cuite qui finissent le bord de la piscine, un détail qui encadre l'eau et complète la plage.",
+      "nl": "Ontdek terracotta zwembadranden die de rand van het zwembad afwerken: een aanvullend detail dat het water omlijst en de zwembadomloop voltooit.",
+      "ko": "수영장 가장자리를 마감하는 테라코타 코핑을 만나 보십시오. 물을 감싸고 수영장 주변을 완성하는 보완 디테일입니다.",
+      "ar": "اكتشفوا حواف المسابح من التيراكوتا التي تُنهي حافة المسبح، تفصيل مكمّل يؤطّر الماء ويُكمل محيط المسبح.",
+      "tr": "Havuz kenarını tamamlayan terracotta kenar taşlarını keşfedin: suyu çerçeveleyen ve havuz çevresini tamamlayan bir detay."
+    },
+    "Discover terracotta stair treads that continue the character of natural clay from floor to step. A complementary element for coordinated stairs and level changes.": {
+      "de": "Entdecken Sie Treppenstufen aus Terrakotta, die den Charakter des natürlichen Tons vom Boden bis zur Stufe fortführen – für abgestimmte Treppen und Niveauwechsel.",
+      "fr": "Découvrez les marches en terre cuite qui prolongent le caractère de l'argile naturelle du sol à l'escalier, pour des escaliers et changements de niveau coordonnés.",
+      "nl": "Ontdek terracotta traptreden die het karakter van natuurlijke klei doortrekken van vloer naar trap. Een aanvullend element voor afgestemde trappen en niveauverschillen.",
+      "ko": "바닥에서 계단까지 자연 점토의 개성을 이어 주는 테라코타 계단 디딤판을 만나 보십시오. 조화로운 계단과 단차를 위한 보완 요소입니다.",
+      "ar": "اكتشفوا درجات السلالم من التيراكوتا التي تواصل طابع الطين الطبيعي من الأرضية إلى الدرج، عنصر مكمّل لسلالم وفروق مناسيب متناسقة.",
+      "tr": "Doğal kilin karakterini zeminden merdivene taşıyan terracotta merdiven basamaklarını keşfedin: uyumlu merdivenler ve kot farkları için tamamlayıcı bir eleman."
+    },
+    "Discover terracotta surfaces for outdoor living. Explore traditional brick formats and paving concepts for patios, terraces and architectural landscapes.": {
+      "de": "Entdecken Sie Terrakotta-Oberflächen für den Außenbereich: traditionelle Ziegelformate und Terrassenplatten für Patios, Terrassen und Außenanlagen.",
+      "fr": "Découvrez la terre cuite pour la vie en extérieur : briquettes traditionnelles et dalles pour patios, terrasses et aménagements paysagers.",
+      "nl": "Ontdek terracotta oppervlakken voor buiten. Verken traditionele steenstrips en terrastegels voor patio's, terrassen en buitenruimtes.",
+      "ko": "외부 생활 공간을 위한 테라코타 표면재를 만나 보십시오. 파티오, 테라스, 조경 공간을 위한 전통 브릭 포맷과 페이버를 살펴보십시오.",
+      "ar": "اكتشفوا أسطح التيراكوتا للحياة في الهواء الطلق، واستكشفوا مقاسات الطوب التقليدية وبلاط الممرات للفناءات والتراسات والمساحات الطبيعية.",
+      "tr": "Dış mekân yaşamı için terracotta yüzeyleri keşfedin. Avlular, teraslar ve peyzaj alanları için geleneksel tuğla formatlarını ve yer döşemelerini inceleyin."
+    },
+    "Discover the TERRACOTTA philosophy, inspired by natural clay, architectural design and the timeless character of earth.": {
+      "de": "Entdecken Sie die Philosophie von TERRACOTTA, inspiriert von natürlichem Ton, Architektur und dem zeitlosen Charakter der Erde.",
+      "fr": "Découvrez la philosophie TERRACOTTA, inspirée par l'argile naturelle, l'architecture et le caractère intemporel de la terre.",
+      "nl": "Ontdek de filosofie van TERRACOTTA, geïnspireerd op natuurlijke klei, architectuur en het tijdloze karakter van aarde.",
+      "ko": "자연 점토, 건축 디자인, 대지의 변치 않는 개성에서 영감을 받은 TERRACOTTA의 철학을 만나 보십시오.",
+      "ar": "اكتشفوا فلسفة TERRACOTTA المستوحاة من الطين الطبيعي والتصميم المعماري والطابع الخالد للأرض.",
+      "tr": "Doğal kilden, mimari tasarımdan ve toprağın zamansız karakterinden ilham alan TERRACOTTA felsefesini keşfedin."
+    },
+    "Discover the design recognitions and achievements associated with TERRACOTTA.": {
+      "de": "Entdecken Sie die Designauszeichnungen und Erfolge von TERRACOTTA.",
+      "fr": "Découvrez les distinctions et réalisations associées à TERRACOTTA.",
+      "nl": "Ontdek de designonderscheidingen en prestaties van TERRACOTTA.",
+      "ko": "TERRACOTTA의 디자인 수상 및 성과를 확인해 보십시오.",
+      "ar": "اكتشفوا جوائز التصميم والإنجازات المرتبطة بـ TERRACOTTA.",
+      "tr": "TERRACOTTA ile ilişkili tasarım ödüllerini ve başarıları keşfedin."
+    },
+    "Discover the timeless simplicity of square terracotta tiles. Their balanced geometry and natural clay character offer a versatile foundation for traditional and contemporary architectural spaces.": {
+      "de": "Entdecken Sie die zeitlose Schlichtheit quadratischer Terrakotta Fliesen. Ihre ausgewogene Geometrie und der Charakter des natürlichen Tons bilden eine vielseitige Basis für traditionelle und zeitgenössische Räume.",
+      "fr": "Découvrez la simplicité intemporelle du carrelage carré en terre cuite. Sa géométrie équilibrée et le caractère de l'argile naturelle offrent une base polyvalente pour les espaces traditionnels comme contemporains.",
+      "nl": "Ontdek de tijdloze eenvoud van vierkante terracotta tegels. Hun evenwichtige geometrie en het karakter van natuurlijke klei vormen een veelzijdige basis voor traditionele en hedendaagse ruimtes.",
+      "ko": "정사각형 테라코타 타일의 변치 않는 단순함을 만나 보십시오. 균형 잡힌 형태와 자연 점토의 개성이 전통적인 공간과 현대적인 공간 모두에 다양하게 어울립니다.",
+      "ar": "اكتشفوا البساطة الخالدة لبلاط التيراكوتا المربع، فهندسته المتوازنة وطابع الطين الطبيعي يقدّمان أساسًا متعدد الاستخدامات للمساحات التقليدية والمعاصرة.",
+      "tr": "Kare terracotta karoların zamansız sadeliğini keşfedin. Dengeli geometrisi ve doğal kilin karakteri, geleneksel ve çağdaş mekânlar için çok yönlü bir temel sunar."
+    },
+    "Distribution Partnership": {
+      "de": "Vertriebspartnerschaft",
+      "fr": "Partenariat de distribution",
+      "nl": "Distributiepartnerschap",
+      "ko": "유통 파트너십",
+      "ar": "شراكة توزيع",
+      "tr": "Distribütörlük İş Birliği"
+    },
+    "Editorial Categories": {
+      "de": "Themenbereiche",
+      "fr": "Rubriques",
+      "nl": "Rubrieken",
+      "ko": "카테고리",
+      "ar": "أقسام المجلة",
+      "tr": "Konu Başlıkları"
+    },
+    "Email": {
+      "de": "E-Mail",
+      "fr": "E-mail",
+      "nl": "E-mail",
+      "ko": "이메일",
+      "ar": "البريد الإلكتروني",
+      "tr": "E-posta"
+    },
+    "Email Address": {
+      "de": "E-Mail-Adresse",
+      "fr": "Adresse e-mail",
+      "nl": "E-mailadres",
+      "ko": "이메일 주소",
+      "ar": "عنوان البريد الإلكتروني",
+      "tr": "E-posta Adresi"
+    },
+    "Enquiry Type": {
+      "de": "Art der Anfrage",
+      "fr": "Type de demande",
+      "nl": "Soort aanvraag",
+      "ko": "문의 유형",
+      "ar": "نوع الاستفسار",
+      "tr": "Talep Türü"
+    },
+    "Estimated Project Area (m²)": {
+      "de": "Geschätzte Projektfläche (m²)",
+      "fr": "Surface estimée du projet (m²)",
+      "nl": "Geschatte projectoppervlakte (m²)",
+      "ko": "예상 프로젝트 면적(m²)",
+      "ar": "المساحة التقديرية للمشروع (م²)",
+      "tr": "Tahmini Proje Alanı (m²)"
+    },
+    "Estimated Quantity (m²)": {
+      "de": "Geschätzte Menge (m²)",
+      "fr": "Quantité estimée (m²)",
+      "nl": "Geschatte hoeveelheid (m²)",
+      "ko": "예상 수량(m²)",
+      "ar": "الكمية التقديرية (م²)",
+      "tr": "Tahmini Miktar (m²)"
+    },
+    "Explore Catalogue": {
+      "de": "Katalog ansehen",
+      "fr": "Voir le catalogue",
+      "nl": "Bekijk de catalogus",
+      "ko": "카탈로그 보기",
+      "ar": "تصفّح الكتالوج",
+      "tr": "Kataloğu İnceleyin"
+    },
+    "Explore Collections": {
+      "de": "Kollektionen ansehen",
+      "fr": "Voir les collections",
+      "nl": "Bekijk de collecties",
+      "ko": "컬렉션 보기",
+      "ar": "تصفّح المجموعات",
+      "tr": "Koleksiyonları İnceleyin"
+    },
+    "Explore Colours": {
+      "de": "Farben ansehen",
+      "fr": "Voir les couleurs",
+      "nl": "Bekijk de kleuren",
+      "ko": "컬러 보기",
+      "ar": "تصفّح الألوان",
+      "tr": "Renkleri İnceleyin"
+    },
+    "Explore Other Collections": {
+      "de": "Weitere Kollektionen",
+      "fr": "Autres collections",
+      "nl": "Andere collecties",
+      "ko": "다른 컬렉션 보기",
+      "ar": "مجموعات أخرى",
+      "tr": "Diğer Koleksiyonlar"
+    },
+    "Explore by Setting": {
+      "de": "Nach Einsatzbereich",
+      "fr": "Par type de projet",
+      "nl": "Per toepassing",
+      "ko": "용도별 보기",
+      "ar": "حسب نوع المشروع",
+      "tr": "Kullanım Alanına Göre"
+    },
+    "Explore complementary architectural elements for stairs, edges and coordinated floor-to-wall transitions.": {
+      "de": "Entdecken Sie ergänzende Elemente für Treppen, Kanten und abgestimmte Übergänge zwischen Boden und Wand.",
+      "fr": "Découvrez des éléments complémentaires pour les escaliers, les bordures et des transitions coordonnées entre sol et mur.",
+      "nl": "Ontdek aanvullende elementen voor trappen, randen en afgestemde overgangen tussen vloer en wand.",
+      "ko": "계단, 가장자리, 바닥과 벽 사이의 조화로운 연결을 위한 보완 건축 요소를 살펴보십시오.",
+      "ar": "استكشفوا عناصر معمارية مكمّلة للسلالم والحواف والانتقالات المتناسقة بين الأرضية والجدار.",
+      "tr": "Merdivenler, kenarlar ve zemin ile duvar arasındaki uyumlu geçişler için tamamlayıcı mimari elemanları keşfedin."
+    },
+    "Explore ideas, inspiration and editorial content about terracotta, architecture, natural materials and Mediterranean design.": {
+      "de": "Ideen, Inspiration und redaktionelle Inhalte zu Terrakotta, Architektur, natürlichen Materialien und mediterranem Design.",
+      "fr": "Idées, inspirations et contenus éditoriaux autour de la terre cuite, de l'architecture, des matériaux naturels et du design méditerranéen.",
+      "nl": "Ideeën, inspiratie en redactionele content over terracotta, architectuur, natuurlijke materialen en mediterraan design.",
+      "ko": "테라코타, 건축, 자연 소재, 지중해 디자인에 관한 아이디어와 영감, 콘텐츠를 만나 보십시오.",
+      "ar": "أفكار وإلهام ومحتوى تحريري حول التيراكوتا والعمارة والمواد الطبيعية وتصميم البحر الأبيض المتوسط.",
+      "tr": "Terracotta, mimari, doğal malzemeler ve Akdeniz tasarımı üzerine fikirler, ilham ve editoryal içerikler."
+    },
+    "Explore individually developed terracotta designs for projects requiring distinctive forms, dimensions and decorative details. Contact our team to discuss your project requirements.": {
+      "de": "Entdecken Sie individuell entwickelte Terrakotta-Designs für Projekte mit besonderen Formen, Abmessungen und dekorativen Details. Sprechen Sie mit unserem Team über Ihre Projektanforderungen.",
+      "fr": "Découvrez des créations en terre cuite développées sur mesure pour les projets exigeant des formes, dimensions et détails décoratifs spécifiques. Contactez notre équipe pour en parler.",
+      "nl": "Ontdek individueel ontwikkelde terracotta ontwerpen voor projecten met specifieke vormen, afmetingen en decoratieve details. Neem contact op met ons team om uw projecteisen te bespreken.",
+      "ko": "특정한 형태, 치수, 장식 디테일이 필요한 프로젝트를 위해 개별 개발되는 테라코타 디자인을 살펴보십시오. 프로젝트 요구 사항은 저희 팀과 상의해 주십시오.",
+      "ar": "استكشفوا تصاميم تيراكوتا تُطوَّر خصيصًا للمشاريع التي تتطلب أشكالًا وأبعادًا وتفاصيل زخرفية مميّزة. تواصلوا مع فريقنا لمناقشة متطلبات مشروعكم.",
+      "tr": "Özel form, ölçü ve dekoratif detay gerektiren projeler için tek tek geliştirilen terracotta tasarımlarını keşfedin. Proje gereksinimlerinizi görüşmek için ekibimizle iletişime geçin."
+    },
+    "Explore our complete collection of natural clay tile concepts, architectural formats and decorative surfaces. From floor tiles and outdoor pavers to pool details and artisan designs, discover the possibilities of terracotta.": {
+      "de": "Entdecken Sie unsere komplette Kollektion an Terrakotta Fliesen, architektonischen Formaten und dekorativen Oberflächen – von Bodenfliesen und Terrassenplatten bis zu Pooldetails und Sonderanfertigungen.",
+      "fr": "Découvrez notre collection complète de carrelage en terre cuite, de formats architecturaux et de surfaces décoratives : carreaux de sol, dalles d'extérieur, détails de piscine, tomettes et créations sur mesure.",
+      "nl": "Ontdek onze complete collectie terracotta tegels, architecturale formaten en decoratieve oppervlakken: van vloertegels en terrastegels tot zwembaddetails en maatwerk.",
+      "ko": "테라코타 타일, 건축 포맷, 장식 표면으로 구성된 전체 컬렉션을 살펴보십시오. 바닥 타일과 외부용 페이버부터 수영장 디테일과 맞춤 제작 디자인까지 테라코타의 가능성을 확인해 보십시오.",
+      "ar": "استكشفوا مجموعتنا الكاملة من بلاط التيراكوتا والمقاسات المعمارية والأسطح الزخرفية، من بلاط الأرضيات وبلاط الممرات الخارجية إلى تفاصيل المسابح والتصاميم حسب الطلب.",
+      "tr": "Terracotta karolar, mimari formatlar ve dekoratif yüzeylerden oluşan koleksiyonumuzun tamamını keşfedin: zemin karolarından dış mekân döşemelerine, havuz detaylarından özel tasarımlara."
+    },
+    "Explore rectangle terracotta tiles for classic and contemporary floors. Their elongated format supports linear, staggered and patterned layouts with the natural warmth of clay.": {
+      "de": "Entdecken Sie rechteckige Terrakotta Fliesen für klassische und moderne Böden. Das gestreckte Format ermöglicht lineare, versetzte und gemusterte Verlegungen mit der natürlichen Wärme des Tons.",
+      "fr": "Découvrez les carreaux rectangulaires en terre cuite pour des sols classiques ou contemporains. Leur format allongé se prête aux poses linéaires, décalées ou en motifs, avec la chaleur naturelle de l'argile.",
+      "nl": "Ontdek rechthoekige terracotta tegels voor klassieke en hedendaagse vloeren. Het langwerpige formaat leent zich voor lineaire, verspringende en patroonlegging, met de natuurlijke warmte van klei.",
+      "ko": "클래식하고 현대적인 바닥을 위한 직사각형 테라코타 타일을 만나 보십시오. 길쭉한 포맷으로 일자, 엇갈림, 패턴 시공이 가능하며 점토 본연의 따뜻함을 전합니다.",
+      "ar": "اكتشفوا بلاط التيراكوتا المستطيل للأرضيات الكلاسيكية والمعاصرة، إذ يتيح مقاسه الممدود التركيب الخطي والمتدرّج والزخرفي بدفء الطين الطبيعي.",
+      "tr": "Klasik ve çağdaş zeminler için dikdörtgen terracotta karoları keşfedin. Uzun formatı; düz, şaşırtmalı ve desenli döşemelere doğal kilin sıcaklığıyla olanak tanır."
+    },
+    "Explore terracotta flooring in timeless geometric formats. Discover natural clay surfaces designed to bring warmth and character to architectural interiors.": {
+      "de": "Entdecken Sie Terracotta Bodenfliesen in zeitlosen geometrischen Formaten – Oberflächen aus natürlichem Ton, die Innenräumen Wärme und Charakter verleihen.",
+      "fr": "Découvrez le carrelage de sol en terre cuite dans des formats géométriques intemporels : des surfaces en argile naturelle qui apportent chaleur et caractère aux intérieurs.",
+      "nl": "Ontdek terracotta vloertegels in tijdloze geometrische formaten: oppervlakken van natuurlijke klei die warmte en karakter geven aan interieurs.",
+      "ko": "변치 않는 기하학적 포맷의 테라코타 바닥 타일을 만나 보십시오. 실내 공간에 따뜻함과 개성을 더하는 자연 점토 표면입니다.",
+      "ar": "اكتشفوا بلاط أرضيات التيراكوتا بمقاسات هندسية خالدة، أسطح من الطين الطبيعي تضفي الدفء والطابع المميّز على المساحات الداخلية.",
+      "tr": "Zamansız geometrik formatlarda terracotta zemin karolarını keşfedin: iç mekânlara sıcaklık ve karakter katan doğal kil yüzeyler."
+    },
+    "Explore terracotta paving formats for patios, courtyards and outdoor living spaces. Natural earthy tones create a visual connection between architecture and landscape.": {
+      "de": "Entdecken Sie Terrassenplatten aus Terrakotta für Patios, Innenhöfe und Außenbereiche. Natürliche Erdtöne verbinden Architektur und Landschaft.",
+      "fr": "Découvrez les dalles en terre cuite pour patios, cours et espaces de vie extérieurs. Les tons naturels de la terre relient architecture et paysage.",
+      "nl": "Ontdek terracotta terrastegels voor patio's, binnenplaatsen en buitenruimtes. Natuurlijke aardetinten verbinden architectuur en landschap.",
+      "ko": "파티오, 안뜰, 외부 생활 공간을 위한 테라코타 페이버를 만나 보십시오. 자연스러운 흙빛 톤이 건축과 풍경을 시각적으로 연결합니다.",
+      "ar": "اكتشفوا بلاط ممرات التيراكوتا للفناءات والساحات ومساحات المعيشة الخارجية، حيث تربط الألوان الترابية الطبيعية بين العمارة والطبيعة.",
+      "tr": "Avlular, iç bahçeler ve dış mekân yaşam alanları için terracotta yer döşemelerini keşfedin. Doğal toprak tonları mimari ile peyzaj arasında görsel bir bağ kurar."
+    },
+    "Explore terracotta surface concepts and complementary edge details for distinctive poolside environments.": {
+      "de": "Entdecken Sie Terrakotta-Oberflächen und passende Randdetails für unverwechselbare Poolbereiche.",
+      "fr": "Découvrez des surfaces en terre cuite et des détails de bordure assortis pour des abords de piscine singuliers.",
+      "nl": "Ontdek terracotta oppervlakken en bijpassende randdetails voor onderscheidende zwembadomgevingen.",
+      "ko": "개성 있는 수영장 주변 공간을 위한 테라코타 표면재와 보완 가장자리 디테일을 살펴보십시오.",
+      "ar": "استكشفوا أسطح التيراكوتا وتفاصيل الحواف المكمّلة لمحيط مسابح مميّز.",
+      "tr": "Özgün havuz çevreleri için terracotta yüzeyleri ve tamamlayıcı kenar detaylarını keşfedin."
+    },
+    "Explore terracotta surfaces for the area around the pool. Natural clay tones help create calm, cohesive poolside environments that connect water, architecture and landscape.": {
+      "de": "Entdecken Sie Terrakotta-Oberflächen für den Bereich rund um den Pool. Natürliche Tontöne schaffen ruhige, stimmige Poolbereiche, die Wasser, Architektur und Landschaft verbinden.",
+      "fr": "Découvrez la terre cuite pour la plage de piscine. Les tons naturels de l'argile créent des abords calmes et cohérents, entre eau, architecture et paysage.",
+      "nl": "Ontdek terracotta oppervlakken voor de omgeving van het zwembad. Natuurlijke kleitinten creëren rustige, samenhangende zwembadomgevingen die water, architectuur en landschap verbinden.",
+      "ko": "수영장 주변을 위한 테라코타 표면재를 만나 보십시오. 자연 점토의 톤이 물, 건축, 풍경을 잇는 차분하고 조화로운 공간을 만듭니다.",
+      "ar": "اكتشفوا أسطح التيراكوتا لمحيط المسبح، حيث تصنع درجات الطين الطبيعي بيئات هادئة ومتناسقة تربط الماء بالعمارة والطبيعة.",
+      "tr": "Havuz çevresi için terracotta yüzeyleri keşfedin. Doğal kil tonları suyu, mimariyi ve peyzajı birleştiren sakin ve bütünlüklü havuz alanları yaratır."
+    },
+    "Explore the TERRACOTTA product catalogue featuring six collections, twelve product types and twelve earthy colour concepts.": {
+      "de": "Entdecken Sie den TERRACOTTA Katalog für Terrakotta Fliesen: sechs Kollektionen, zwölf Produkttypen und zwölf Erdfarben.",
+      "fr": "Découvrez le catalogue TERRACOTTA de carrelage terre cuite : six collections, douze types de produits et douze couleurs terreuses.",
+      "nl": "Ontdek de TERRACOTTA productcatalogus voor terracotta tegels: zes collecties, twaalf producttypes en twaalf aardse kleuren.",
+      "ko": "여섯 가지 컬렉션, 열두 가지 제품 유형, 열두 가지 흙빛 컬러로 구성된 TERRACOTTA 테라코타 타일 카탈로그를 살펴보십시오.",
+      "ar": "استكشفوا كتالوج TERRACOTTA لبلاط التيراكوتا: ست مجموعات واثنا عشر نوعًا من المنتجات واثنا عشر لونًا ترابيًا.",
+      "tr": "Terracotta ve pişmiş toprak karolar için TERRACOTTA ürün kataloğunu keşfedin: altı koleksiyon, on iki ürün tipi ve on iki toprak tonu."
+    },
+    "Explore the material character, colours, textures and finishes of terracotta.": {
+      "de": "Entdecken Sie den Materialcharakter, die Farben, Strukturen und Oberflächen von Terrakotta.",
+      "fr": "Découvrez le caractère, les couleurs, les textures et les finitions de la terre cuite.",
+      "nl": "Ontdek het karakter, de kleuren, texturen en afwerkingen van terracotta.",
+      "ko": "테라코타의 소재 특성, 컬러, 질감, 마감을 살펴보십시오.",
+      "ar": "استكشفوا طابع التيراكوتا وألوانها وملمسها وتشطيباتها.",
+      "tr": "Terracottanın malzeme karakterini, renklerini, dokularını ve bitişlerini keşfedin."
+    },
+    "Explore twelve TERRACOTTA colour concepts inspired by natural clay, stone and Mediterranean landscapes. Discover earthy shades for architectural spaces.": {
+      "de": "Zwölf TERRACOTTA Farbkonzepte, inspiriert von natürlichem Ton, Stein und mediterranen Landschaften: Erdtöne für Terrakotta Fliesen in der Architektur.",
+      "fr": "Douze couleurs TERRACOTTA inspirées de l'argile naturelle, de la pierre et des paysages méditerranéens : des teintes terreuses pour le carrelage terre cuite.",
+      "nl": "Twaalf TERRACOTTA kleuren, geïnspireerd op natuurlijke klei, steen en mediterrane landschappen: aardse tinten voor terracotta tegels in de architectuur.",
+      "ko": "자연 점토, 돌, 지중해 풍경에서 영감을 받은 열두 가지 TERRACOTTA 컬러. 건축 공간을 위한 테라코타 타일의 흙빛 컬러를 만나 보십시오.",
+      "ar": "اثنا عشر لونًا من TERRACOTTA مستوحاة من الطين الطبيعي والحجر ومناظر البحر الأبيض المتوسط: ألوان ترابية لبلاط التيراكوتا في العمارة.",
+      "tr": "Doğal kil, taş ve Akdeniz manzaralarından ilham alan on iki TERRACOTTA rengi: mimaride terracotta karolar için toprak tonları."
+    },
+    "Explore twelve earthy shades in the TERRACOTTA Colour Collection. Colour availability for each product will be confirmed with verified product data.": {
+      "de": "Entdecken Sie zwölf Erdtöne in der TERRACOTTA Farbkollektion. Die Farbverfügbarkeit je Produkt wird mit geprüften Produktdaten bestätigt.",
+      "fr": "Découvrez douze teintes terreuses dans la collection de couleurs TERRACOTTA. La disponibilité par produit sera confirmée par des données vérifiées.",
+      "nl": "Ontdek twaalf aardse tinten in de TERRACOTTA kleurencollectie. De beschikbaarheid per product wordt bevestigd met geverifieerde productgegevens.",
+      "ko": "TERRACOTTA 컬러 컬렉션의 열두 가지 흙빛 컬러를 만나 보십시오. 제품별 컬러 제공 여부는 검증된 제품 데이터로 확정됩니다.",
+      "ar": "اكتشفوا اثني عشر لونًا ترابيًا في مجموعة ألوان TERRACOTTA. سيتم تأكيد توفّر الألوان لكل منتج ببيانات منتج موثّقة.",
+      "tr": "TERRACOTTA Renk Koleksiyonu'ndaki on iki toprak tonunu keşfedin. Her ürün için renk durumu doğrulanmış ürün verileriyle teyit edilecektir."
+    },
+    "Explore verified design awards, recognitions and industry achievements associated with TERRACOTTA.": {
+      "de": "Geprüfte Designauszeichnungen, Anerkennungen und Branchenerfolge von TERRACOTTA.",
+      "fr": "Distinctions design, reconnaissances et réalisations vérifiées associées à TERRACOTTA.",
+      "nl": "Geverifieerde designonderscheidingen, erkenningen en prestaties van TERRACOTTA.",
+      "ko": "검증된 TERRACOTTA의 디자인 수상, 인정 및 업계 성과를 확인해 보십시오.",
+      "ar": "جوائز التصميم والتقدير والإنجازات الموثّقة المرتبطة بـ TERRACOTTA.",
+      "tr": "TERRACOTTA ile ilişkili doğrulanmış tasarım ödüllerini, takdirleri ve sektör başarılarını inceleyin."
+    },
+    "Feature floors and walls with geometric compositions.": {
+      "de": "Akzentböden und -wände mit geometrischen Kompositionen.",
+      "fr": "Sols et murs d'accent aux compositions géométriques.",
+      "nl": "Accentvloeren en -wanden met geometrische composities.",
+      "ko": "기하학적 구성의 포인트 바닥 및 벽.",
+      "ar": "أرضيات وجدران مميّزة بتكوينات هندسية.",
+      "tr": "Geometrik kompozisyonlu vurgu zeminleri ve duvarları."
+    },
+    "Feature walls and decorative surfaces.": {
+      "de": "Akzentwände und dekorative Flächen.",
+      "fr": "Murs d'accent et surfaces décoratives.",
+      "nl": "Accentwanden en decoratieve oppervlakken.",
+      "ko": "포인트 벽과 장식 표면.",
+      "ar": "جدران مميّزة وأسطح زخرفية.",
+      "tr": "Vurgu duvarları ve dekoratif yüzeyler."
+    },
+    "Fields marked * are required.": {
+      "de": "Mit * markierte Felder sind Pflichtfelder.",
+      "fr": "Les champs marqués d'un * sont obligatoires.",
+      "nl": "Velden met een * zijn verplicht.",
+      "ko": "* 표시는 필수 입력 항목입니다.",
+      "ar": "الحقول المميّزة بعلامة * إلزامية.",
+      "tr": "* ile işaretli alanlar zorunludur."
+    },
+    "Find Out More": {
+      "de": "Mehr erfahren",
+      "fr": "En savoir plus",
+      "nl": "Meer informatie",
+      "ko": "자세히 보기",
+      "ar": "اعرف المزيد",
+      "tr": "Detaylı Bilgi"
+    },
+    "Floor-to-wall transitions.": {
+      "de": "Übergänge zwischen Boden und Wand.",
+      "fr": "Transitions entre sol et mur.",
+      "nl": "Overgangen tussen vloer en wand.",
+      "ko": "바닥과 벽 사이의 연결부.",
+      "ar": "الانتقالات بين الأرضية والجدار.",
+      "tr": "Zemin-duvar geçişleri."
+    },
+    "For any questions in the meantime, please contact our team.": {
+      "de": "Bei Fragen wenden Sie sich bitte an unser Team.",
+      "fr": "Pour toute question, veuillez contacter notre équipe.",
+      "nl": "Neem bij vragen contact op met ons team.",
+      "ko": "문의 사항이 있으시면 저희 팀에 연락해 주십시오.",
+      "ar": "لأي استفسار، يُرجى التواصل مع فريقنا.",
+      "tr": "Sorularınız için lütfen ekibimizle iletişime geçin."
+    },
+    "Frost resistance, where tested": {
+      "de": "Frostbeständigkeit, sofern geprüft",
+      "fr": "Résistance au gel, si testée",
+      "nl": "Vorstbestendigheid, indien getest",
+      "ko": "내동결성(시험한 경우)",
+      "ar": "مقاومة التجمّد، عند اختبارها",
+      "tr": "Dona dayanım, test edilmişse"
+    },
+    "Full Name": {
+      "de": "Vollständiger Name",
+      "fr": "Nom complet",
+      "nl": "Volledige naam",
+      "ko": "성명",
+      "ar": "الاسم الكامل",
+      "tr": "Ad Soyad"
+    },
+    "Gardens, verandas, patios, courtyards and terraces.": {
+      "de": "Gärten, Veranden, Patios, Innenhöfe und Terrassen.",
+      "fr": "Jardins, vérandas, patios, cours et terrasses.",
+      "nl": "Tuinen, veranda's, patio's, binnenplaatsen en terrassen.",
+      "ko": "정원, 베란다, 파티오, 안뜰 및 테라스.",
+      "ar": "الحدائق والشرفات والفناءات والساحات والتراسات.",
+      "tr": "Bahçeler, verandalar, avlular, iç bahçeler ve teraslar."
+    },
+    "General Enquiry": {
+      "de": "Allgemeine Anfrage",
+      "fr": "Demande générale",
+      "nl": "Algemene aanvraag",
+      "ko": "일반 문의",
+      "ar": "استفسار عام",
+      "tr": "Genel Talep"
+    },
+    "Get in touch to explore our collections and discuss your requirements.": {
+      "de": "Nehmen Sie Kontakt auf, um unsere Kollektionen kennenzulernen und Ihre Anforderungen zu besprechen.",
+      "fr": "Contactez-nous pour découvrir nos collections et échanger sur vos besoins.",
+      "nl": "Neem contact op om onze collecties te ontdekken en uw wensen te bespreken.",
+      "ko": "컬렉션을 살펴보고 요구 사항을 상의하시려면 연락해 주십시오.",
+      "ar": "تواصلوا معنا لاستكشاف مجموعاتنا ومناقشة متطلباتكم.",
+      "tr": "Koleksiyonlarımızı keşfetmek ve ihtiyaçlarınızı görüşmek için bizimle iletişime geçin."
+    },
+    "Grouting": {
+      "de": "Verfugung",
+      "fr": "Jointoiement",
+      "nl": "Voegen",
+      "ko": "줄눈 시공",
+      "ar": "الترويب",
+      "tr": "Derz uygulaması"
+    },
+    "Guidance Topics": {
+      "de": "Themen",
+      "fr": "Thèmes abordés",
+      "nl": "Onderwerpen",
+      "ko": "주요 내용",
+      "ar": "المحاور",
+      "tr": "Konular"
+    },
+    "Inspired by Nature": {
+      "de": "Von der Natur inspiriert",
+      "fr": "Inspiré par la nature",
+      "nl": "Geïnspireerd door de natuur",
+      "ko": "자연에서 받은 영감",
+      "ar": "مستوحى من الطبيعة",
+      "tr": "Doğadan İlham"
+    },
+    "Inspired by the natural world, the TERRACOTTA colour collection brings together twelve distinctive shades. From warm earthy neutrals to subtle mineral tones, each colour offers a different expression of natural clay.": {
+      "de": "Von der Natur inspiriert, vereint die TERRACOTTA Farbkollektion zwölf unverwechselbare Farbtöne. Von warmen erdigen Neutraltönen bis zu dezenten Mineraltönen zeigt jede Farbe eine andere Facette des natürlichen Tons.",
+      "fr": "Inspirée par la nature, la collection de couleurs TERRACOTTA réunit douze teintes singulières. Des neutres chauds et terreux aux tons minéraux subtils, chaque couleur exprime une facette de l'argile naturelle.",
+      "nl": "Geïnspireerd door de natuur brengt de TERRACOTTA kleurencollectie twaalf onderscheidende tinten samen. Van warme aardse neutrale tinten tot subtiele minerale tonen: elke kleur toont een ander facet van natuurlijke klei.",
+      "ko": "자연에서 영감을 받은 TERRACOTTA 컬러 컬렉션은 열두 가지 개성 있는 컬러로 구성됩니다. 따뜻한 흙빛 뉴트럴부터 은은한 미네랄 톤까지, 각 컬러가 자연 점토의 서로 다른 표정을 보여 줍니다.",
+      "ar": "مستوحاة من الطبيعة، تجمع مجموعة ألوان TERRACOTTA اثني عشر لونًا مميّزًا. من الألوان الترابية الدافئة إلى الدرجات المعدنية الهادئة، يعبّر كل لون عن وجه مختلف للطين الطبيعي.",
+      "tr": "Doğadan ilham alan TERRACOTTA renk koleksiyonu on iki özgün tonu bir araya getirir. Sıcak toprak nötrlerinden yumuşak mineral tonlara kadar her renk doğal kilin farklı bir yüzünü yansıtır."
+    },
+    "Installation and care guidance for TERRACOTTA terracotta tiles: surface preparation, installation, grouting, sealing, cleaning and maintenance.": {
+      "de": "Hinweise zu Verlegung und Pflege von Terrakotta Fliesen: Untergrundvorbereitung, Verlegung, Verfugung, Imprägnierung, Reinigung und Pflege.",
+      "fr": "Conseils de pose et d'entretien du carrelage terre cuite TERRACOTTA : préparation du support, pose, jointoiement, imprégnation, nettoyage et entretien.",
+      "nl": "Advies over plaatsing en onderhoud van terracotta tegels van TERRACOTTA: voorbereiding van de ondergrond, plaatsing, voegen, impregneren, reiniging en onderhoud.",
+      "ko": "TERRACOTTA 테라코타 타일 시공 및 관리 안내: 바탕면 준비, 시공, 줄눈, 실링, 청소 및 유지 관리.",
+      "ar": "إرشادات تركيب بلاط التيراكوتا من TERRACOTTA والعناية به: تجهيز السطح، والتركيب، والترويب، والعزل، والتنظيف، والصيانة.",
+      "tr": "TERRACOTTA terracotta karoların uygulama ve bakım rehberi: yüzey hazırlığı, uygulama, derz, empregnasyon, temizlik ve bakım."
+    },
+    "Installation and care guidance will cover the following topics. All technical recommendations will be checked against the relevant product documentation before publication.": {
+      "de": "Die Hinweise zu Verlegung und Pflege werden die folgenden Themen behandeln. Alle technischen Empfehlungen werden vor der Veröffentlichung anhand der jeweiligen Produktdokumentation geprüft.",
+      "fr": "Les conseils de pose et d'entretien couvriront les thèmes suivants. Toutes les recommandations techniques seront vérifiées par rapport à la documentation produit avant publication.",
+      "nl": "Het advies over plaatsing en onderhoud behandelt de volgende onderwerpen. Alle technische aanbevelingen worden vóór publicatie gecontroleerd aan de hand van de productdocumentatie.",
+      "ko": "시공 및 관리 안내에서는 다음 내용을 다룰 예정입니다. 모든 기술 권장 사항은 공개 전에 해당 제품 문서와 대조하여 검토됩니다.",
+      "ar": "ستغطي إرشادات التركيب والعناية المحاور التالية. وستُراجَع جميع التوصيات الفنية مقابل وثائق المنتج المعنية قبل نشرها.",
+      "tr": "Uygulama ve bakım rehberi aşağıdaki konuları kapsayacaktır. Tüm teknik öneriler yayımlanmadan önce ilgili ürün dokümantasyonuna göre kontrol edilecektir."
+    },
+    "Installation guidance": {
+      "de": "Verlegehinweise",
+      "fr": "Conseils de pose",
+      "nl": "Plaatsingsadvies",
+      "ko": "시공 안내",
+      "ar": "إرشادات التركيب",
+      "tr": "Uygulama rehberi"
+    },
+    "Installation requirements": {
+      "de": "Verlegeanforderungen",
+      "fr": "Exigences de pose",
+      "nl": "Plaatsingseisen",
+      "ko": "시공 요건",
+      "ar": "متطلبات التركيب",
+      "tr": "Uygulama gereksinimleri"
+    },
+    "Interested in our collections?": {
+      "de": "Interesse an unseren Kollektionen?",
+      "fr": "Nos collections vous intéressent ?",
+      "nl": "Interesse in onze collecties?",
+      "ko": "컬렉션에 관심이 있으십니까?",
+      "ar": "هل تهمّكم مجموعاتنا؟",
+      "tr": "Koleksiyonlarımızla ilgileniyor musunuz?"
+    },
+    "Interior and exterior walls.": {
+      "de": "Innen- und Außenwände.",
+      "fr": "Murs intérieurs et extérieurs.",
+      "nl": "Binnen- en buitenwanden.",
+      "ko": "실내외 벽.",
+      "ar": "الجدران الداخلية والخارجية.",
+      "tr": "İç ve dış duvarlar."
+    },
+    "Interior floors in residential, hospitality and commercial spaces.": {
+      "de": "Innenböden in Wohnbau, Hotellerie und Gewerbe.",
+      "fr": "Sols intérieurs dans le résidentiel, l'hôtellerie et le commercial.",
+      "nl": "Binnenvloeren in wonen, hospitality en commerciële ruimtes.",
+      "ko": "주거, 호스피탈리티, 상업 공간의 실내 바닥.",
+      "ar": "الأرضيات الداخلية في المشاريع السكنية والضيافة والمساحات التجارية.",
+      "tr": "Konut, konaklama ve ticari alanlarda iç zeminler."
+    },
+    "Interior floors where linear or patterned layouts are planned.": {
+      "de": "Innenböden mit linearen oder gemusterten Verlegungen.",
+      "fr": "Sols intérieurs en pose linéaire ou en motifs.",
+      "nl": "Binnenvloeren met lineaire of patroonlegging.",
+      "ko": "일자 또는 패턴 시공을 계획한 실내 바닥.",
+      "ar": "الأرضيات الداخلية ذات التركيب الخطي أو الزخرفي.",
+      "tr": "Düz veya desenli döşeme planlanan iç zeminler."
+    },
+    "Landscape Architecture": {
+      "de": "Landschaftsarchitektur",
+      "fr": "Architecture paysagère",
+      "nl": "Landschapsarchitectuur",
+      "ko": "조경 건축",
+      "ar": "عمارة المناظر الطبيعية",
+      "tr": "Peyzaj Mimarisi"
+    },
+    "Let's Talk About Your Project": {
+      "de": "Sprechen wir über Ihr Projekt",
+      "fr": "Parlons de votre projet",
+      "nl": "Laten we uw project bespreken",
+      "ko": "프로젝트에 대해 상의해 보십시오",
+      "ar": "لنتحدث عن مشروعكم",
+      "tr": "Projenizi Konuşalım"
+    },
+    "Maintenance": {
+      "de": "Pflege",
+      "fr": "Entretien",
+      "nl": "Onderhoud",
+      "ko": "유지 관리",
+      "ar": "الصيانة",
+      "tr": "Bakım"
+    },
+    "Maintenance recommendations": {
+      "de": "Pflegeempfehlungen",
+      "fr": "Recommandations d'entretien",
+      "nl": "Onderhoudsadvies",
+      "ko": "유지 관리 권장 사항",
+      "ar": "توصيات الصيانة",
+      "tr": "Bakım önerileri"
+    },
+    "Mediterranean Living": {
+      "de": "Mediterranes Wohnen",
+      "fr": "Art de vivre méditerranéen",
+      "nl": "Mediterraan wonen",
+      "ko": "지중해 라이프스타일",
+      "ar": "الحياة المتوسطية",
+      "tr": "Akdeniz Yaşamı"
+    },
+    "Name": {
+      "de": "Name",
+      "fr": "Nom",
+      "nl": "Naam",
+      "ko": "이름",
+      "ar": "الاسم",
+      "tr": "Ad"
+    },
+    "Need product information?": {
+      "de": "Sie benötigen Produktinformationen?",
+      "fr": "Besoin d'informations produits ?",
+      "nl": "Productinformatie nodig?",
+      "ko": "제품 정보가 필요하십니까?",
+      "ar": "هل تحتاجون إلى معلومات عن المنتج؟",
+      "tr": "Ürün bilgisine mi ihtiyacınız var?"
+    },
+    "Not every colour is available in every product type. Colour availability for each product will be confirmed with verified product data. Contact our team to discuss colours for your project.": {
+      "de": "Nicht jede Farbe ist für jeden Produkttyp verfügbar. Die Farbverfügbarkeit je Produkt wird mit geprüften Produktdaten bestätigt. Sprechen Sie mit unserem Team über Farben für Ihr Projekt.",
+      "fr": "Toutes les couleurs ne sont pas disponibles pour chaque type de produit. La disponibilité sera confirmée par des données vérifiées. Contactez notre équipe pour choisir les couleurs de votre projet.",
+      "nl": "Niet elke kleur is beschikbaar in elk producttype. De beschikbaarheid per product wordt bevestigd met geverifieerde productgegevens. Neem contact op met ons team om kleuren voor uw project te bespreken.",
+      "ko": "모든 컬러가 모든 제품 유형에 제공되는 것은 아닙니다. 제품별 컬러 제공 여부는 검증된 제품 데이터로 확정됩니다. 프로젝트에 맞는 컬러는 저희 팀과 상의해 주십시오.",
+      "ar": "لا يتوفر كل لون في كل نوع من المنتجات. سيتم تأكيد توفّر الألوان لكل منتج ببيانات منتج موثّقة. تواصلوا مع فريقنا لمناقشة ألوان مشروعكم.",
+      "tr": "Her renk her ürün tipinde mevcut değildir. Her ürün için renk durumu doğrulanmış ürün verileriyle teyit edilecektir. Projenizin renklerini görüşmek için ekibimizle iletişime geçin."
+    },
+    "Other": {
+      "de": "Sonstiges",
+      "fr": "Autre",
+      "nl": "Overig",
+      "ko": "기타",
+      "ar": "أخرى",
+      "tr": "Diğer"
+    },
+    "Our Philosophy": {
+      "de": "Unsere Philosophie",
+      "fr": "Notre philosophie",
+      "nl": "Onze filosofie",
+      "ko": "우리의 철학",
+      "ar": "فلسفتنا",
+      "tr": "Felsefemiz"
+    },
+    "Our Vision": {
+      "de": "Unsere Vision",
+      "fr": "Notre vision",
+      "nl": "Onze visie",
+      "ko": "우리의 비전",
+      "ar": "رؤيتنا",
+      "tr": "Vizyonumuz"
+    },
+    "Our design language draws inspiration from earthy colours, organic textures and Mediterranean architecture.": {
+      "de": "Unsere Designsprache ist inspiriert von Erdfarben, organischen Strukturen und mediterraner Architektur.",
+      "fr": "Notre langage de design s'inspire des couleurs de la terre, des textures organiques et de l'architecture méditerranéenne.",
+      "nl": "Onze ontwerptaal is geïnspireerd op aardse kleuren, organische texturen en mediterrane architectuur.",
+      "ko": "TERRACOTTA의 디자인 언어는 흙빛 컬러, 유기적인 질감, 지중해 건축에서 영감을 받습니다.",
+      "ar": "تستلهم لغتنا التصميمية الألوان الترابية والملمس العضوي والعمارة المتوسطية.",
+      "tr": "Tasarım dilimiz toprak renklerinden, organik dokulardan ve Akdeniz mimarisinden ilham alır."
+    },
+    "Outdoor floors, paths and terraces.": {
+      "de": "Außenböden, Wege und Terrassen.",
+      "fr": "Sols extérieurs, allées et terrasses.",
+      "nl": "Buitenvloeren, paden en terrassen.",
+      "ko": "외부 바닥, 산책로 및 테라스.",
+      "ar": "الأرضيات الخارجية والممرات والتراسات.",
+      "tr": "Dış mekân zeminleri, yürüyüş yolları ve teraslar."
+    },
+    "Planning a project?": {
+      "de": "Sie planen ein Projekt?",
+      "fr": "Vous préparez un projet ?",
+      "nl": "Plant u een project?",
+      "ko": "프로젝트를 계획 중이십니까?",
+      "ar": "هل تخططون لمشروع؟",
+      "tr": "Bir proje mi planlıyorsunuz?"
+    },
+    "Pool edges and coping details.": {
+      "de": "Beckenränder und Randabschlüsse.",
+      "fr": "Bords et margelles de piscine.",
+      "nl": "Zwembadranden en randafwerkingen.",
+      "ko": "수영장 가장자리 및 코핑 디테일.",
+      "ar": "حواف المسابح وتفاصيل الإنهاء.",
+      "tr": "Havuz kenarları ve kenar taşı detayları."
+    },
+    "Preferred Colour": {
+      "de": "Gewünschte Farbe",
+      "fr": "Couleur souhaitée",
+      "nl": "Gewenste kleur",
+      "ko": "희망 컬러",
+      "ar": "اللون المفضّل",
+      "tr": "Tercih Edilen Renk"
+    },
+    "Preferred Dimensions": {
+      "de": "Gewünschte Formate",
+      "fr": "Formats souhaités",
+      "nl": "Gewenste formaten",
+      "ko": "희망 규격",
+      "ar": "المقاسات المفضّلة",
+      "tr": "Tercih Edilen Ebatlar"
+    },
+    "Privacy Policy": {
+      "de": "Datenschutzerklärung",
+      "fr": "Politique de confidentialité",
+      "nl": "Privacybeleid",
+      "ko": "개인정보 처리방침",
+      "ar": "سياسة الخصوصية",
+      "tr": "Gizlilik Politikası"
+    },
+    "Product Category": {
+      "de": "Produktkategorie",
+      "fr": "Catégorie de produit",
+      "nl": "Productcategorie",
+      "ko": "제품 카테고리",
+      "ar": "فئة المنتج",
+      "tr": "Ürün Kategorisi"
+    },
+    "Product Guides": {
+      "de": "Produktratgeber",
+      "fr": "Guides produits",
+      "nl": "Productgidsen",
+      "ko": "제품 가이드",
+      "ar": "أدلة المنتجات",
+      "tr": "Ürün Rehberleri"
+    },
+    "Product Information": {
+      "de": "Produktinformationen",
+      "fr": "Informations produits",
+      "nl": "Productinformatie",
+      "ko": "제품 정보",
+      "ar": "معلومات المنتجات",
+      "tr": "Ürün Bilgisi"
+    },
+    "Product Specifications": {
+      "de": "Produktspezifikationen",
+      "fr": "Caractéristiques du produit",
+      "nl": "Productspecificaties",
+      "ko": "제품 사양",
+      "ar": "مواصفات المنتج",
+      "tr": "Ürün Özellikleri"
+    },
+    "Product Type": {
+      "de": "Produkttyp",
+      "fr": "Type de produit",
+      "nl": "Producttype",
+      "ko": "제품 유형",
+      "ar": "نوع المنتج",
+      "tr": "Ürün Tipi"
+    },
+    "Product category:": {
+      "de": "Produktkategorie:",
+      "fr": "Catégorie de produit :",
+      "nl": "Productcategorie:",
+      "ko": "제품 카테고리:",
+      "ar": "فئة المنتج:",
+      "tr": "Ürün kategorisi:"
+    },
+    "Product reference": {
+      "de": "Produktreferenz",
+      "fr": "Référence produit",
+      "nl": "Productreferentie",
+      "ko": "제품 참조 번호",
+      "ar": "مرجع المنتج",
+      "tr": "Ürün referansı"
+    },
+    "Product specifications will be published after production validation.": {
+      "de": "Die Produktspezifikationen werden nach der Produktionsfreigabe veröffentlicht.",
+      "fr": "Les caractéristiques seront publiées après validation de la production.",
+      "nl": "De productspecificaties worden gepubliceerd na validatie van de productie.",
+      "ko": "제품 사양은 생산 검증 후 공개됩니다.",
+      "ar": "ستُنشر مواصفات المنتج بعد اعتماد الإنتاج.",
+      "tr": "Ürün özellikleri üretim doğrulamasından sonra yayımlanacaktır."
+    },
+    "Product-Level Information": {
+      "de": "Informationen auf Produktebene",
+      "fr": "Informations par produit",
+      "nl": "Informatie per product",
+      "ko": "제품별 정보",
+      "ar": "معلومات على مستوى المنتج",
+      "tr": "Ürün Bazında Bilgiler"
+    },
+    "Product-specific recommendations": {
+      "de": "Produktspezifische Empfehlungen",
+      "fr": "Recommandations spécifiques aux produits",
+      "nl": "Productspecifieke aanbevelingen",
+      "ko": "제품별 권장 사항",
+      "ar": "توصيات خاصة بكل منتج",
+      "tr": "Ürüne özel öneriler"
+    },
+    "Project Description": {
+      "de": "Projektbeschreibung",
+      "fr": "Description du projet",
+      "nl": "Projectomschrijving",
+      "ko": "프로젝트 설명",
+      "ar": "وصف المشروع",
+      "tr": "Proje Açıklaması"
+    },
+    "Project Portfolio": {
+      "de": "Projektportfolio",
+      "fr": "Portfolio de projets",
+      "nl": "Projectportfolio",
+      "ko": "프로젝트 포트폴리오",
+      "ar": "محفظة المشاريع",
+      "tr": "Proje Portföyü"
+    },
+    "Project Timeline": {
+      "de": "Zeitplan des Projekts",
+      "fr": "Calendrier du projet",
+      "nl": "Projectplanning",
+      "ko": "프로젝트 일정",
+      "ar": "الجدول الزمني للمشروع",
+      "tr": "Proje Takvimi"
+    },
+    "Project Type": {
+      "de": "Projektart",
+      "fr": "Type de projet",
+      "nl": "Soort project",
+      "ko": "프로젝트 유형",
+      "ar": "نوع المشروع",
+      "tr": "Proje Tipi"
+    },
+    "Project case studies will be published here once they are documented and authorised for publication.": {
+      "de": "Projektberichte werden hier veröffentlicht, sobald sie dokumentiert und zur Veröffentlichung freigegeben sind.",
+      "fr": "Les études de cas seront publiées ici dès qu'elles seront documentées et autorisées.",
+      "nl": "Projectcases worden hier gepubliceerd zodra ze zijn gedocumenteerd en vrijgegeven voor publicatie.",
+      "ko": "프로젝트 사례는 정리 및 공개 승인이 완료되는 대로 이곳에 게시됩니다.",
+      "ar": "ستُنشر دراسات الحالة هنا بعد توثيقها والموافقة على نشرها.",
+      "tr": "Proje çalışmaları belgelenip yayımlanmaları onaylandığında burada paylaşılacaktır."
+    },
+    "Projects that require specific forms, dimensions or decorative details.": {
+      "de": "Projekte mit besonderen Formen, Abmessungen oder dekorativen Details.",
+      "fr": "Projets nécessitant des formes, dimensions ou détails décoratifs spécifiques.",
+      "nl": "Projecten met specifieke vormen, afmetingen of decoratieve details.",
+      "ko": "특정한 형태, 치수 또는 장식 디테일이 필요한 프로젝트.",
+      "ar": "المشاريع التي تتطلب أشكالًا أو أبعادًا أو تفاصيل زخرفية محددة.",
+      "tr": "Özel form, ölçü veya dekoratif detay gerektiren projeler."
+    },
+    "Questions about installation?": {
+      "de": "Fragen zur Verlegung?",
+      "fr": "Des questions sur la pose ?",
+      "nl": "Vragen over plaatsing?",
+      "ko": "시공에 관해 궁금하신 점이 있으십니까?",
+      "ar": "هل لديكم أسئلة حول التركيب؟",
+      "tr": "Uygulama hakkında sorunuz mu var?"
+    },
+    "Related Information": {
+      "de": "Weitere Informationen",
+      "fr": "Informations associées",
+      "nl": "Gerelateerde informatie",
+      "ko": "관련 정보",
+      "ar": "معلومات ذات صلة",
+      "tr": "İlgili Bilgiler"
+    },
+    "Related Products": {
+      "de": "Verwandte Produkte",
+      "fr": "Produits associés",
+      "nl": "Gerelateerde producten",
+      "ko": "관련 제품",
+      "ar": "منتجات ذات صلة",
+      "tr": "İlgili Ürünler"
+    },
+    "Request Product Information": {
+      "de": "Produktinformationen anfordern",
+      "fr": "Demander des informations produits",
+      "nl": "Productinformatie aanvragen",
+      "ko": "제품 정보 요청",
+      "ar": "اطلب معلومات المنتج",
+      "tr": "Ürün Bilgisi İsteyin"
+    },
+    "Request a Terracotta Tile Quote | TERRACOTTA": {
+      "de": "Angebot für Terrakotta Fliesen anfordern | TERRACOTTA",
+      "fr": "Devis carrelage terre cuite | TERRACOTTA",
+      "nl": "Offerte voor terracotta tegels aanvragen | TERRACOTTA",
+      "ko": "테라코타 타일 견적 요청 | TERRACOTTA",
+      "ar": "اطلب عرض سعر لبلاط التيراكوتا | TERRACOTTA",
+      "tr": "Terracotta Karo Teklifi İsteyin | TERRACOTTA"
+    },
+    "Request product information and a tailored quotation for your terracotta tile or architectural project.": {
+      "de": "Fordern Sie Produktinformationen und ein individuelles Angebot für Ihr Projekt mit Terrakotta Fliesen an.",
+      "fr": "Demandez des informations produits et un devis personnalisé pour votre projet de carrelage terre cuite.",
+      "nl": "Vraag productinformatie en een offerte op maat aan voor uw project met terracotta tegels.",
+      "ko": "테라코타 타일 또는 건축 프로젝트에 대한 제품 정보와 맞춤 견적을 요청해 주십시오.",
+      "ar": "اطلبوا معلومات المنتجات وعرض سعر مخصّصًا لمشروعكم من بلاط التيراكوتا أو مشروعكم المعماري.",
+      "tr": "Terracotta karo veya mimari projeniz için ürün bilgisi ve size özel bir teklif isteyin."
+    },
+    "Sealing, where applicable": {
+      "de": "Imprägnierung, sofern erforderlich",
+      "fr": "Imprégnation, le cas échéant",
+      "nl": "Impregneren, indien van toepassing",
+      "ko": "실링(해당하는 경우)",
+      "ar": "العزل، عند الحاجة",
+      "tr": "Empregnasyon, gerekiyorsa"
+    },
+    "Send Enquiry": {
+      "de": "Anfrage senden",
+      "fr": "Envoyer la demande",
+      "nl": "Aanvraag versturen",
+      "ko": "문의 보내기",
+      "ar": "إرسال الاستفسار",
+      "tr": "Talebi Gönder"
+    },
+    "Slip resistance, where tested": {
+      "de": "Rutschhemmung, sofern geprüft",
+      "fr": "Résistance à la glissance, si testée",
+      "nl": "Slipweerstand, indien getest",
+      "ko": "미끄럼 저항(시험한 경우)",
+      "ar": "مقاومة الانزلاق، عند اختبارها",
+      "tr": "Kaymazlık, test edilmişse"
+    },
+    "Stairs and steps.": {
+      "de": "Treppen und Stufen.",
+      "fr": "Escaliers et marches.",
+      "nl": "Trappen en treden.",
+      "ko": "계단 및 디딤판.",
+      "ar": "السلالم والدرجات.",
+      "tr": "Merdivenler ve basamaklar."
+    },
+    "Submit Enquiry": {
+      "de": "Anfrage absenden",
+      "fr": "Envoyer la demande",
+      "nl": "Aanvraag versturen",
+      "ko": "문의 보내기",
+      "ar": "إرسال الطلب",
+      "tr": "Talebi Gönder"
+    },
+    "Substrate suitability": {
+      "de": "Eignung des Untergrunds",
+      "fr": "Adéquation du support",
+      "nl": "Geschiktheid van de ondergrond",
+      "ko": "바탕면 적합성",
+      "ar": "ملاءمة السطح الأساسي",
+      "tr": "Alt zemin uygunluğu"
+    },
+    "Suggested Applications": {
+      "de": "Empfohlene Anwendungen",
+      "fr": "Usages suggérés",
+      "nl": "Aanbevolen toepassingen",
+      "ko": "권장 용도",
+      "ar": "الاستخدامات المقترحة",
+      "tr": "Önerilen Kullanım Alanları"
+    },
+    "Surface finish": {
+      "de": "Oberflächenfinish",
+      "fr": "Finition de surface",
+      "nl": "Oppervlakteafwerking",
+      "ko": "표면 마감",
+      "ar": "تشطيب السطح",
+      "tr": "Yüzey bitişi"
+    },
+    "Surface preparation": {
+      "de": "Untergrundvorbereitung",
+      "fr": "Préparation du support",
+      "nl": "Voorbereiding van de ondergrond",
+      "ko": "바탕면 준비",
+      "ar": "تجهيز السطح",
+      "tr": "Yüzey hazırlığı"
+    },
+    "TERRACOTTA is inspired by the relationship between earth, material and architecture.": {
+      "de": "TERRACOTTA ist inspiriert von der Beziehung zwischen Erde, Material und Architektur.",
+      "fr": "TERRACOTTA s'inspire de la relation entre la terre, la matière et l'architecture.",
+      "nl": "TERRACOTTA is geïnspireerd op de relatie tussen aarde, materiaal en architectuur.",
+      "ko": "TERRACOTTA는 대지, 소재, 건축의 관계에서 영감을 받습니다.",
+      "ar": "تستلهم TERRACOTTA العلاقة بين الأرض والمادة والعمارة.",
+      "tr": "TERRACOTTA, toprak, malzeme ve mimari arasındaki ilişkiden ilham alır."
+    },
+    "Technical Documentation": {
+      "de": "Technische Dokumentation",
+      "fr": "Documentation technique",
+      "nl": "Technische documentatie",
+      "ko": "기술 문서",
+      "ar": "الوثائق الفنية",
+      "tr": "Teknik Dokümantasyon"
+    },
+    "Technical information for TERRACOTTA terracotta tiles: dimensions, thickness, surface finish, application suitability and maintenance.": {
+      "de": "Technische Informationen zu Terrakotta Fliesen von TERRACOTTA: Abmessungen, Stärke, Oberfläche, Anwendungseignung und Pflege.",
+      "fr": "Informations techniques du carrelage terre cuite TERRACOTTA : dimensions, épaisseur, finition, usages et entretien.",
+      "nl": "Technische informatie over terracotta tegels van TERRACOTTA: afmetingen, dikte, afwerking, toepassingen en onderhoud.",
+      "ko": "TERRACOTTA 테라코타 타일 기술 정보: 치수, 두께, 표면 마감, 용도별 적합성 및 유지 관리.",
+      "ar": "المعلومات الفنية لبلاط التيراكوتا من TERRACOTTA: الأبعاد، والسماكة، وتشطيب السطح، وملاءمة الاستخدام، والصيانة.",
+      "tr": "TERRACOTTA terracotta karolar için teknik bilgiler: ölçüler, kalınlık, yüzey bitişi, kullanım uygunluğu ve bakım."
+    },
+    "Technical information for each product will be published once verified. Visit the Technical Information page or contact our team for product enquiries.": {
+      "de": "Technische Informationen werden für jedes Produkt nach Prüfung veröffentlicht. Besuchen Sie die Seite Technische Informationen oder kontaktieren Sie unser Team.",
+      "fr": "Les informations techniques de chaque produit seront publiées après vérification. Consultez la page Informations techniques ou contactez notre équipe.",
+      "nl": "Technische informatie per product wordt gepubliceerd zodra deze is geverifieerd. Bekijk de pagina Technische informatie of neem contact op met ons team.",
+      "ko": "제품별 기술 정보는 검증 후 공개됩니다. 기술 정보 페이지를 확인하시거나 저희 팀에 문의해 주십시오.",
+      "ar": "ستُنشر المعلومات الفنية لكل منتج بعد التحقق منها. تفضّلوا بزيارة صفحة المعلومات الفنية أو تواصلوا مع فريقنا.",
+      "tr": "Her ürünün teknik bilgileri doğrulandıktan sonra yayımlanacaktır. Teknik Bilgiler sayfasını ziyaret edin veya ekibimizle iletişime geçin."
+    },
+    "Telephone": {
+      "de": "Telefon",
+      "fr": "Téléphone",
+      "nl": "Telefoon",
+      "ko": "전화번호",
+      "ar": "الهاتف",
+      "tr": "Telefon"
+    },
+    "Tell us about your project and the terracotta products you are interested in. Our team can review your requirements and help identify suitable collection options.": {
+      "de": "Erzählen Sie uns von Ihrem Projekt und den Terrakotta-Produkten, die Sie interessieren. Unser Team prüft Ihre Anforderungen und hilft, passende Kollektionen zu finden.",
+      "fr": "Parlez-nous de votre projet et des produits en terre cuite qui vous intéressent. Notre équipe étudiera vos besoins et vous aidera à choisir les collections adaptées.",
+      "nl": "Vertel ons over uw project en de terracotta producten die u interesseren. Ons team bekijkt uw wensen en helpt u de juiste collecties te kiezen.",
+      "ko": "프로젝트와 관심 있는 테라코타 제품에 대해 알려 주십시오. 저희 팀이 요구 사항을 검토하고 적합한 컬렉션을 제안해 드립니다.",
+      "ar": "أخبرونا عن مشروعكم ومنتجات التيراكوتا التي تهمّكم، وسيراجع فريقنا متطلباتكم ويساعدكم في اختيار المجموعات المناسبة.",
+      "tr": "Projenizi ve ilgilendiğiniz terracotta ürünlerini bize anlatın. Ekibimiz ihtiyaçlarınızı inceleyip uygun koleksiyonları belirlemenize yardımcı olur."
+    },
+    "Terracotta & Materials": {
+      "de": "Terrakotta & Materialien",
+      "fr": "Terre cuite & Matériaux",
+      "nl": "Terracotta & materialen",
+      "ko": "테라코타 & 소재",
+      "ar": "التيراكوتا والمواد",
+      "tr": "Terracotta & Malzemeler"
+    },
+    "Terracotta Architectural Projects | TERRACOTTA": {
+      "de": "Architekturprojekte mit Terrakotta | TERRACOTTA",
+      "fr": "Projets architecturaux en terre cuite | TERRACOTTA",
+      "nl": "Architectuurprojecten met terracotta | TERRACOTTA",
+      "ko": "테라코타 건축 프로젝트 | TERRACOTTA",
+      "ar": "مشاريع معمارية بالتيراكوتا | TERRACOTTA",
+      "tr": "Terracotta Mimari Projeler | TERRACOTTA"
+    },
+    "Terracotta Magazine | Architecture, Materials & Design": {
+      "de": "Terrakotta Magazin | Architektur, Materialien & Design",
+      "fr": "Magazine terre cuite | Architecture, matériaux & design",
+      "nl": "Terracotta Magazine | Architectuur, materialen & design",
+      "ko": "테라코타 매거진 | 건축, 소재 & 디자인",
+      "ar": "مجلة التيراكوتا | العمارة والمواد والتصميم",
+      "tr": "Terracotta Dergi | Mimari, Malzeme & Tasarım"
+    },
+    "Terracotta Product Catalogue | TERRACOTTA Collections": {
+      "de": "Terrakotta Fliesen Katalog | TERRACOTTA Kollektionen",
+      "fr": "Catalogue carrelage terre cuite | Collections TERRACOTTA",
+      "nl": "Terracotta tegels catalogus | TERRACOTTA collecties",
+      "ko": "테라코타 타일 카탈로그 | TERRACOTTA 컬렉션",
+      "ar": "كتالوج بلاط التيراكوتا | مجموعات TERRACOTTA",
+      "tr": "Terracotta Karo Kataloğu | TERRACOTTA Koleksiyonları"
+    },
+    "Terracotta Tile Colours | Natural Earth Colour Collection": {
+      "de": "Farben für Terrakotta Fliesen | Natürliche Erdfarben",
+      "fr": "Couleurs de carrelage terre cuite | Couleurs naturelles de la terre",
+      "nl": "Kleuren voor terracotta tegels | Natuurlijke aardekleuren",
+      "ko": "테라코타 타일 컬러 | 자연의 흙빛 컬러 컬렉션",
+      "ar": "ألوان بلاط التيراكوتا | مجموعة ألوان الأرض الطبيعية",
+      "tr": "Terracotta Karo Renkleri | Doğal Toprak Renk Koleksiyonu"
+    },
+    "Terracotta and Mediterranean Architecture": {
+      "de": "Terrakotta und mediterrane Architektur",
+      "fr": "Terre cuite et architecture méditerranéenne",
+      "nl": "Terracotta en mediterrane architectuur",
+      "ko": "테라코타와 지중해 건축",
+      "ar": "التيراكوتا والعمارة المتوسطية",
+      "tr": "Terracotta ve Akdeniz Mimarisi"
+    },
+    "Terracotta has a long architectural history. Its natural character continues to inspire contemporary spaces and distinctive design concepts.": {
+      "de": "Terrakotta hat eine lange Tradition in der Architektur. Ihr natürlicher Charakter inspiriert bis heute zeitgenössische Räume und unverwechselbare Designkonzepte.",
+      "fr": "La terre cuite a une longue histoire architecturale. Son caractère naturel continue d'inspirer des espaces contemporains et des concepts de design singuliers.",
+      "nl": "Terracotta heeft een lange architectuurgeschiedenis. Het natuurlijke karakter blijft hedendaagse ruimtes en onderscheidende ontwerpconcepten inspireren.",
+      "ko": "테라코타는 오랜 건축의 역사를 지니고 있습니다. 그 자연스러운 개성은 오늘날에도 현대적인 공간과 개성 있는 디자인 콘셉트에 영감을 줍니다.",
+      "ar": "للتيراكوتا تاريخ معماري طويل، ولا يزال طابعها الطبيعي يُلهم المساحات المعاصرة ومفاهيم التصميم المميّزة.",
+      "tr": "Terracottanın mimaride uzun bir geçmişi vardır. Doğal karakteri bugün de çağdaş mekânlara ve özgün tasarım konseptlerine ilham vermeye devam ediyor."
+    },
+    "Terracotta in Hospitality and Boutique Hotel Design": {
+      "de": "Terrakotta in Hotellerie und Boutique-Hotel-Design",
+      "fr": "La terre cuite dans l'hôtellerie et les hôtels boutique",
+      "nl": "Terracotta in hospitality en boetiekhotels",
+      "ko": "호스피탈리티와 부티크 호텔 디자인 속 테라코타",
+      "ar": "التيراكوتا في الضيافة وتصميم الفنادق البوتيكية",
+      "tr": "Konaklama ve Butik Otel Tasarımında Terracotta"
+    },
+    "Terracotta, meaning baked earth, is a material shaped by the relationship between clay, form and firing. Its natural tones and surface variations have made it a distinctive material in architecture for generations.": {
+      "de": "Terrakotta – gebrannte Erde – ist ein Material, das aus dem Zusammenspiel von Ton, Form und Brand entsteht. Seine natürlichen Farbtöne und Oberflächenvariationen prägen die Architektur seit Generationen.",
+      "fr": "La terre cuite est un matériau façonné par la relation entre l'argile, la forme et la cuisson. Ses tons naturels et ses variations de surface en font depuis des générations un matériau singulier de l'architecture.",
+      "nl": "Terracotta, gebakken aarde, is een materiaal dat ontstaat uit de relatie tussen klei, vorm en bakken. De natuurlijke tinten en oppervlaktevariaties maken het al generaties lang tot een onderscheidend materiaal in de architectuur.",
+      "ko": "'구운 흙'이라는 뜻의 테라코타는 점토, 형태, 소성의 관계로 만들어지는 소재입니다. 자연스러운 색조와 표면의 변화 덕분에 여러 세대에 걸쳐 건축에서 독특한 소재로 자리해 왔습니다.",
+      "ar": "التيراكوتا، أي \"الأرض المحروقة\"، مادة تتشكّل من العلاقة بين الطين والشكل والحرق. وقد جعلت ألوانها الطبيعية وتنوّع أسطحها منها مادة مميّزة في العمارة عبر الأجيال.",
+      "tr": "Pişmiş toprak anlamına gelen terracotta, kil, form ve pişirme arasındaki ilişkiyle şekillenen bir malzemedir. Doğal tonları ve yüzey farklılıkları onu kuşaklar boyunca mimarinin özgün malzemelerinden biri yapmıştır."
+    },
+    "Terracotta, meaning baked earth, is shaped by clay, form and firing. Explore the material character, colours, textures and finishes of terracotta.": {
+      "de": "Terrakotta, gebrannte Erde, entsteht aus Ton, Form und Brand. Entdecken Sie Charakter, Farben, Strukturen und Oberflächen von Terrakotta.",
+      "fr": "La terre cuite naît de l'argile, de la forme et de la cuisson. Découvrez son caractère, ses couleurs, ses textures et ses finitions.",
+      "nl": "Terracotta, gebakken aarde, ontstaat uit klei, vorm en bakken. Ontdek het karakter, de kleuren, texturen en afwerkingen van terracotta.",
+      "ko": "'구운 흙'이라는 뜻의 테라코타는 점토, 형태, 소성으로 만들어집니다. 테라코타의 소재 특성, 컬러, 질감, 마감을 살펴보십시오.",
+      "ar": "التيراكوتا، أي \"الأرض المحروقة\"، تتشكّل من الطين والشكل والحرق. استكشفوا طابعها وألوانها وملمسها وتشطيباتها.",
+      "tr": "Pişmiş toprak anlamına gelen terracotta; kil, form ve pişirmeyle şekillenir. Terracottanın karakterini, renklerini, dokularını ve bitişlerini keşfedin."
+    },
+    "Thank you. Your enquiry has been sent and our team will be in touch.": {
+      "de": "Vielen Dank. Ihre Anfrage wurde gesendet, unser Team meldet sich bei Ihnen.",
+      "fr": "Merci. Votre demande a bien été envoyée, notre équipe vous recontactera.",
+      "nl": "Dank u. Uw aanvraag is verzonden; ons team neemt contact met u op.",
+      "ko": "감사합니다. 문의가 접수되었으며 담당자가 곧 연락드리겠습니다.",
+      "ar": "شكرًا لكم. تم إرسال استفساركم وسيتواصل معكم فريقنا قريبًا.",
+      "tr": "Teşekkür ederiz. Talebiniz iletildi; ekibimiz sizinle iletişime geçecek."
+    },
+    "Thank you. Your quote request has been sent and our team will review your requirements.": {
+      "de": "Vielen Dank. Ihre Angebotsanfrage wurde gesendet, unser Team prüft Ihre Anforderungen.",
+      "fr": "Merci. Votre demande de devis a bien été envoyée, notre équipe étudiera vos besoins.",
+      "nl": "Dank u. Uw offerteaanvraag is verzonden; ons team bekijkt uw wensen.",
+      "ko": "감사합니다. 견적 요청이 접수되었으며 담당자가 요구 사항을 검토하겠습니다.",
+      "ar": "شكرًا لكم. تم إرسال طلب عرض السعر وسيراجع فريقنا متطلباتكم.",
+      "tr": "Teşekkür ederiz. Teklif talebiniz iletildi; ekibimiz ihtiyaçlarınızı inceleyecek."
+    },
+    "The Colours of Earth": {
+      "de": "Die Farben der Erde",
+      "fr": "Les couleurs de la terre",
+      "nl": "De kleuren van de aarde",
+      "ko": "대지의 컬러",
+      "ar": "ألوان الأرض",
+      "tr": "Toprağın Renkleri"
+    },
+    "The Material of Earth": {
+      "de": "Das Material der Erde",
+      "fr": "La matière de la terre",
+      "nl": "Het materiaal van de aarde",
+      "ko": "대지의 소재",
+      "ar": "مادة الأرض",
+      "tr": "Toprağın Malzemesi"
+    },
+    "The TERRACOTTA Magazine": {
+      "de": "Das TERRACOTTA Magazin",
+      "fr": "Le magazine TERRACOTTA",
+      "nl": "Het TERRACOTTA Magazine",
+      "ko": "TERRACOTTA 매거진",
+      "ar": "مجلة TERRACOTTA",
+      "tr": "TERRACOTTA Dergi"
+    },
+    "The TERRACOTTA Product Catalogue": {
+      "de": "Der TERRACOTTA Produktkatalog",
+      "fr": "Le catalogue produits TERRACOTTA",
+      "nl": "De TERRACOTTA productcatalogus",
+      "ko": "TERRACOTTA 제품 카탈로그",
+      "ar": "كتالوج منتجات TERRACOTTA",
+      "tr": "TERRACOTTA Ürün Kataloğu"
+    },
+    "This page will be published here before the website goes live.": {
+      "de": "Diese Seite wird vor dem Start der Website hier veröffentlicht.",
+      "fr": "Cette page sera publiée ici avant la mise en ligne du site.",
+      "nl": "Deze pagina wordt hier gepubliceerd voordat de website live gaat.",
+      "ko": "이 페이지는 웹사이트 공개 전에 이곳에 게시됩니다.",
+      "ar": "ستُنشر هذه الصفحة هنا قبل إطلاق الموقع.",
+      "tr": "Bu sayfa, web sitesi yayına girmeden önce burada yayımlanacaktır."
+    },
+    "The floor area surrounding swimming pools.": {
+      "de": "Die Bodenfläche rund um Schwimmbecken.",
+      "fr": "La surface au sol autour des piscines.",
+      "nl": "Het vloeroppervlak rond zwembaden.",
+      "ko": "수영장 주변의 바닥 면.",
+      "ar": "مساحة الأرضية المحيطة بالمسابح.",
+      "tr": "Havuzları çevreleyen zemin alanı."
+    },
+    "Thickness": {
+      "de": "Stärke",
+      "fr": "Épaisseur",
+      "nl": "Dikte",
+      "ko": "두께",
+      "ar": "السماكة",
+      "tr": "Kalınlık"
+    },
+    "To be confirmed with verified product data.": {
+      "de": "Wird mit geprüften Produktdaten bestätigt.",
+      "fr": "À confirmer par des données produit vérifiées.",
+      "nl": "Wordt bevestigd met geverifieerde productgegevens.",
+      "ko": "검증된 제품 데이터로 확정 예정입니다.",
+      "ar": "سيتم التأكيد ببيانات منتج موثّقة.",
+      "tr": "Doğrulanmış ürün verileriyle teyit edilecektir."
+    },
+    "To be confirmed with verified product data. Explore the full palette of twelve earthy shades in the Colour Collection.": {
+      "de": "Wird mit geprüften Produktdaten bestätigt. Entdecken Sie die gesamte Palette aus zwölf Erdtönen in der Farbkollektion.",
+      "fr": "À confirmer par des données produit vérifiées. Découvrez la palette complète de douze teintes terreuses dans la collection de couleurs.",
+      "nl": "Wordt bevestigd met geverifieerde productgegevens. Ontdek het volledige palet van twaalf aardse tinten in de kleurencollectie.",
+      "ko": "검증된 제품 데이터로 확정 예정입니다. 컬러 컬렉션에서 열두 가지 흙빛 컬러 전체를 확인해 보십시오.",
+      "ar": "سيتم التأكيد ببيانات منتج موثّقة. اكتشفوا اللوحة الكاملة من اثني عشر لونًا ترابيًا في مجموعة الألوان.",
+      "tr": "Doğrulanmış ürün verileriyle teyit edilecektir. On iki toprak tonunun tamamını Renk Koleksiyonu'nda keşfedin."
+    },
+    "To celebrate the expressive potential of natural clay through collections that connect material, design and architecture.": {
+      "de": "Das Ausdruckspotenzial von natürlichem Ton mit Kollektionen zu feiern, die Material, Design und Architektur verbinden.",
+      "fr": "Célébrer le potentiel expressif de l'argile naturelle à travers des collections qui relient matière, design et architecture.",
+      "nl": "Het expressieve potentieel van natuurlijke klei vieren met collecties die materiaal, design en architectuur verbinden.",
+      "ko": "소재, 디자인, 건축을 잇는 컬렉션으로 자연 점토의 표현력을 기리는 것.",
+      "ar": "الاحتفاء بالإمكانات التعبيرية للطين الطبيعي من خلال مجموعات تربط المادة بالتصميم والعمارة.",
+      "tr": "Malzemeyi, tasarımı ve mimariyi buluşturan koleksiyonlarla doğal kilin ifade gücünü yüceltmek."
+    },
+    "Twelve Colour References": {
+      "de": "Zwölf Farbreferenzen",
+      "fr": "Douze références de couleur",
+      "nl": "Twaalf kleurreferenties",
+      "ko": "열두 가지 컬러 레퍼런스",
+      "ar": "اثنا عشر مرجعًا لونيًا",
+      "tr": "On İki Renk Referansı"
+    },
+    "Twelve Shades of Earth": {
+      "de": "Zwölf Farbtöne der Erde",
+      "fr": "Douze teintes de la terre",
+      "nl": "Twaalf tinten van de aarde",
+      "ko": "대지의 열두 가지 컬러",
+      "ar": "اثنا عشر لونًا من الأرض",
+      "tr": "Toprağın On İki Tonu"
+    },
+    "Understanding Terracotta Colours and Finishes": {
+      "de": "Farben und Oberflächen von Terrakotta verstehen",
+      "fr": "Comprendre les couleurs et finitions de la terre cuite",
+      "nl": "Kleuren en afwerkingen van terracotta begrijpen",
+      "ko": "테라코타의 컬러와 마감 이해하기",
+      "ar": "فهم ألوان التيراكوتا وتشطيباتها",
+      "tr": "Terracotta Renklerini ve Bitişlerini Anlamak"
+    },
+    "Upload Drawings or Plans": {
+      "de": "Zeichnungen oder Pläne hochladen",
+      "fr": "Joindre des plans ou dessins",
+      "nl": "Tekeningen of plannen uploaden",
+      "ko": "도면 또는 설계도 업로드",
+      "ar": "تحميل الرسومات أو المخططات",
+      "tr": "Çizim veya Plan Yükleyin"
+    },
+    "Verified awards will be published here together with the award name, awarding organisation, year, recognised product or project and an official reference.": {
+      "de": "Geprüfte Auszeichnungen werden hier mit Name, verleihender Organisation, Jahr, ausgezeichnetem Produkt oder Projekt und offizieller Quelle veröffentlicht.",
+      "fr": "Les distinctions vérifiées seront publiées ici avec leur nom, l'organisme, l'année, le produit ou projet récompensé et une référence officielle.",
+      "nl": "Geverifieerde onderscheidingen worden hier gepubliceerd met naam, uitreikende organisatie, jaar, bekroond product of project en een officiële bron.",
+      "ko": "검증된 수상 내역은 수상명, 수여 기관, 연도, 수상 제품 또는 프로젝트, 공식 출처와 함께 이곳에 게시됩니다.",
+      "ar": "ستُنشر الجوائز الموثّقة هنا مع اسم الجائزة والجهة المانحة والسنة والمنتج أو المشروع الفائز ومرجع رسمي.",
+      "tr": "Doğrulanmış ödüller; ödül adı, veren kuruluş, yıl, ödül alan ürün veya proje ve resmî kaynakla birlikte burada yayımlanacaktır."
+    },
+    "Verified technical information will be published for each product. It will cover:": {
+      "de": "Für jedes Produkt werden geprüfte technische Informationen veröffentlicht. Sie umfassen:",
+      "fr": "Des informations techniques vérifiées seront publiées pour chaque produit. Elles porteront sur :",
+      "nl": "Voor elk product wordt geverifieerde technische informatie gepubliceerd. Deze omvat:",
+      "ko": "각 제품의 검증된 기술 정보가 공개될 예정이며, 다음 내용을 포함합니다.",
+      "ar": "ستُنشر معلومات فنية موثّقة لكل منتج، وستشمل:",
+      "tr": "Her ürün için doğrulanmış teknik bilgiler yayımlanacaktır. Bu bilgiler şunları kapsar:"
+    },
+    "View Collection": {
+      "de": "Kollektion ansehen",
+      "fr": "Voir la collection",
+      "nl": "Bekijk de collectie",
+      "ko": "컬렉션 보기",
+      "ar": "تصفّح المجموعة",
+      "tr": "Koleksiyonu İnceleyin"
+    },
+    "Water absorption": {
+      "de": "Wasseraufnahme",
+      "fr": "Absorption d'eau",
+      "nl": "Waterabsorptie",
+      "ko": "흡수율",
+      "ar": "امتصاص الماء",
+      "tr": "Su emme"
+    },
+    "We believe natural surfaces have the power to bring warmth, individuality and character into the spaces we create.": {
+      "de": "Wir sind überzeugt, dass natürliche Oberflächen Räumen Wärme, Individualität und Charakter verleihen.",
+      "fr": "Nous croyons que les surfaces naturelles apportent chaleur, individualité et caractère aux espaces que nous créons.",
+      "nl": "Wij geloven dat natuurlijke oppervlakken warmte, individualiteit en karakter brengen in de ruimtes die we creëren.",
+      "ko": "자연스러운 표면은 우리가 만드는 공간에 따뜻함과 개성, 그리고 고유한 성격을 더한다고 믿습니다.",
+      "ar": "نؤمن بأن الأسطح الطبيعية قادرة على منح المساحات التي نصنعها الدفء والتفرّد والطابع المميّز.",
+      "tr": "Doğal yüzeylerin, yarattığımız mekânlara sıcaklık, özgünlük ve karakter kattığına inanıyoruz."
+    },
+    "Weight": {
+      "de": "Gewicht",
+      "fr": "Poids",
+      "nl": "Gewicht",
+      "ko": "중량",
+      "ar": "الوزن",
+      "tr": "Ağırlık"
+    },
+    "Whether you are an architect, designer, developer or distributor, we would be pleased to hear about your project.": {
+      "de": "Ob Architekturbüro, Planer, Bauträger, Importeur oder Fachhändler – wir freuen uns auf Ihr Projekt.",
+      "fr": "Architecte, designer, promoteur ou distributeur : nous serons heureux de découvrir votre projet.",
+      "nl": "Architect, ontwerper, projectontwikkelaar of distributeur: we horen graag over uw project.",
+      "ko": "건축가, 디자이너, 개발사, 유통사 등 어떤 분이든 프로젝트 이야기를 기다리겠습니다.",
+      "ar": "سواء كنتم مهندسين معماريين أو مصمّمين أو مطوّرين أو موزّعين، يسعدنا أن نتعرّف على مشروعكم.",
+      "tr": "Mimar, tasarımcı, geliştirici ya da distribütör olun, projenizi dinlemekten memnuniyet duyarız."
+    },
+    "Warm and understated, inspired by sunlit landscapes.": {
+      "de": "Warm und zurückhaltend, inspiriert von sonnigen Landschaften.",
+      "fr": "Chaleureux et discret, inspiré des paysages ensoleillés.",
+      "nl": "Warm en ingetogen, geïnspireerd op zonovergoten landschappen.",
+      "ko": "햇살 가득한 풍경에서 영감을 받은 따뜻하고 절제된 컬러.",
+      "ar": "دافئ وهادئ، مستوحى من المناظر المشمسة.",
+      "tr": "Güneşli manzaralardan ilham alan sıcak ve sade bir ton."
+    },
+    "A soft, natural neutral with an organic character.": {
+      "de": "Ein sanfter, natürlicher Neutralton mit organischem Charakter.",
+      "fr": "Un neutre doux et naturel au caractère organique.",
+      "nl": "Een zachte, natuurlijke neutrale tint met een organisch karakter.",
+      "ko": "유기적인 개성을 지닌 부드럽고 자연스러운 뉴트럴.",
+      "ar": "لون محايد ناعم وطبيعي بطابع عضوي.",
+      "tr": "Organik karakterli, yumuşak ve doğal bir nötr."
+    },
+    "A warm earthy tone inspired by raw clay.": {
+      "de": "Ein warmer Erdton, inspiriert von rohem Ton.",
+      "fr": "Un ton terreux et chaleureux inspiré de l'argile brute.",
+      "nl": "Een warme aardetint, geïnspireerd op ruwe klei.",
+      "ko": "가공하지 않은 점토에서 영감을 받은 따뜻한 흙빛 톤.",
+      "ar": "لون ترابي دافئ مستوحى من الطين الخام.",
+      "tr": "Ham kilden ilham alan sıcak bir toprak tonu."
+    },
+    "A distinctive clay-inspired shade with timeless character.": {
+      "de": "Ein markanter, vom Ton inspirierter Farbton mit zeitlosem Charakter.",
+      "fr": "Une teinte singulière inspirée de l'argile, au caractère intemporel.",
+      "nl": "Een onderscheidende, op klei geïnspireerde tint met een tijdloos karakter.",
+      "ko": "변치 않는 개성을 지닌, 점토에서 영감을 받은 독특한 컬러.",
+      "ar": "لون مميّز مستوحى من الطين بطابع خالد.",
+      "tr": "Zamansız karakteriyle kilden ilham alan özgün bir ton."
+    },
+    "A deeper, traditional terracotta expression.": {
+      "de": "Ein tieferer, traditioneller Terrakotta-Ton.",
+      "fr": "Une expression plus profonde et traditionnelle de la terre cuite.",
+      "nl": "Een diepere, traditionele terracotta-expressie.",
+      "ko": "더 깊고 전통적인 테라코타의 표현.",
+      "ar": "تعبير أعمق وتقليدي عن التيراكوتا.",
+      "tr": "Daha derin, geleneksel bir terracotta ifadesi."
+    },
+    "A subtle warm tone with a softer character.": {
+      "de": "Ein dezenter, warmer Ton mit sanftem Charakter.",
+      "fr": "Un ton chaud et subtil au caractère plus doux.",
+      "nl": "Een subtiele warme tint met een zachter karakter.",
+      "ko": "더 부드러운 개성을 지닌 은은하고 따뜻한 톤.",
+      "ar": "لون دافئ هادئ بطابع أكثر نعومة.",
+      "tr": "Daha yumuşak karakterli, ince ve sıcak bir ton."
+    },
+    "An earthy green inspired by Mediterranean landscapes.": {
+      "de": "Ein erdiges Grün, inspiriert von mediterranen Landschaften.",
+      "fr": "Un vert terreux inspiré des paysages méditerranéens.",
+      "nl": "Een aards groen, geïnspireerd op mediterrane landschappen.",
+      "ko": "지중해 풍경에서 영감을 받은 흙빛 그린.",
+      "ar": "أخضر ترابي مستوحى من مناظر البحر الأبيض المتوسط.",
+      "tr": "Akdeniz manzaralarından ilham alan toprak yeşili."
+    },
+    "A muted green with a calm, natural expression.": {
+      "de": "Ein gedecktes Grün mit ruhiger, natürlicher Wirkung.",
+      "fr": "Un vert sourd à l'expression calme et naturelle.",
+      "nl": "Een gedempt groen met een rustige, natuurlijke uitstraling.",
+      "ko": "차분하고 자연스러운 표정의 차분한 그린.",
+      "ar": "أخضر خافت بطابع هادئ وطبيعي.",
+      "tr": "Sakin ve doğal ifadeli, kırık bir yeşil."
+    },
+    "A mineral-inspired neutral.": {
+      "de": "Ein mineralisch inspirierter Neutralton.",
+      "fr": "Un neutre d'inspiration minérale.",
+      "nl": "Een mineraal geïnspireerde neutrale tint.",
+      "ko": "미네랄에서 영감을 받은 뉴트럴.",
+      "ar": "لون محايد مستوحى من المعادن.",
+      "tr": "Mineral esintili bir nötr."
+    },
+    "A deeper, contemporary architectural shade.": {
+      "de": "Ein tieferer, zeitgenössischer Architekturton.",
+      "fr": "Une teinte architecturale plus profonde et contemporaine.",
+      "nl": "Een diepere, hedendaagse architecturale tint.",
+      "ko": "더 깊고 현대적인 건축적 컬러.",
+      "ar": "لون معماري أعمق ومعاصر.",
+      "tr": "Daha derin, çağdaş ve mimari bir ton."
+    },
+    "A muted blue-inspired colour.": {
+      "de": "Eine gedeckte, von Blau inspirierte Farbe.",
+      "fr": "Une couleur sourde d'inspiration bleue.",
+      "nl": "Een gedempte, op blauw geïnspireerde kleur.",
+      "ko": "블루에서 영감을 받은 차분한 컬러.",
+      "ar": "لون خافت مستوحى من الأزرق.",
+      "tr": "Maviden ilham alan kırık bir renk."
+    },
+    "A light, understated natural neutral.": {
+      "de": "Ein heller, zurückhaltender natürlicher Neutralton.",
+      "fr": "Un neutre naturel, clair et discret.",
+      "nl": "Een lichte, ingetogen natuurlijke neutrale tint.",
+      "ko": "밝고 절제된 자연스러운 뉴트럴.",
+      "ar": "لون محايد طبيعي فاتح وهادئ.",
+      "tr": "Açık ve sade, doğal bir nötr."
+    }
+  },
+  "html": {
+    "TERRACOTTA <a href=\"/collections/terracotta-wall-tiles/\" title=\"Wall Tiles\">Wall Tiles</a> bring the warmth of natural clay to interior and exterior walls. Terracotta Wall Cladding creates surfaces with depth and texture, while Custom Artisan Tiles are developed in project-specific sizes, shapes and patterns.<br>Explore the twelve shades of the TERRACOTTA Colour Collection, from Sand and Rose to Graphite and Ivory, and discover the possibilities for your walls.": {
+      "fr": "Les <a href=\"/collections/terracotta-wall-tiles/\" title=\"Carreaux muraux\">carreaux muraux</a> TERRACOTTA apportent la chaleur de l'argile naturelle aux murs intérieurs et extérieurs. Le revêtement mural en terre cuite crée des surfaces de profondeur et de texture, tandis que les carreaux sur mesure sont développés aux dimensions, formes et motifs de chaque projet.<br>Explorez les douze teintes de la collection de couleurs TERRACOTTA, de Sand et Rose à Graphite et Ivory, et découvrez les possibilités pour vos murs.",
+      "de": "TERRACOTTA <a href=\"/collections/terracotta-wall-tiles/\" title=\"Wandfliesen\">Wandfliesen</a> bringen die Wärme von natürlichem Ton an Innen- und Außenwände. Die Terrakotta-Wandverkleidung schafft Oberflächen mit Tiefe und Struktur, während Sonderanfertigungen in projektspezifischen Formaten, Formen und Mustern entwickelt werden.<br>Entdecken Sie die zwölf Farbtöne der TERRACOTTA Farbkollektion – von Sand und Rose bis Graphite und Ivory – und die Möglichkeiten für Ihre Wände.",
+      "es": "Las <a href=\"/collections/terracotta-wall-tiles/\" title=\"Baldosas de pared\">baldosas de pared</a> TERRACOTTA llevan la calidez de la arcilla natural a paredes interiores y exteriores. El revestimiento mural de terracota crea superficies con profundidad y textura, mientras que las baldosas artesanales a medida se desarrollan en tamaños, formas y diseños específicos para cada proyecto.<br>Explore los doce tonos de la colección de colores TERRACOTTA, de Sand y Rose a Graphite e Ivory, y descubra las posibilidades para sus paredes.",
+      "ru": "<a href=\"/collections/terracotta-wall-tiles/\" title=\"Настенная плитка\">Настенная плитка</a> TERRACOTTA приносит тепло натуральной глины на внутренние и наружные стены. Терракотовая облицовка создаёт поверхности с глубиной и фактурой, а индивидуальная авторская плитка разрабатывается в размерах, формах и узорах под конкретный проект.<br>Откройте двенадцать оттенков коллекции цветов TERRACOTTA — от Sand и Rose до Graphite и Ivory — и возможности для ваших стен.",
+      "nl": "TERRACOTTA <a href=\"/collections/terracotta-wall-tiles/\" title=\"Wandtegels\">wandtegels</a> brengen de warmte van natuurlijke klei naar binnen- en buitenwanden. Terracotta wandbekleding creëert oppervlakken met diepte en textuur, terwijl maatwerktegels worden ontwikkeld in projectspecifieke formaten, vormen en patronen.<br>Ontdek de twaalf tinten van de TERRACOTTA kleurencollectie, van Sand en Rose tot Graphite en Ivory, en de mogelijkheden voor uw wanden.",
+      "ko": "TERRACOTTA <a href=\"/collections/terracotta-wall-tiles/\" title=\"벽 타일\">벽 타일</a>은 실내외 벽에 자연 점토의 따뜻함을 더합니다. 테라코타 벽 마감재는 깊이감과 질감이 있는 표면을 만들고, 맞춤 제작 타일은 프로젝트에 맞춘 규격, 형태, 패턴으로 개발됩니다.<br>Sand와 Rose부터 Graphite와 Ivory까지, TERRACOTTA 컬러 컬렉션의 열두 가지 컬러로 벽의 가능성을 확인해 보십시오.",
+      "ar": "يضفي <a href=\"/collections/terracotta-wall-tiles/\" title=\"بلاط الجدران\">بلاط الجدران</a> من TERRACOTTA دفء الطين الطبيعي على الجدران الداخلية والخارجية. تصنع كسوة جدران التيراكوتا أسطحًا ذات عمق وملمس، بينما يُطوَّر البلاط المصمّم حسب الطلب بمقاسات وأشكال وزخارف خاصة بكل مشروع.<br>اكتشفوا الألوان الاثني عشر في مجموعة ألوان TERRACOTTA، من Sand وRose إلى Graphite وIvory، وإمكاناتها لجدرانكم.",
+      "tr": "TERRACOTTA <a href=\"/collections/terracotta-wall-tiles/\" title=\"Duvar Karoları\">duvar karoları</a> doğal kilin sıcaklığını iç ve dış duvarlara taşır. Terracotta duvar kaplaması derinlik ve dokuya sahip yüzeyler yaratırken, özel tasarım karolar projeye özel ebat, form ve desenlerde geliştirilir.<br>Sand ve Rose'dan Graphite ve Ivory'ye, TERRACOTTA Renk Koleksiyonu'nun on iki tonunu ve duvarlarınız için sunduğu olanakları keşfedin."
+    },
+    "TERRACOTTA <a href=\"/collections/terracotta-steps-copings/\" title=\"Steps &amp; Copings\">Steps &amp; Copings</a> complete floors with the same natural material. Terracotta Stair Treads cover steps and stairs, while Terracotta Skirting creates a clean transition between floor and wall.<br>Coordinated elements help stairs, floors and walls stay in harmony, from the first step to the last, in a single natural material.": {
+      "fr": "Les <a href=\"/collections/terracotta-steps-copings/\" title=\"Marches &amp; Margelles\">marches &amp; margelles</a> TERRACOTTA complètent les sols avec le même matériau naturel. Les marches d'escalier en terre cuite habillent marches et escaliers, tandis que les plinthes en terre cuite créent une transition nette entre le sol et le mur.<br>Des éléments coordonnés maintiennent l'harmonie entre escaliers, sols et murs, de la première à la dernière marche, dans un seul matériau naturel.",
+      "de": "TERRACOTTA <a href=\"/collections/terracotta-steps-copings/\" title=\"Stufen &amp; Sockel\">Stufen &amp; Sockel</a> ergänzen Böden mit demselben natürlichen Material. Terrakotta-Treppenstufen bekleiden Stufen und Treppen, während Terrakotta-Sockelleisten einen sauberen Übergang zwischen Boden und Wand schaffen.<br>Aufeinander abgestimmte Elemente halten Treppen, Böden und Wände im Einklang – von der ersten bis zur letzten Stufe, in einem einzigen natürlichen Material.",
+      "es": "Los <a href=\"/collections/terracotta-steps-copings/\" title=\"Peldaños y coronaciones\">peldaños y coronaciones</a> TERRACOTTA completan los suelos con el mismo material natural. Los peldaños de terracota revisten escalones y escaleras, mientras que los rodapiés de terracota crean una transición limpia entre suelo y pared.<br>Los elementos coordinados mantienen la armonía entre escaleras, suelos y paredes, del primer al último peldaño, en un único material natural.",
+      "ru": "<a href=\"/collections/terracotta-steps-copings/\" title=\"Ступени и бортики\">Ступени и бортики</a> TERRACOTTA дополняют полы тем же натуральным материалом. Терракотовые ступени облицовывают лестницы, а терракотовые плинтусы создают аккуратный переход от пола к стене.<br>Согласованные элементы сохраняют гармонию лестниц, полов и стен — от первой ступени до последней — в едином натуральном материале.",
+      "nl": "TERRACOTTA <a href=\"/collections/terracotta-steps-copings/\" title=\"Treden &amp; randen\">treden &amp; randen</a> werken vloeren af met hetzelfde natuurlijke materiaal. Terracotta traptreden bekleden treden en trappen, terwijl terracotta plinten een strakke overgang tussen vloer en wand vormen.<br>Op elkaar afgestemde elementen houden trappen, vloeren en wanden in harmonie, van de eerste tot de laatste trede, in één natuurlijk materiaal.",
+      "ko": "TERRACOTTA <a href=\"/collections/terracotta-steps-copings/\" title=\"계단 &amp; 코핑\">계단 &amp; 코핑</a>은 같은 자연 소재로 바닥을 완성합니다. 테라코타 계단 디딤판은 계단을 마감하고, 테라코타 걸레받이는 바닥과 벽 사이를 깔끔하게 연결합니다.<br>조화를 이루는 요소들이 첫 계단부터 마지막 계단까지 하나의 자연 소재로 계단, 바닥, 벽을 하나로 묶어 줍니다.",
+      "ar": "تُكمل <a href=\"/collections/terracotta-steps-copings/\" title=\"الدرجات والحواف\">الدرجات والحواف</a> من TERRACOTTA الأرضيات بالمادة الطبيعية نفسها. تكسو درجات السلالم من التيراكوتا الدرج والسلالم، بينما تصنع وزرات التيراكوتا انتقالًا نظيفًا بين الأرضية والجدار.<br>تحافظ العناصر المتناسقة على انسجام السلالم والأرضيات والجدران، من الدرجة الأولى إلى الأخيرة، بمادة طبيعية واحدة.",
+      "tr": "TERRACOTTA <a href=\"/collections/terracotta-steps-copings/\" title=\"Basamaklar &amp; Kenarlar\">basamaklar &amp; kenarlar</a>, zeminleri aynı doğal malzemeyle tamamlar. Terracotta merdiven basamakları basamakları ve merdivenleri kaplarken, terracotta süpürgelikler zemin ile duvar arasında temiz bir geçiş oluşturur.<br>Uyumlu elemanlar, ilk basamaktan son basamağa kadar merdivenleri, zeminleri ve duvarları tek bir doğal malzemeyle bir arada tutar."
+    },
+    "TERRACOTTA offers <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Outdoor Tiles\">Outdoor Terracotta Tiles</a> for gardens, verandas, patios and terraces. Terracotta Brick Tiles bring long, narrow formats to outdoor floors, and Terracotta Pavers are designed for paving outdoor areas.<br>Explore earthy colours and natural formats to create a warm and functional outdoor space.": {
+      "fr": "TERRACOTTA propose des <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Carreaux d'extérieur\">carreaux en terre cuite pour l'extérieur</a> pour jardins, vérandas, patios et terrasses. Les briquettes en terre cuite apportent des formats longs et étroits aux sols extérieurs, et les dalles en terre cuite sont conçues pour le revêtement des espaces extérieurs.<br>Explorez des couleurs terreuses et des formats naturels pour créer un espace extérieur chaleureux et fonctionnel.",
+      "de": "TERRACOTTA bietet <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Außenfliesen\">Terrakottafliesen für außen</a> für Gärten, Veranden, Patios und Terrassen. Terrakottafliesen im Ziegelformat bringen lange, schmale Formate auf Außenböden, und Terrakotta-Terrassenplatten sind für die Befestigung von Außenflächen konzipiert.<br>Entdecken Sie erdige Farben und natürliche Formate für einen warmen und funktionalen Außenbereich.",
+      "es": "TERRACOTTA ofrece <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Baldosas de exterior\">baldosas de terracota para exterior</a> para jardines, porches, patios y terrazas. Las baldosas tipo ladrillo de terracota aportan formatos largos y estrechos a los suelos exteriores, y los adoquines de terracota están pensados para pavimentar zonas exteriores.<br>Explore colores terrosos y formatos naturales para crear un espacio exterior cálido y funcional.",
+      "ru": "TERRACOTTA предлагает <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Уличная плитка\">уличную терракотовую плитку</a> для садов, веранд, патио и террас. Терракотовая плитка-кирпич приносит длинные узкие форматы на уличные полы, а терракотовая тротуарная плитка предназначена для мощения открытых площадок.<br>Откройте землистые цвета и натуральные форматы, чтобы создать тёплое и функциональное пространство под открытым небом.",
+      "nl": "TERRACOTTA biedt <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Buitentegels\">terracotta buitentegels</a> voor tuinen, veranda's, patio's en terrassen. Terracotta steenstrips brengen lange, smalle formaten op buitenvloeren, en terracotta terrastegels zijn ontworpen voor het bestraten van buitenruimtes.<br>Ontdek aardse kleuren en natuurlijke formaten voor een warme en functionele buitenruimte.",
+      "ko": "TERRACOTTA는 정원, 베란다, 파티오, 테라스를 위한 <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"외부용 타일\">외부용 테라코타 타일</a>을 제공합니다. 테라코타 브릭 타일은 외부 바닥에 길고 좁은 포맷을 더하고, 테라코타 페이버는 외부 공간 포장을 위해 설계되었습니다.<br>흙빛 컬러와 자연스러운 포맷으로 따뜻하고 기능적인 외부 공간을 만들어 보십시오.",
+      "ar": "تقدّم TERRACOTTA <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"البلاط الخارجي\">بلاط تيراكوتا خارجيًا</a> للحدائق والشرفات والفناءات والتراسات. يضفي بلاط التيراكوتا على شكل طوب مقاسات طويلة وضيقة على الأرضيات الخارجية، بينما صُمّم بلاط ممرات التيراكوتا لرصف المساحات الخارجية.<br>اكتشفوا الألوان الترابية والمقاسات الطبيعية لصنع مساحة خارجية دافئة وعملية.",
+      "tr": "TERRACOTTA; bahçeler, verandalar, avlular ve teraslar için <a href=\"/collections/outdoor-terracotta-tiles/\" title=\"Dış Mekân Karoları\">dış mekân terracotta karoları</a> sunar. Terracotta tuğla karolar dış mekân zeminlerine uzun ve dar formatlar getirirken, terracotta yer döşemeleri dış alanların kaplanması için tasarlanmıştır.<br>Sıcak ve işlevsel bir dış mekân için toprak tonlarını ve doğal formatları keşfedin."
+    }
+  },
+  "markets": {
+    "en": {
+      "name": "English",
+      "priority": "P1",
+      "hreflang": [
+        "en",
+        "en-US",
+        "en-GB",
+        "en-AU",
+        "en-CA"
+      ],
+      "ogLocale": "en_GB"
+    },
+    "de": {
+      "name": "Deutsch",
+      "priority": "P1",
+      "hreflang": [
+        "de",
+        "de-DE"
+      ],
+      "ogLocale": "de_DE"
+    },
+    "fr": {
+      "name": "Français",
+      "priority": "P1",
+      "hreflang": [
+        "fr",
+        "fr-FR",
+        "fr-CA"
+      ],
+      "ogLocale": "fr_FR",
+      "ogLocaleAlternate": [
+        "fr_CA"
+      ]
+    },
+    "nl": {
+      "name": "Nederlands",
+      "priority": "P2",
+      "hreflang": [
+        "nl",
+        "nl-NL"
+      ],
+      "ogLocale": "nl_NL"
+    },
+    "ko": {
+      "name": "한국어",
+      "priority": "P2",
+      "hreflang": [
+        "ko",
+        "ko-KR"
+      ],
+      "ogLocale": "ko_KR"
+    },
+    "ar": {
+      "name": "العربية",
+      "priority": "P2",
+      "hreflang": [
+        "ar",
+        "ar-AE"
+      ],
+      "ogLocale": "ar_AE",
+      "dir": "rtl"
+    },
+    "es": {
+      "name": "Español",
+      "priority": "inactive",
+      "hreflang": [
+        "es"
+      ],
+      "ogLocale": "es_ES"
+    },
+    "ru": {
+      "name": "Русский",
+      "priority": "inactive",
+      "hreflang": [
+        "ru"
+      ],
+      "ogLocale": "ru_RU"
+    },
+    "tr": {
+      "name": "Türkçe",
+      "priority": "added",
+      "hreflang": [
+        "tr",
+        "tr-TR"
+      ],
+      "ogLocale": "tr_TR"
+    }
+  },
+  "titles": {
+    "de": "Terrakotta Fliesen für Architektur & Fachhandel | TERRACOTTA",
+    "fr": "Carreaux en terre cuite pour l'architecture | TERRACOTTA",
+    "nl": "Terracotta tegels voor architectuur & distributie | TERRACOTTA",
+    "ko": "테라코타 타일 | 건축 및 수입업체를 위한 TERRACOTTA",
+    "ar": "بلاط تيراكوتا للمشاريع والضيافة في الإمارات | TERRACOTTA",
+    "tr": "Terracotta Karo ve Pişmiş Toprak Karolar | TERRACOTTA"
+  },
+  "active": [
+    "en",
+    "de",
+    "fr",
+    "nl",
+    "ko",
+    "ar",
+    "tr"
+  ],
+  "keep": [
+    "TERRACOTTA",
+    "TERRACOTTA | The Art of Earth",
+    "© 2026 TERRACOTTA | The Art of Earth",
+    "Sand",
+    "Oat",
+    "Clay",
+    "Terracotta",
+    "Cotto",
+    "Rose",
+    "Olive",
+    "Sage",
+    "Stone",
+    "Graphite",
+    "Ocean",
+    "Ivory",
+    "Instagram",
+    "Facebook",
+    "Twitter",
+    "Pinterest",
+    "Linkedin",
+    "Youtube",
+    "Archello",
+    "Issuu",
+    "Threads",
+    "en",
+    "de",
+    "fr",
+    "es",
+    "ru",
+    "nl",
+    "ko",
+    "ar",
+    "tr"
+  ],
+  "patterns": {
+    "Interested in {}?": {
+      "de": "Interesse an: {}?",
+      "fr": "Votre projet : {}",
+      "nl": "Interesse in: {}?",
+      "ko": "{}에 관심이 있으십니까?",
+      "ar": "هل يهمّكم: {}؟",
+      "tr": "İlgilendiğiniz ürün: {}"
+    },
+    "Back to {}": {
+      "de": "Zurück zu: {}",
+      "fr": "Retour : {}",
+      "nl": "Terug naar: {}",
+      "ko": "{} 카테고리로 돌아가기",
+      "ar": "العودة إلى: {}",
+      "tr": "Geri dön: {}"
+    },
+    "Product type: {}": {
+      "de": "Produkttyp: {}",
+      "fr": "Type de produit : {}",
+      "nl": "Producttype: {}",
+      "ko": "제품 유형: {}",
+      "ar": "نوع المنتج: {}",
+      "tr": "Ürün tipi: {}"
+    },
+    "Product reference: {}": {
+      "de": "Produktreferenz: {}",
+      "fr": "Référence produit : {}",
+      "nl": "Productreferentie: {}",
+      "ko": "제품 참조 번호: {}",
+      "ar": "مرجع المنتج: {}",
+      "tr": "Ürün referansı: {}"
+    },
+    "Available dimensions: {}": {
+      "de": "Verfügbare Formate: {}",
+      "fr": "Formats disponibles : {}",
+      "nl": "Beschikbare formaten: {}",
+      "ko": "제공 규격: {}",
+      "ar": "المقاسات المتوفرة: {}",
+      "tr": "Mevcut ebatlar: {}"
+    },
+    "Surface and finish: {}": {
+      "de": "Oberfläche und Finish: {}",
+      "fr": "Surface et finition : {}",
+      "nl": "Oppervlak en afwerking: {}",
+      "ko": "표면 및 마감: {}",
+      "ar": "السطح والتشطيب: {}",
+      "tr": "Yüzey ve bitiş: {}"
+    },
+    "{} Suitability for each application will be confirmed in the product documentation.": {
+      "de": "{} Die Eignung für die jeweilige Anwendung wird in der Produktdokumentation bestätigt.",
+      "fr": "{} L'adéquation à chaque usage sera confirmée dans la documentation produit.",
+      "nl": "{} De geschiktheid per toepassing wordt bevestigd in de productdocumentatie.",
+      "ko": "{} 용도별 적합성은 제품 문서에서 확정됩니다.",
+      "ar": "{} سيتم تأكيد ملاءمة كل استخدام في وثائق المنتج.",
+      "tr": "{} Her kullanım alanına uygunluk ürün dokümantasyonunda teyit edilecektir."
+    },
+    "{} of TERRACOTTA | The Art of Earth.": {
+      "de": "{} – TERRACOTTA | The Art of Earth.",
+      "fr": "{} – TERRACOTTA | The Art of Earth.",
+      "nl": "{} – TERRACOTTA | The Art of Earth.",
+      "ko": "{} – TERRACOTTA | The Art of Earth.",
+      "ar": "{} – TERRACOTTA | The Art of Earth.",
+      "tr": "{} – TERRACOTTA | The Art of Earth."
+    },
+    "{} | TERRACOTTA": {
+      "de": "{} | TERRACOTTA",
+      "fr": "{} | TERRACOTTA",
+      "nl": "{} | TERRACOTTA",
+      "ko": "{} | TERRACOTTA",
+      "ar": "{} | TERRACOTTA",
+      "tr": "{} | TERRACOTTA"
+    },
+    "{} *": {
+      "de": "{} *",
+      "fr": "{} *",
+      "nl": "{} *",
+      "ko": "{} *",
+      "ar": "{} *",
+      "tr": "{} *"
+    }
+  }
+}

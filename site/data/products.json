@@ -1,0 +1,392 @@
+{
+  "brand": {
+    "name": "TERRACOTTA",
+    "tagline": "The Art of Earth",
+    "fullName": "TERRACOTTA | The Art of Earth",
+    "philosophy": "Natural Clay. Timeless Craft."
+  },
+  "summary": {
+    "categories": 6,
+    "productTypes": 12,
+    "colours": 12
+  },
+  "colours": [
+    {
+      "id": "sand",
+      "name": "Sand",
+      "url": "/colour-collection/#sand",
+      "description": "Warm and understated, inspired by sunlit landscapes."
+    },
+    {
+      "id": "oat",
+      "name": "Oat",
+      "url": "/colour-collection/#oat",
+      "description": "A soft, natural neutral with an organic character."
+    },
+    {
+      "id": "clay",
+      "name": "Clay",
+      "url": "/colour-collection/#clay",
+      "description": "A warm earthy tone inspired by raw clay."
+    },
+    {
+      "id": "terracotta",
+      "name": "Terracotta",
+      "url": "/colour-collection/#terracotta",
+      "description": "A distinctive clay-inspired shade with timeless character."
+    },
+    {
+      "id": "cotto",
+      "name": "Cotto",
+      "url": "/colour-collection/#cotto",
+      "description": "A deeper, traditional terracotta expression."
+    },
+    {
+      "id": "rose",
+      "name": "Rose",
+      "url": "/colour-collection/#rose",
+      "description": "A subtle warm tone with a softer character."
+    },
+    {
+      "id": "olive",
+      "name": "Olive",
+      "url": "/colour-collection/#olive",
+      "description": "An earthy green inspired by Mediterranean landscapes."
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "url": "/colour-collection/#sage",
+      "description": "A muted green with a calm, natural expression."
+    },
+    {
+      "id": "stone",
+      "name": "Stone",
+      "url": "/colour-collection/#stone",
+      "description": "A mineral-inspired neutral."
+    },
+    {
+      "id": "graphite",
+      "name": "Graphite",
+      "url": "/colour-collection/#graphite",
+      "description": "A deeper, contemporary architectural shade."
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean",
+      "url": "/colour-collection/#ocean",
+      "description": "A muted blue-inspired colour."
+    },
+    {
+      "id": "ivory",
+      "name": "Ivory",
+      "url": "/colour-collection/#ivory",
+      "description": "A light, understated natural neutral."
+    }
+  ],
+  "categories": [
+    {
+      "number": "01",
+      "id": "floor-tiles",
+      "name": "Terracotta Floor Tiles",
+      "shortName": "Floor Tiles",
+      "url": "/collections/terracotta-floor-tiles/",
+      "description": "Explore terracotta flooring in timeless geometric formats. Discover natural clay surfaces designed to bring warmth and character to architectural interiors.",
+      "types": [
+        "FL-SQ",
+        "FL-RE"
+      ],
+      "seoTarget": "Terracotta Floor Tiles",
+      "metaTitle": "Terracotta Floor Tiles | TERRACOTTA"
+    },
+    {
+      "number": "02",
+      "id": "outdoor-tiles",
+      "name": "Outdoor Terracotta Tiles",
+      "shortName": "Outdoor Tiles",
+      "url": "/collections/outdoor-terracotta-tiles/",
+      "description": "Discover terracotta surfaces for outdoor living. Explore traditional brick formats and paving concepts for patios, terraces and architectural landscapes.",
+      "types": [
+        "OUT-BR",
+        "OUT-PV"
+      ],
+      "seoTarget": "Outdoor Terracotta Tiles",
+      "metaTitle": "Outdoor Terracotta Tiles | TERRACOTTA"
+    },
+    {
+      "number": "03",
+      "id": "pool-tiles",
+      "name": "Terracotta Pool Tiles",
+      "shortName": "Pool Tiles",
+      "url": "/collections/terracotta-pool-tiles/",
+      "description": "Explore terracotta surface concepts and complementary edge details for distinctive poolside environments.",
+      "types": [
+        "PL-SR",
+        "PL-CP"
+      ],
+      "seoTarget": "Terracotta Pool Tiles",
+      "metaTitle": "Terracotta Pool Tiles | TERRACOTTA"
+    },
+    {
+      "number": "04",
+      "id": "decorative-tiles",
+      "name": "Decorative Terracotta Tiles",
+      "shortName": "Decorative Tiles",
+      "url": "/collections/decorative-terracotta-tiles/",
+      "description": "Discover expressive terracotta designs through geometric forms, decorative patterns and textured surfaces.",
+      "types": [
+        "DEC-HX",
+        "DEC-RL"
+      ],
+      "seoTarget": "Decorative Terracotta Tiles",
+      "metaTitle": "Decorative Terracotta Tiles | TERRACOTTA"
+    },
+    {
+      "number": "05",
+      "id": "wall-tiles",
+      "name": "Terracotta Wall Tiles",
+      "shortName": "Wall Tiles",
+      "url": "/collections/terracotta-wall-tiles/",
+      "description": "Bring natural clay character to architectural walls. Explore wall cladding concepts and custom artisan tile possibilities.",
+      "types": [
+        "WL-CL",
+        "WL-CA"
+      ],
+      "seoTarget": "Terracotta Wall Tiles",
+      "metaTitle": "Terracotta Wall Tiles | TERRACOTTA"
+    },
+    {
+      "number": "06",
+      "id": "steps-copings",
+      "name": "Terracotta Steps & Copings",
+      "shortName": "Steps & Copings",
+      "url": "/collections/terracotta-steps-copings/",
+      "description": "Explore complementary architectural elements for stairs, edges and coordinated floor-to-wall transitions.",
+      "types": [
+        "ST-TR",
+        "ST-SK"
+      ],
+      "seoTarget": "Terracotta Stair Treads and Skirting",
+      "metaTitle": "Terracotta Stair Treads and Skirting | TERRACOTTA"
+    }
+  ],
+  "productCardFields": [
+    "productName",
+    "productCategory",
+    "productType",
+    "availableColours",
+    "availableSizes",
+    "surfaceFinish",
+    "productDescription",
+    "technicalSpecifications",
+    "requestQuote"
+  ],
+  "pendingNote": "Available colours, dimensions, surface & finish and technical specifications will be confirmed with verified product data after production validation.",
+  "products": [
+    {
+      "number": "01",
+      "sku": "FL-SQ",
+      "productName": "Square Terracotta Tiles",
+      "shortName": "Square Tiles",
+      "productCategory": "floor-tiles",
+      "productType": "Square Tiles",
+      "url": "/products/square-terracotta-tiles/",
+      "productDescription": "Discover the timeless simplicity of square terracotta tiles. Their balanced geometry and natural clay character offer a versatile foundation for traditional and contemporary architectural spaces.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Square Terracotta Tiles | Natural Clay Flooring",
+      "suggestedApplications": "Interior floors in residential, hospitality and commercial spaces."
+    },
+    {
+      "number": "02",
+      "sku": "FL-RE",
+      "productName": "Rectangle Terracotta Tiles",
+      "shortName": "Rectangle Tiles",
+      "productCategory": "floor-tiles",
+      "productType": "Rectangle Tiles",
+      "url": "/products/rectangle-terracotta-tiles/",
+      "productDescription": "Explore rectangle terracotta tiles for classic and contemporary floors. Their elongated format supports linear, staggered and patterned layouts with the natural warmth of clay.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Rectangle Terracotta Tiles | TERRACOTTA",
+      "suggestedApplications": "Interior floors where linear or patterned layouts are planned."
+    },
+    {
+      "number": "03",
+      "sku": "OUT-BR",
+      "productName": "Terracotta Brick Tiles",
+      "shortName": "Brick Tiles",
+      "productCategory": "outdoor-tiles",
+      "productType": "Brick Tiles",
+      "url": "/products/terracotta-brick-tiles/",
+      "productDescription": "Discover terracotta brick tiles in long, narrow formats. Their traditional proportions bring rhythm and texture to patios, paths and architectural landscapes.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Terracotta Brick Tiles | Outdoor Clay Formats",
+      "suggestedApplications": "Outdoor floors, paths and terraces."
+    },
+    {
+      "number": "04",
+      "sku": "OUT-PV",
+      "productName": "Terracotta Pavers",
+      "shortName": "Pavers",
+      "productCategory": "outdoor-tiles",
+      "productType": "Pavers",
+      "url": "/products/terracotta-pavers/",
+      "productDescription": "Explore terracotta paving formats for patios, courtyards and outdoor living spaces. Natural earthy tones create a visual connection between architecture and landscape.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Terracotta Pavers | Natural Outdoor Paving",
+      "suggestedApplications": "Gardens, verandas, patios, courtyards and terraces."
+    },
+    {
+      "number": "05",
+      "sku": "PL-SR",
+      "productName": "Pool Surround Tiles",
+      "shortName": "Pool Surround",
+      "productCategory": "pool-tiles",
+      "productType": "Pool Surround",
+      "url": "/products/pool-surround-tiles/",
+      "productDescription": "Explore terracotta surfaces for the area around the pool. Natural clay tones help create calm, cohesive poolside environments that connect water, architecture and landscape.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Terracotta Pool Surround Tiles | TERRACOTTA",
+      "suggestedApplications": "The floor area surrounding swimming pools."
+    },
+    {
+      "number": "06",
+      "sku": "PL-CP",
+      "productName": "Pool Coping",
+      "shortName": "Pool Coping",
+      "productCategory": "pool-tiles",
+      "productType": "Pool Coping",
+      "url": "/products/pool-coping/",
+      "productDescription": "Discover terracotta coping elements that finish the edge of the pool. A complementary detail that frames the water and completes the poolside surface.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Terracotta Pool Coping | Architectural Details",
+      "suggestedApplications": "Pool edges and coping details."
+    },
+    {
+      "number": "07",
+      "sku": "DEC-HX",
+      "productName": "Hexagon Terracotta Tiles",
+      "shortName": "Hexagon Tiles",
+      "productCategory": "decorative-tiles",
+      "productType": "Hexagon Tiles",
+      "url": "/products/hexagon-terracotta-tiles/",
+      "productDescription": "Bring geometric character into your space with hexagon terracotta tiles. Their distinctive shape creates opportunities for expressive and contemporary surface compositions.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Hexagon Terracotta Tiles | Geometric Clay Designs",
+      "suggestedApplications": "Feature floors and walls with geometric compositions."
+    },
+    {
+      "number": "08",
+      "sku": "DEC-RL",
+      "productName": "Decorative Relief Tiles",
+      "shortName": "Relief Tiles",
+      "productCategory": "decorative-tiles",
+      "productType": "Relief Tiles",
+      "url": "/products/decorative-relief-tiles/",
+      "productDescription": "Discover decorative relief tiles with embossed, textured and patterned surfaces. Light and shadow bring out the depth of the clay and the character of each design.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Decorative Relief Tiles | TERRACOTTA",
+      "suggestedApplications": "Feature walls and decorative surfaces."
+    },
+    {
+      "number": "09",
+      "sku": "WL-CL",
+      "productName": "Terracotta Wall Cladding",
+      "shortName": "Wall Cladding",
+      "productCategory": "wall-tiles",
+      "productType": "Wall Cladding",
+      "url": "/products/terracotta-wall-cladding/",
+      "productDescription": "Bring the warmth of natural clay to architectural walls with terracotta wall cladding. A surface of depth and texture for interior and exterior wall concepts.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Terracotta Wall Cladding | Natural Clay Surfaces",
+      "suggestedApplications": "Interior and exterior walls."
+    },
+    {
+      "number": "10",
+      "sku": "WL-CA",
+      "productName": "Custom Artisan Tiles",
+      "shortName": "Custom Artisan Tiles",
+      "productCategory": "wall-tiles",
+      "productType": "Custom Artisan",
+      "url": "/products/custom-artisan-tiles/",
+      "productDescription": "Explore individually developed terracotta designs for projects requiring distinctive forms, dimensions and decorative details. Contact our team to discuss your project requirements.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Custom Artisan Tiles | TERRACOTTA",
+      "suggestedApplications": "Projects that require specific forms, dimensions or decorative details."
+    },
+    {
+      "number": "11",
+      "sku": "ST-TR",
+      "productName": "Terracotta Stair Treads",
+      "shortName": "Stair Treads",
+      "productCategory": "steps-copings",
+      "productType": "Stair Treads",
+      "url": "/products/terracotta-stair-treads/",
+      "productDescription": "Discover terracotta stair treads that continue the character of natural clay from floor to step. A complementary element for coordinated stairs and level changes.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Terracotta Stair Treads | Architectural Details",
+      "suggestedApplications": "Stairs and steps."
+    },
+    {
+      "number": "12",
+      "sku": "ST-SK",
+      "productName": "Terracotta Skirting",
+      "shortName": "Skirting",
+      "productCategory": "steps-copings",
+      "productType": "Skirting",
+      "url": "/products/terracotta-skirting/",
+      "productDescription": "Complete floors with terracotta skirting. A finishing element that creates a clean, coordinated transition between floor and wall.",
+      "availableColours": null,
+      "availableSizes": null,
+      "surfaceFinish": null,
+      "technicalSpecifications": null,
+      "requestQuote": "/request-a-quote/",
+      "metaTitle": "Terracotta Skirting | Clay Finishing Elements",
+      "suggestedApplications": "Floor-to-wall transitions."
+    }
+  ],
+  "siteUrl": "https://terracottaceramictiles.com"
+}
