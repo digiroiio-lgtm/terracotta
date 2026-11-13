@@ -1,15 +1,23 @@
 #!/usr/bin/env python3
-"""Generate TERRACOTTA content pages from data/products.json.
+"""Build the TERRACOTTA website.
 
-The page shell (head, header, mega menu, pre-footer, footer) is taken from
-index.html so every page keeps the existing design. Only existing components
-and CSS classes are used. Run from anywhere:  python3 site/tools/build_pages.py
+Sources
+  templates/home.html   English homepage; its head, header, mega menu, pre-footer
+                        and footer are the shell of every page (existing design).
+  data/products.json    categories, products, colours, SEO titles.
+  data/i18n.json        translations (keys are the English strings) and markets.
+
+Output
+  /en/, /de/, /fr/ ... one folder per active language with every page, plus a
+  root index.html that sends visitors to their language, sitemap.xml and robots.txt.
+  Run from anywhere:  python3 site/tools/build_pages.py
 """
 import hashlib, html, json, os, re
 
 SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = json.load(open(os.path.join(SITE, 'data/products.json'), encoding='utf-8'))
-INDEX = open(os.path.join(SITE, 'index.html'), encoding='utf-8').read()
+INDEX = open(os.path.join(SITE, 'templates/home.html'), encoding='utf-8').read()
+I18N = json.load(open(os.path.join(SITE, 'data/i18n.json'), encoding='utf-8'))
 SITEURL = D['siteUrl'].rstrip('/')
 CATS = D['categories']
 PRODS = D['products']
@@ -89,9 +97,9 @@ def field(name, label, kind='text', options=None, required=False, half=True, mul
         opts = '<option value="">' + e(label) + star + '</option>'
         for o in options:
             if isinstance(o, tuple):
-                opts += f'<optgroup label="{e(o[0])}">' + ''.join(f'<option>{e(x)}</option>' for x in o[1]) + '</optgroup>'
+                opts += f'<optgroup label="{e(o[0])}">' + ''.join(f'<option value="{e(x)}">{e(x)}</option>' for x in o[1]) + '</optgroup>'
             else:
-                opts += f'<option>{e(o)}</option>'
+                opts += f'<option value="{e(o)}">{e(o)}</option>'
         ctl = f'<select class="form-select" id="f-{name}" name="{name}" aria-label="{e(label)}" data-fs-field{req}>{opts}</select>'
     elif kind == 'textarea':
         ctl = f'<textarea class="form-control" id="f-{name}" name="{name}" placeholder="{e(label)}{star}" aria-label="{e(label)}" data-fs-field{req}></textarea>'
@@ -107,7 +115,6 @@ def form_block(path, i, form_id, intro, fields, cta, subject, form_type, success
     """Form posted to Formspree. Works as a plain HTML POST without JavaScript;
     with JavaScript the @formspree/ajax library submits it in place and shows the messages."""
     enc = f' enctype="{enctype}"' if enctype else ''
-    prefix = '../' * (path.strip('/').count('/') + 1)
     return f'''<div class="ae-section ae-text-block ae-bg-grey" id="{bid(path, i)}">
     <div class="ae-container ae-animate">
         <div class="ae-generic-text-container">
@@ -117,7 +124,8 @@ def form_block(path, i, form_id, intro, fields, cta, subject, form_type, success
                 <div data-fs-error></div>
                 <form class="row" id="{form_id}" method="POST" action="{FORMSPREE_URL}"{enc}>
                     <input type="hidden" name="_subject" value="{e(subject)}">
-                    <input type="hidden" name="form_type" value="{e(form_type)}">{''.join(fields)}
+                    <input type="hidden" name="form_type" value="{e(form_type)}">
+                    <input type="hidden" name="language" value="en">{''.join(fields)}
                     <div class="col-12 ae-form-buttons"><button type="submit" class="btn btn-outline-primary" data-fs-submit-btn>{cta}</button></div>
                 </form>
             </div>
@@ -128,7 +136,7 @@ def form_block(path, i, form_id, intro, fields, cta, subject, form_type, success
     window.formspree = window.formspree || function () {{ (formspree.q = formspree.q || []).push(arguments); }};
     formspree('initForm', {{ formElement: '#{form_id}', formId: '{FORMSPREE_ID}' }});
 </script>
-<script src="{prefix}{FORMSPREE_JS}" defer></script>
+<script src="{FORMSPREE_JS}" defer></script>
 '''
 
 
@@ -146,8 +154,6 @@ def page(path, title, desc, h1, body, schema, template='ae-template-genericpage'
         j = body.rfind(' ae-border-bottom', 0, i)
         if j > 0:
             body = body[:j] + body[j + len(' ae-border-bottom'):]
-    depth = path.strip('/').count('/') + 1
-    prefix = '../' * depth
     head = HEAD
     head = re.sub(r'<title>.*?</title>', f'<title>{e(title)}</title>', head, flags=re.S)
     head = re.sub(r'(<meta name="description" content=")[^"]*', r'\g<1>' + e(desc).replace('\\', r'\\'), head)
@@ -166,13 +172,11 @@ def page(path, title, desc, h1, body, schema, template='ae-template-genericpage'
 </header>
             <main id="main-content">
 ''' + body + '</main>\n' + TAIL)
-    doc = prefix_assets(doc, prefix)
-    out = os.path.join(SITE, path.strip('/'), 'index.html')
-    os.makedirs(os.path.dirname(out), exist_ok=True)
-    open(out, 'w', encoding='utf-8').write(doc)
+    DOCS[path] = (doc, robots)
     return path
 
 
+DOCS = {}
 built = []
 colour_names = ', '.join(c['name'] for c in COLS)
 
@@ -375,82 +379,192 @@ LEGAL = [('/privacy-policy/', 'Privacy Policy'), ('/legal-notice/', 'Legal Notic
          ('/general-sales-conditions/', 'General Sales Conditions'), ('/accessibility-statement/', 'Accessibility Statement'),
          ('/ethics-and-compliance/', 'Ethics and Compliance')]
 for path, name in LEGAL:
-    b = text_block(path, 0, None, [f'The TERRACOTTA {name.lower()} will be published here before the website goes live.',
+    b = text_block(path, 0, None, ['This page will be published here before the website goes live.',
                                    'For any questions in the meantime, please contact our team.'], ctas=[('Contact Us', '/contacts/')])
     page(path, f'{name} | TERRACOTTA', f'{name} of TERRACOTTA | The Art of Earth.', name, b,
          [{"@type": "WebPage", "name": name, "url": SITEURL + path}, crumbs([(name, path)])], robots='noindex, follow')
 
-# ------------------------------------------------------------------ language homepages
-I18N = json.load(open(os.path.join(SITE, 'data/i18n.json'), encoding='utf-8'))
-LANGS = ['en'] + list(I18N['languages'])
+# ------------------------------------------------------------------ homepage (English source)
+DOCS['/'] = (INDEX, 'index, follow')
+
+# ------------------------------------------------------------------ languages
+LANGS = I18N['active']                      # e.g. ['en', 'de', 'fr']
 MKT = I18N['markets']
-home = lambda l: SITEURL + ('/' if l == 'en' else f'/{l}/')
-HREFLANG = ''.join(f'\n\t<link rel="alternate" hreflang="{code}" href="{home(l)}"/>'
-                   for l in LANGS for code in [l] + MKT[l]['regions']) + f'\n\t<link rel="alternate" hreflang="x-default" href="{SITEURL}/"/>'
-
-
-def add_hreflang(doc):
-    doc = re.sub(r'\s*<link rel="alternate" hreflang="[^"]*" href="[^"]*"/>', '', doc)
-    return re.sub(r'(<link rel="canonical" href="[^"]*"/>)', lambda m: m.group(1) + HREFLANG, doc, count=1)
-
-
-open(os.path.join(SITE, 'index.html'), 'w', encoding='utf-8').write(add_hreflang(INDEX))
 T, HT = I18N['strings'], I18N['html']
 norm = lambda t: re.sub(r'\s+', ' ', html.unescape(t)).strip()
+url = lambda lang, path: f'{SITEURL}/{lang}{path}'
+MISSING = {}
+
+
+KEEP = set(I18N.get('keep', []))
+PATTERNS = I18N.get('patterns', {})
+TRANSLATED = {l: {norm(v[l]) for v in T.values() if l in v} | {norm(x) for v in HT.values() if l in v for x in re.split(r'<[^>]+>', v[l])} for l in LANGS}
+SKU = re.compile(r'^[A-Z]{2,3}-[A-Z]{2}$')
+
+
+def tr(text, lang):
+    """Translate one English string (exact match, then patterns); record missing ones."""
+    key = norm(text)
+    if lang == 'en' or not key or key in KEEP or SKU.match(key):
+        return None
+    if key in T and lang in T[key]:
+        return T[key][lang]
+    if key in TRANSLATED.get(lang, ()):
+        return None
+    m = re.match(r'^(\d\d)\. (.+)$', key)
+    if m:
+        inner = tr(m.group(2), lang)
+        return f'{m.group(1)}. {inner}' if inner else None
+    for tpl, tl in PATTERNS.items():
+        m = re.match('^' + re.escape(tpl).replace(re.escape('{}'), '(.+)') + '$', key)
+        if m and lang in tl:
+            g = m.group(1)
+            inner = tr(g, lang) or (g if (g in KEEP or SKU.match(g)) else None)
+            if inner is not None:
+                return tl[lang].replace('{}', inner)
+    if re.search('[A-Za-z]', key):
+        MISSING.setdefault(lang, set()).add(key)
+    return None
 
 
 def translate(doc, lang):
-    for en, tr in HT.items():
+    if lang == 'en':
+        return doc
+    for en, t in HT.items():
         if en in doc:
-            doc = doc.replace(en, tr[lang])
+            doc = doc.replace(en, t[lang])
 
     def text(m):
-        raw = m.group(1); key = norm(raw)
-        if key in T:
-            lead = raw[:len(raw) - len(raw.lstrip())]; trail = raw[len(raw.rstrip()):]
-            return '>' + lead + html.escape(T[key][lang], quote=False) + trail + '<'
-        return m.group(0)
+        raw = m.group(1); t = tr(raw, lang)
+        if t is None:
+            return m.group(0)
+        lead = raw[:len(raw) - len(raw.lstrip())]; trail = raw[len(raw.rstrip()):]
+        return '>' + lead + html.escape(t, quote=False) + trail + '<'
 
     def attr(m):
-        key = norm(m.group(2))
-        return f' {m.group(1)}="{e(T[key][lang])}"' if key in T else m.group(0)
+        t = tr(m.group(2), lang)
+        return m.group(0) if t is None else f' {m.group(1)}="{e(t)}"'
     head, body = doc[:doc.index('<body')], doc[doc.index('<body'):]
-    parts = re.split(r'(<script.*?</script>)', body, flags=re.S)
-    parts = [x if x.startswith('<script') else re.sub(r'\s(title|placeholder|aria-label)="([^"]*)"', attr, re.sub(r'>([^<>]+)<', text, x)) for x in parts]
-    head = re.sub(r'(<meta (?:name="description"|property="og:description") content=")([^"]*)',
-                  lambda m: m.group(1) + (e(T[norm(m.group(2))][lang]) if norm(m.group(2)) in T else m.group(2)), head)
+    parts = re.split(r'(<script.*?</script>|<option value="[^"]*")', body, flags=re.S)
+    parts = [x if x.startswith('<script') or x.startswith('<option') else
+             re.sub(r'\s(title|placeholder|aria-label|label)="([^"]*)"', attr, re.sub(r'>([^<>]+)<', text, x)) for x in parts]
+
+    def meta(m):
+        t = tr(m.group(2), lang)
+        return m.group(0) if t is None else m.group(1) + e(t)
+    head = re.sub(r'(<meta (?:name="description"|property="og:description"|property="og:title") content=")([^"]*)', meta, head)
+    head = re.sub(r'(<title>)(.*?)(?=</title>)', lambda m: m.group(1) + (e(tr(m.group(2), lang)) if tr(m.group(2), lang) else m.group(2)), head, flags=re.S)
+
+    def ld(m):
+        data = json.loads(m.group(1))
+
+        def walk(o, k=None):
+            if isinstance(o, dict):
+                return {kk: walk(v, kk) for kk, v in o.items()}
+            if isinstance(o, list):
+                return [walk(v, k) for v in o]
+            if isinstance(o, str) and k in ('name', 'description', 'category'):
+                return tr(o, lang) or o
+            return o
+        return '<script type="application/ld+json">' + json.dumps(walk(data), ensure_ascii=False) + '</script>'
+    head = re.sub(r'<script type="application/ld\+json">(.*?)</script>', ld, head, flags=re.S)
     return head + ''.join(parts)
 
 
-for lang in I18N['languages']:
-    path = f'/{lang}/'
-    doc = translate(INDEX, lang)
+def hreflang(path):
+    out = ''
+    for l in LANGS:
+        for code in MKT[l]['hreflang']:
+            out += f'\n\t<link rel="alternate" hreflang="{code}" href="{url(l, path)}"/>'
+    return out + f'\n\t<link rel="alternate" hreflang="x-default" href="{SITEURL}/"/>'
+
+
+def localize(doc, lang, path, robots):
     doc = doc.replace('<html lang="en">', f'<html lang="{lang}">', 1)
+    # internal links -> language folder (sitemap and language menu are handled separately)
+    doc = re.sub(r'href="/(?!/)(?!sitemap\.xml)([^"]*)"', lambda m: f'href="/{lang}/{m.group(1)}"', doc)
+    # language menu: same page in every active language, inactive languages removed
+    doc = re.sub(r'\s*<li>\s*<a class="dropdown-item[^>]*>(\w\w)</a>\s*</li>', lambda m: m.group(0) if m.group(1) in LANGS else '', doc)
+    doc = re.sub(r'\s*<a class="nav-link text-uppercase(?: active)?"\s*href="[^"]*">(\w\w)</a>', lambda m: m.group(0) if m.group(1) in LANGS else '', doc)
+
+    def langlink(m):
+        cls, code = m.group(1), m.group(3)
+        cls = cls.replace(' active', '') + (' active' if code == lang else '')
+        return f'{cls}"\n{m.group(2)}href="/{code}{path}">{code}</a>'
+    doc = re.sub(r'(class="(?:dropdown-item|nav-link) text-uppercase(?: active)?)"\s*\n(\s*)href="[^"]*">(\w\w)</a>', langlink, doc)
+    doc = doc.replace('ae-dropdown-toggle">en</button>', f'ae-dropdown-toggle">{lang}</button>')
+    # head: canonical, hreflang, og:locale, structured data urls
+    doc = re.sub(r'\s*<link rel="alternate" hreflang="[^"]*"[^>]*>', '', doc)
+    doc = re.sub(r'\s*<link rel="canonical"[^>]*>', '', doc)
+    doc = doc.replace(f'<meta name="robots" content="{robots}"/>',
+                      f'<meta name="robots" content="{robots}"/>\n\t<link rel="canonical" href="{url(lang, path)}"/>' + hreflang(path), 1)
     loc = f'<meta property="og:locale" content="{MKT[lang]["ogLocale"]}"/>' + ''.join(
         f'\n\t<meta property="og:locale:alternate" content="{a}"/>' for a in MKT[lang].get('ogLocaleAlternate', []))
     doc = re.sub(r'<meta property="og:locale" content="[^"]*"/>', loc, doc, count=1)
-    if lang in I18N.get('titles', {}):
+    doc = re.sub(r'<script type="application/ld\+json">(.*?)</script>', lambda m: '<script type="application/ld+json">' + re.sub(
+        re.escape(SITEURL) + r'(/[^"#]*)(?=")', lambda u: url(lang, u.group(1)), m.group(1)) + '</script>', doc, flags=re.S)
+    if path == '/' and lang in I18N.get('titles', {}):
         t = e(I18N['titles'][lang])
         doc = re.sub(r'<title>.*?</title>', f'<title>{t}</title>', doc, count=1, flags=re.S)
         doc = re.sub(r'(<meta property="og:title" content=")[^"]*', r'\g<1>' + t, doc, count=1)
-    doc = re.sub(r'<link rel="canonical" href="[^"]*"/>', f'<link rel="canonical" href="{SITEURL}{path}"/>', doc, count=1)
-    doc = re.sub(r'<script type="application/ld\+json">.*?</script>', lambda m: '<script type="application/ld+json">' + json.dumps(
-        {"@context": "https://schema.org", "@type": "WebPage", "name": "TERRACOTTA | The Art of Earth", "url": SITEURL + path, "inLanguage": lang,
-         "isPartOf": {"@id": SITEURL + "/#website"}}, ensure_ascii=False) + '</script>', doc, count=1, flags=re.S)
-    doc = add_hreflang(doc)
-    doc = doc.replace('<a class="ae-header-logo" aria-label="Homepage" href="/"', f'<a class="ae-header-logo" aria-label="Homepage" href="{path}"')
-    doc = re.sub(r'(<a class="ae-header-logo" aria-label=")[^"]*(" href="{0}")'.format(re.escape(path)), r'\g<1>' + e(T['Homepage'][lang]) + r'\g<2>', doc)
-    doc = doc.replace('ae-dropdown-toggle">en</button>', f'ae-dropdown-toggle">{lang}</button>')
-    doc = re.sub(r'(class="(?:dropdown-item|nav-link) text-uppercase) active("\s*href="/">en</a>)', r'\1\2', doc)
-    doc = re.sub(r'(class="(?:dropdown-item|nav-link) text-uppercase)("\s*href="/{0}/">{0}</a>)'.format(lang), r'\1 active\2', doc)
-    doc = prefix_assets(doc, '../')
-    os.makedirs(os.path.join(SITE, lang), exist_ok=True)
-    open(os.path.join(SITE, lang, 'index.html'), 'w', encoding='utf-8').write(doc)
-    built.append(path)
+    if path == '/' and lang != 'en':
+        doc = re.sub(r'(<a class="ae-header-logo" aria-label=")[^"]*', r'\g<1>' + e(T['Homepage'][lang]), doc, count=1)
+    # search and forms
+    doc = doc.replace('name="as_sitesearch" value="terracottaceramictiles.com"', f'name="as_sitesearch" value="terracottaceramictiles.com/{lang}"')
+    doc = doc.replace('q=site%3Aterracottaceramictiles.com"', f'q=site%3Aterracottaceramictiles.com%2F{lang}"')
+    doc = doc.replace('<input type="hidden" name="language" value="en">', f'<input type="hidden" name="language" value="{lang}">')
+    depth = path.strip('/').count('/') + (2 if path != '/' else 1)
+    return prefix_assets(doc, '../' * depth)
+
+
+# ------------------------------------------------------------------ write pages
+for lang in LANGS:
+    for path, (doc, robots) in DOCS.items():
+        out = os.path.join(SITE, lang, path.strip('/'), 'index.html')
+        os.makedirs(os.path.dirname(out), exist_ok=True)
+        open(out, 'w', encoding='utf-8').write(localize(translate(doc, lang), lang, path, robots))
+
+# ------------------------------------------------------------------ root: send visitors to their language
+names = {l: MKT[l]['name'] for l in LANGS}
+links = ''.join(f'<li><a href="/{l}/" hreflang="{l}" lang="{l}">{names[l]}</a></li>' for l in LANGS)
+open(os.path.join(SITE, 'index.html'), 'w', encoding='utf-8').write(f'''<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TERRACOTTA | The Art of Earth</title>
+<meta name="description" content="TERRACOTTA | The Art of Earth. Choose your language.">{hreflang('/')}
+<script>
+(function () {{
+  var langs = {json.dumps(LANGS)}, prefs = navigator.languages || [navigator.language || 'en'];
+  for (var i = 0; i < prefs.length; i++) {{
+    var l = (prefs[i] || '').slice(0, 2).toLowerCase();
+    if (langs.indexOf(l) > -1) {{ location.replace('/' + l + '/'); return; }}
+  }}
+  location.replace('/en/');
+}})();
+</script>
+<noscript><meta http-equiv="refresh" content="0; url=/en/"></noscript>
+</head>
+<body style="font-family:sans-serif;margin:2rem">
+<p>TERRACOTTA | The Art of Earth</p>
+<ul>{links}</ul>
+</body>
+</html>
+''')
 
 # ------------------------------------------------------------------ sitemap + robots
-urls = ['/'] + built
-open(os.path.join(SITE, 'sitemap.xml'), 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
-                                                    + ''.join(f'  <url><loc>{SITEURL}{u}</loc></url>\n' for u in urls) + '</urlset>\n')
+indexable = [p for p, (d, r) in DOCS.items() if r.startswith('index')]
+open(os.path.join(SITE, 'sitemap.xml'), 'w').write(
+    '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n'
+    + ''.join(f'  <url><loc>{url(l, p)}</loc>' + ''.join(
+        f'<xhtml:link rel="alternate" hreflang="{c}" href="{url(x, p)}"/>' for x in LANGS for c in MKT[x]['hreflang'])
+        + '</url>\n' for l in LANGS for p in indexable) + '</urlset>\n')
 open(os.path.join(SITE, 'robots.txt'), 'w').write(f'User-agent: *\nAllow: /\n\nSitemap: {SITEURL}/sitemap.xml\n')
-print(len(built), 'pages built')
+
+print(f'{len(DOCS)} pages x {len(LANGS)} languages built')
+if MISSING:
+    json.dump({l: sorted(v) for l, v in MISSING.items()}, open(os.path.join(SITE, 'data/i18n-missing.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    print('missing translations:', {l: len(v) for l, v in MISSING.items()}, '-> data/i18n-missing.json')
+elif os.path.exists(os.path.join(SITE, 'data/i18n-missing.json')):
+    os.remove(os.path.join(SITE, 'data/i18n-missing.json'))
