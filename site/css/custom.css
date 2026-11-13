@@ -949,3 +949,26 @@ html[lang="ru"] iframe[src*="newsletter"] {
         object-fit: contain!important
     }
 }
+
+/* TERRACOTTA logo size */
+header .ae-header-menu .ae-header-logo,
+header .ae-header-menu .ae-header-logo.ae-smart {
+    height: 48px;
+    width: 214px
+}
+
+@media(max-width: 1299.98px) {
+    header .ae-header-menu .ae-header-logo,
+    header .ae-header-menu .ae-header-logo.ae-smart {
+        height: 48px;
+        width: 214px
+    }
+}
+
+@media(max-width: 991.98px) {
+    header .ae-header-menu .ae-header-logo,
+    header .ae-header-menu .ae-header-logo.ae-smart {
+        height: 48px;
+        width: 214px
+    }
+}
