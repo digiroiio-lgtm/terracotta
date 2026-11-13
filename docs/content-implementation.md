@@ -9,7 +9,7 @@ Phase: content, product data and SEO only. No images, CSS, layout or behaviour w
 - `site/data/i18n.json` – translations (keys are the English strings), `active` languages, markets and hreflang codes.
 - `site/tools/build_pages.py` – builds every page in every active language. Run `python3 site/tools/build_pages.py` after any change.
   If a translation is missing, the build lists it in `site/data/i18n-missing.json`.
-- Output: `/en/`, `/de/`, `/fr/`, `/nl/`, `/ko/`, `/ar/` (one folder per language), root `index.html` (sends visitors to their browser language, otherwise `/en/`), `sitemap.xml` (with hreflang), `robots.txt`.
+- Output: `/en/`, `/de/`, `/fr/`, `/nl/`, `/ko/`, `/ar/`, `/tr/` (one folder per language), root `index.html` (sends visitors to their browser language, otherwise `/en/`), `sitemap.xml` (with hreflang), `robots.txt`.
 
 ## Language architecture
 
@@ -21,6 +21,7 @@ Phase: content, product data and SEO only. No images, CSS, layout or behaviour w
 | Dutch | /nl/ | nl, nl-NL | P2 | Live, all pages translated |
 | Korean | /ko/ | ko, ko-KR | P2 | Live, all pages translated; Korean text uses word-based line breaks (`custom.css`). Hangul is set in Noto Sans KR (`css/fonts-ko.css`, self-hosted, SIL OFL), declared under the DM Sans name for Korean characters only and loaded on Korean pages only |
 | Arabic | /ar/ | ar, ar-AE | P2 | Live, all pages translated. `dir="rtl"`; `css/rtl.css` keeps the page layout identical to the other languages and runs only text (headings, paragraphs, lists, menus, buttons, forms) right-to-left. Arabic glyphs in Noto Sans Arabic (`css/fonts-ar.css`, SIL OFL) |
+| Turkish | /tr/ | tr, tr-TR | Added | Live, all pages translated |
 | Spanish, Russian | – | – | – | Not in the architecture; translations kept in `i18n.json`, pages not built |
 
 URL slugs stay in English in every language (e.g. `/de/products/terracotta-pavers/`). Page titles, H1s and descriptions carry the local keywords.
@@ -35,6 +36,7 @@ URL slugs stay in English in every language (e.g. `/de/products/terracotta-paver
 | Dutch | Terracotta tegels, Terracotta vloertegels |
 | Korean | 테라코타 타일, 테라코타 바닥 타일 |
 | Arabic | بلاط تيراكوتا، بلاط طيني |
+| Turkish | Terracotta karo, Pişmiş toprak karo |
 
 Search volume and intent should be validated with Keyword Planner.
 
@@ -57,7 +59,7 @@ Search volume and intent should be validated with Keyword Planner.
 
 ## Pages (per language)
 
-Homepage, Product Catalogue, Colour Collection, Custom Artisan Tiles, 6 category pages, 12 product pages, Company, Projects, Magazine, Awards, Contacts, Request a Quote, Technical Information, Materials & Craft, Installation & Care, and 6 legal placeholders (noindex). 37 pages × 6 languages.
+Homepage, Product Catalogue, Colour Collection, Custom Artisan Tiles, 6 category pages, 12 product pages, Company, Projects, Magazine, Awards, Contacts, Request a Quote, Technical Information, Materials & Craft, Installation & Care, and 6 legal placeholders (noindex). 37 pages × 7 languages.
 
 ## Domain
 
