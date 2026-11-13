@@ -74,7 +74,7 @@ Homepage, Product Catalogue, Colour Collection, Custom Artisan Tiles, 6 category
 | Translations | See language architecture above. Colour names stay in English. Form option values are submitted in English; a hidden `language` field tells which language the visitor used. |
 | Projects, Awards, Magazine | No verified projects, awards or articles yet. |
 | Breadcrumbs | Structured data only; the design has no visible breadcrumb component. |
-| Favicon | The former favicon was removed; a TERRACOTTA favicon has not been created yet. |
+| Favicon | TERRACOTTA monogram ("T" from the logo serif on terracotta #B5532F) in `site/assets/brand/`: SVG, ICO, PNG 16/32, Apple touch 180, PWA 192/512 + maskable, `site.webmanifest`. A copy of `favicon.ico` sits at the site root. |
 
 ## Former brand traces removed
 

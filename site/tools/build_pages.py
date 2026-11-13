@@ -542,7 +542,10 @@ open(os.path.join(SITE, 'index.html'), 'w', encoding='utf-8').write(f'''<!doctyp
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>TERRACOTTA | The Art of Earth</title>
-<meta name="description" content="TERRACOTTA | The Art of Earth. Choose your language.">{hreflang('/')}
+<meta name="description" content="TERRACOTTA | The Art of Earth. Choose your language.">
+<link rel="icon" href="/assets/brand/favicon.ico" sizes="48x48">
+<link rel="icon" href="/assets/brand/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png">{hreflang('/')}
 <script>
 (function () {{
   var langs = {json.dumps(LANGS)}, prefs = navigator.languages || [navigator.language || 'en'];
